@@ -7,8 +7,10 @@ description: by Nerando
 ---
 <!-- markdownlint-disable MD022 MD024 MD032 MD033 -->
 
-# 100 Days of Code
+
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
+
+# 100 Days of Code
 
  | this log | [Round 1](https://github.com/Nerajno/100-days-log/blob/master/docs/log2.md)| [Round 2](log3.html) | [Round 3](log4.html) | [Round 4]((log5.html) | [Round 5](log6.html) | [Round 6](log6.html) | [Round 7](log7.html) |
 
