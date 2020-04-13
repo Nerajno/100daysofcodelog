@@ -12,7 +12,7 @@ link_color: '#1a7f6d'
 
 ## 100 Days of Code
 
-| [Round 0](https://nerajno.github.io/100DaysOfCodeLog/log1.html) | this log | [Round 2](log3.html) | [Round 3](log4.html) | [Round 4](log5.html) | [Round 5](log6.html)  | [Round 6](log7.html) | [Round 7](log8.html) |
+| [Round 0](https://nerajno.github.io/100DaysOfCodeLog/log1.md) | this log | [Round 2](log3.html) | [Round 3](log4.html) | [Round 4](log5.html) | [Round 5](log6.html)  | [Round 6](log7.html) | [Round 7](log8.html) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
