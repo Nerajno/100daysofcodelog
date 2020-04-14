@@ -32,7 +32,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+## Final Thoughts
 ---
+I needed to be more confident in myself as it pertained to the job hunt. I also need to block off time to code and work on my discipline.
 
 ## Day 0
 ### Day 0: Sept 30, 2019 - Monday

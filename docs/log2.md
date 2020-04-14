@@ -27,11 +27,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [x] Code for at least 1hr daily.
 - [x] Complete Learning how to learn and make notes. 
-- [ ] Complete Js30.
 - [x] Write blogs according to the requirements of my #Mod6. 
 - [x] Complete my V1 of  my portfolio.
+- [ ] Complete Js30.
 - [ ] Complete Jeleva's project. 
 - [ ] Create a demo of a project using stack of Mobile App Hero. => {React Native, Redux/ React Hooks, Firebase etc}
+
+## Final Thoughts
+---
+Got into a groove to code daily. Liked it and worked on several projects brought them to life. I now need to block a time ( 1hr) and turn it all off daily and work on a specific problem or planned coding issue.
+
 
 # Code Log
 ## 29-34.   Personal Project || Technical Documentation Page || MaxiMillian's React Course 
