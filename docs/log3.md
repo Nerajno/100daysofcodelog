@@ -1,6 +1,6 @@
 ---
-title: 100 Days of Code - Round 3
-description: by [Nerando]
+title: 100 Days of Code - Round 2
+description: by Nerando
 #pg_bk_color: '#e6e8de'
 #header_bk_color: '#1a7f6d'
 #link_color: '#1a7f6d'
