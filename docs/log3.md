@@ -11,7 +11,7 @@ description: by [Nerando]
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
 ## 100 Days of Code
-| [Round 0](https://github.com/Nerajno/100-days-log/blob/master/docs/log1.md) | this log | [Round 2](log3.html) | [Round 3](log4.html) | [Round 4](log5.html) | [Round 5](log6.html)  | [Round 6](log7.html) | [Round 7](log8.html) |
+| [Round 0](https://nerajno.github.io/100DaysOfCodeLog/log1.html) | [Round 1](https://nerajno.github.io/100DaysOfCodeLog/log2.html) | this log | [Round 4](log5.html) | [Round 5](log6.html)  | [Round 6](log7.html) | [Round 7](log8.html) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -20,49 +20,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Today's date  | - - - |
+| April 18, 2020 | July 27, 2020|
 
 ## Goals
 
-- [x] Code daily
-- [ ] Goal 2
-- [ ] Goal 3
+- [x] Code for an hour daily.
+- [ ] Refactor technical documentation. 
+- [ ] Complete Js30.
+- [ ] Complete private project.
+- [ ] Complete JavaScript and Algorithms (freeCodeCamp).
+- [ ] Complete Maximillian's Section 7.
+
 
 # Code Log
 
----
 
-## 1. Sample Entry
-### Day 1: February 26, 2019 - Tuesday
 
-**Project:** Code Log Template
-
-[![new code log](assets/images/day1-small.jpg)](assets/images/day1.jpg)
-
-**Progress:** Created a new GitHub repo for my code log.
-
-This repo is redesigned so that it can be forked and cloned for others to use. I'm still in the process of writing out the README to cover the following areas
-
-- installation
-- usage
-- customization
-- image optimization
-- set-up & testing
-
-**Links:** My GitHub repo [https://github.com/james-priest/100-days-log](https://github.com/james-priest/100-days-log)
-
----
-
-## 2. Entry Title
-### Day 2: Date - Day
-
-**Project:**
-
-**Progress:**
-
-**Links:**
-
----
 
 ## 3. Entry Title
 ### Day 3: Date - Day

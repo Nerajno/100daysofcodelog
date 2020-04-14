@@ -11,7 +11,7 @@ description: by Nerando
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
 # 100 Days of Code
- | this log | [Round 1](https://nerajno.github.io/100DaysOfCodeLog/log2.html)| [Round 2](log3.html) | [Round 3](log4.html) | [Round 4](log5.html) | [Round 5](log6.html) | [Round 6](log6.html) | [Round 7](log7.html) |
+ | this log | [Round 1](https://nerajno.github.io/100DaysOfCodeLog/log2.html)| [Round 2](https://nerajno.github.io/100DaysOfCodeLog/log3.html) | [Round 3](log4.html) | [Round 4](log5.html) | [Round 5](log6.html) | [Round 6](log6.html) | [Round 7](log7.html) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -92,19 +92,3 @@ I needed to be more confident in myself as it pertained to the job hunt. I also 
 + **Progress:** Changed the color scheme and the font.
 + **Progress:** Realised that I over complicated it with too much stuff and its slap dashed together( to much copied and pasted code).
 + **Progress:** Threw it out and started over.
-
-
-
-
-
----
-## 3. Entry Title
-### Day 3: Date - Day
-
-**Project:**
-
-**Progress:**
-
-**Links:**
-
----
