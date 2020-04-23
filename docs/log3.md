@@ -20,7 +20,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| April 18, 2020 | July 27, 2020|
+| April 23, 2020 | August 1, 2020|
 
 ## Goals
 
@@ -37,8 +37,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
-## 3. Entry Title
-### Day 3: Date - Day
+## 1. Entry Title
+### Day 1: Date - Day
 
 **Project:**
 
