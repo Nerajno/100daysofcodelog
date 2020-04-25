@@ -34,7 +34,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+## 2. freeCodeCamp - Technical Documentation Page
+### Day 2: April 24 - Friday
 
+**Project:** freeCodeCamp's Technical Documentation Page
+
+**Progress:**
+Reverted a branch and fixed some css issues
+
+**Links:**
+https://nerajno.github.io/Technical-Documentation-Page/
 
 
 
