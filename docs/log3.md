@@ -37,13 +37,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
-## 1. Entry Title
-### Day 1: Date - Day
 
-**Project:**
+
+## 1. freeCodeCamp
+### Day 1: April 23 - Thursday
+
+**Project:** freeCodeCamp's JavaScript Section - Regex 
 
 **Progress:**
+Completed 6 Challenges which leaves me @ 14/33 in the Regular Expression of the Js section.
 
 **Links:**
-
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt
 ---
