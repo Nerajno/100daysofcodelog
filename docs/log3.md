@@ -32,6 +32,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete Maximillian's Section 7.
 
 
+## 3. freeCodeCamp - Regular Expression
+### Day 3: April 29 - Wednesday
+
+**Project:** freeCodeCamp's Regular Expressions
+
+**Progress:**
+Did 4 challenges and understood 2 of them. (Need to start making written notes).  
+
+**Links:**
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/
+
 # Code Log
 
 ## 2. freeCodeCamp - Technical Documentation Page
@@ -44,7 +55,6 @@ Reverted a branch and fixed some css issues
 
 **Links:**
 https://nerajno.github.io/Technical-Documentation-Page/
-
 
 
 
