@@ -31,6 +31,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete JavaScript and Algorithms (freeCodeCamp).
 - [ ] Complete Maximillian's Section 7.
 
+## Goals Plan B
+- [ ] Refactor technical documentation.
+- [ ] Complete Js30.
+- [ ] Complete Maximillian's Section 7 and make notes
+- [ ] JavaScript {basic-javascript, regular-expressions, data-structures} (freeCodeCamp)
+
+
 ## 4. freeCodeCamp
 ### Day 4: July 13 - Saturday
 
