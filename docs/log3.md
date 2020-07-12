@@ -31,6 +31,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete JavaScript and Algorithms (freeCodeCamp).
 - [ ] Complete Maximillian's Section 7.
 
+## 4. freeCodeCamp
+### Day 4: July 13 - Saturday
+
+**Project:** freeCodeCamp's Debugging
+
+**Progress:**
+Completed all 13 of the debugging challenges.
+
+**Links:**
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/
+---
+
+
+
 
 ## 3. freeCodeCamp - Regular Expression
 ### Day 3: April 29 - Wednesday
