@@ -38,6 +38,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] JavaScript {basic-javascript, regular-expressions, data-structures} (freeCodeCamp)
 
 
+## 5. freeCodeCamp
+### Day 5: July 14 - Sunday
+
+**Project:** freeCodeCamp's Basic Data Structures
+
+**Progress:**
+Completed 8/20 challenges for freeCodeCamp's Basic Data Structures
+Hosted an impromptu meetup for freeCodeCamp Atlanta 
+
+**Links:**
+hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/
+
 ## 4. freeCodeCamp
 ### Day 4: July 13 - Saturday
 
