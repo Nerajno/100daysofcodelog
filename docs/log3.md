@@ -38,8 +38,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] JavaScript {basic-javascript, regular-expressions, data-structures} (freeCodeCamp)
 
 
+## 6. freeCodeCamp
+### Day 6: July 13 - Sunday
+
+**Project:** freeCodeCamp's Basic Data Structures
+
+**Progress:**
+Completed 10/20 challenges for freeCodeCamp's Basic Data Structures
+Stuck on something => Iterate Through All an Array's Items Using For Loops
+
+**Links:**
+hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/
+
+
 ## 5. freeCodeCamp
-### Day 5: July 14 - Sunday
+### Day 5: July 12 - Sunday
 
 **Project:** freeCodeCamp's Basic Data Structures
 
@@ -51,7 +64,7 @@ Hosted an impromptu meetup for freeCodeCamp Atlanta
 hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/
 
 ## 4. freeCodeCamp
-### Day 4: July 13 - Saturday
+### Day 4: July 11 - Saturday
 
 **Project:** freeCodeCamp's Debugging
 
@@ -61,8 +74,6 @@ Completed all 13 of the debugging challenges.
 **Links:**
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/
 ---
-
-
 
 
 ## 3. freeCodeCamp - Regular Expression
