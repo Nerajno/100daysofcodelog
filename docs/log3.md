@@ -37,6 +37,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete Maximillian's Section 7 and make notes
 - [ ] JavaScript {basic-javascript, regular-expressions, data-structures} (freeCodeCamp)
 
+# Code Log
 
 ## 7-8. freeCodeCamp
 ### Day 7-8: July 17 -18 || Friday - Saturday
@@ -99,7 +100,6 @@ Did 4 challenges and understood 2 of them. (Need to start making written notes).
 **Links:**
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/
 
-# Code Log
 
 ## 2. freeCodeCamp - Technical Documentation Page
 ### Day 2: April 24 - Friday
