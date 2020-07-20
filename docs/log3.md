@@ -42,13 +42,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## 9. freeCodeCamp
 ### Day 9: July 19 || Sunday
 
-**Project:** freeCodeCamp's Basic Data Structures ||
+**Project:** freeCodeCamp's Basic Data Structures || Fixed Technical Documentation Page
 
 **Progress:**
 Completed freeCodeCamp's Basic Data Structures
+Decided that the Technical Documentation Page was Sufficient
 
 **Links:**
 hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/
+https://nerajno.github.io/Technical-Documentation-Page/
 
 ## 7-8. freeCodeCamp
 ### Day 7-8: July 17 -18 || Friday - Saturday
