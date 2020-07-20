@@ -39,6 +39,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+## 9. freeCodeCamp
+### Day 9: July 19 || Sunday
+
+**Project:** freeCodeCamp's Basic Data Structures ||
+
+**Progress:**
+Completed freeCodeCamp's Basic Data Structures
+
+**Links:**
+hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/
+
 ## 7-8. freeCodeCamp
 ### Day 7-8: July 17 -18 || Friday - Saturday
 
