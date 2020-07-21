@@ -39,6 +39,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+## 10. freeCodeCamp
+### Day 10: July 20|| Monday
+
+**Project:** Object Oriented Programming
+
+**Progress:** Completed 1-7 of the Object Oriented Programming Challenges
+
+
+**Links:**
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/
+
 ## 9. freeCodeCamp
 ### Day 9: July 19 || Sunday
 
@@ -46,10 +57,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 Completed freeCodeCamp's Basic Data Structures
-Decided that the Technical Documentation Page was Sufficient
+Decided that the Technical Documentation Page was Sufficient.
 
 **Links:**
-hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/
 https://nerajno.github.io/Technical-Documentation-Page/
 
 ## 7-8. freeCodeCamp
