@@ -39,6 +39,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+
+## 12. freeCodeCamp
+### Day 12: July 22|| Wednesday
+
+**Project:** Object Oriented Programming
+
+**Progress:** Completed 12-15 of the Object Oriented Programming Challenges
+
+**Links:**
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/
+
 ## 11. freeCodeCamp
 ### Day 11: July 21|| Tuesday
 
