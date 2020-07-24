@@ -38,6 +38,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] JavaScript {basic-javascript, regular-expressions, data-structures} (freeCodeCamp)
 
 # Code Log
+## 13. freeCodeCamp
+### Day 13: July 23|| Thursday
+
+**Project:** Object Oriented Programming
+
+**Progress:** Completed all of the Object Oriented Programming Challenges
+
+**Links:**
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/
 
 
 ## 12. freeCodeCamp
