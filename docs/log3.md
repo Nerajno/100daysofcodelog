@@ -38,6 +38,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] JavaScript {basic-javascript, regular-expressions, data-structures} (freeCodeCamp)
 
 # Code Log
+## 14. freeCodeCamp
+### Day 14: July 28|| Tuesday
+
+**Project:** Hodge Podge of Freecode Camp Javascript
+
+**Progress:** Comnpleted One Section
+
+**Links:**
+https://www.freecodecamp.org/nerajno
+
 ## 13. freeCodeCamp
 ### Day 13: July 23|| Thursday
 
