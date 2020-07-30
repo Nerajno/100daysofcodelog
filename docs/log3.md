@@ -32,10 +32,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete Maximillian's Section 7.
 
 ## Goals Plan B
-- [ ] Refactor technical documentation.
+- [x] Refactor technical documentation.
 - [ ] Complete Js30.
 - [ ] Complete Maximillian's Section 7 and make notes
 - [ ] JavaScript {basic-javascript, regular-expressions, data-structures} (freeCodeCamp)
+
+# Code Log
+## 15 && 16. freeCodeCamp
+### Day 15 and 16: July 29 and 30 || Wednesday and Thursday
+
+**Project:** FreecodeCamp Javascript's Regex Section
+
+**Progress:** Comnpleted Regex Section watching videos when stuck.
+
+**Links:**
+https://www.freecodecamp.org/nerajno
 
 # Code Log
 ## 14. freeCodeCamp
