@@ -11,7 +11,7 @@ description: by Nerando
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
 ## 100 Days of Code
-| [Round 0](https://nerajno.github.io/100DaysOfCodeLog/log1.html) | [Round 1](https://nerajno.github.io/100DaysOfCodeLog/log2.html) | [Round 2](https://nerajno.github.io/100DaysOfCodeLog/log23.html) |this log | [Round 4](log5.html) | [Round 5](log6.html)  | [Round 6](log7.html) | [Round 7](log8.html) |
+| [Round 0](https://nerajno.github.io/100DaysOfCodeLog/log1.html) | [Round 1](https://nerajno.github.io/100DaysOfCodeLog/log2.html) | [Round 2](https://nerajno.github.io/100DaysOfCodeLog/log3.html) |this log | [Round 4](log5.html) | [Round 5](log6.html)  | [Round 6](log7.html) | [Round 7](log8.html) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -33,14 +33,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
+# Code Log
 
-## 0. Entry Title
+## 0. FreeCodeCamp 
 ### Day 0 Date August 3,2020 - Monday
 
-**Project:**
+**Project:** FreecodeCamp Javascript Algorithms and 100DaysOfCodeLogSetup
 
 **Progress:**
+- [ ] Completed Basic Algorithm Scripting: Finders Keepers.
+- [ ] Revamp 100DaysOfCodeLog and Double check all the links.
 
 **Links:**
-
-
+Github Log => https://nerajno.github.io/100DaysOfCodeLog/log4.html
+https://www.freecodecamp.org/nerajno
