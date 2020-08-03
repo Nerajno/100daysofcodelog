@@ -3,7 +3,8 @@
 My Log... make it happen. 
 
 # 100 Days of Code Log
-This is part of Alexander Kallaway's [100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code). Details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/).
+This is part of Alexander Kallaway's [100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code). 
+Details about this challenge can be found here: [100daysofcode.com](http://100daysofcode.com/).
 
 Below are my code logs for each round of this challenge.
 
@@ -12,7 +13,7 @@ Below are my code logs for each round of this challenge.
 | [Round 0](log1.html) | Sept 29, 2019 | 	Aborted |
 | [Round 1](log2.html) | Dec 31, 2019  | April 9, 2020  |
 | [Round 2](log3.html) | April 23, 2020  | August 1, 2020  |
-| [Round 3](log5.html)| - - -  | - - -  |
+| [Round 3](log5.html)| August 3,2020 | Nov 11, 2020 |
 | [Round 4](log5.html) | - - -  | - - -  |
 | [Round 5](log5.html) | - - -  | - - -  |
 | [Round 6](log6.html) | - - -  | - - -  |
