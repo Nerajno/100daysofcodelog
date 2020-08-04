@@ -35,6 +35,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+
+## 1. FreeCodeCamp 
+### Day 1 Date August 4,2020 - Tuesday
+
+**Project:** FreecodeCamp Javascript Algorithms and 100DaysOfCodeLogSetup
+
+**Progress:**
+- [ ] Completed Basic Algorithm Scripting: Finders Keepers.
+- [x] Revamp 100DaysOfCodeLog and Double check all the links.
+
+**Links:**
+Github Log => https://nerajno.github.io/100DaysOfCodeLog/log4.html
+https://www.freecodecamp.org/nerajno
+
 ## 0. FreeCodeCamp 
 ### Day 0 Date August 3,2020 - Monday
 
@@ -42,7 +56,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 - [ ] Completed Basic Algorithm Scripting: Finders Keepers.
-- [ ] Revamp 100DaysOfCodeLog and Double check all the links.
+- [x] Revamp 100DaysOfCodeLog and Double check all the links.
 
 **Links:**
 Github Log => https://nerajno.github.io/100DaysOfCodeLog/log4.html
