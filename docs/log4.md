@@ -39,11 +39,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## 1. FreeCodeCamp 
 ### Day 1 Date August 4,2020 - Tuesday
 
-**Project:** FreecodeCamp Javascript Algorithms and 100DaysOfCodeLogSetup
+**Project:** FreecodeCamp Javascript Algorithms
 
 **Progress:**
-- [ ] Completed Basic Algorithm Scripting: Finders Keepers.
-- [x] Revamp 100DaysOfCodeLog and Double check all the links.
+- [x] Completed Basic Algorithm Scripting: Finders Keepers.
+- [x] Trying to Figure out Github Log isn't showing on Github graph.
+
 
 **Links:**
 Github Log => https://nerajno.github.io/100DaysOfCodeLog/log4.html
