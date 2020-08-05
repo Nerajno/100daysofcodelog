@@ -35,6 +35,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+## 2. FreeCodeCamp 
+### Day 2 Date August 5,2020 - Tuesday
+
+**Project:** FreecodeCamp's Javascript Basic Algorithm Scripting
+
+**Progress:**
+- [ ] Completed Basic Algorithm Scripting: Basic Algorithm Scripting: Slice and Splice
+- [x] Figured out Github Log isn't showing on Github graph.
 
 ## 1. FreeCodeCamp 
 ### Day 1 Date August 4,2020 - Tuesday
