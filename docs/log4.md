@@ -46,7 +46,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Learning how to Mirror a Git Repo so that it shows commits or contributions. 
 
 
-
 ## 2. FreeCodeCamp 
 ### Day 2 Date August 5,2020 - Wednesday
 
