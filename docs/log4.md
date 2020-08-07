@@ -35,8 +35,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+## 3. FreeCodeCamp 
+### Day 3 Date August 6,2020 - Thursday
+
+**Project:** FreecodeCamp's Javascript Basic Algorithm Scripting
+
+**Progress:**
+- [ ] Completed Basic Algorithm Scripting: Basic Algorithm Scripting: Slice and Splice (Still stuck)
+- [x] Figured out Github Log isn't showing on Github graph.
+- [ ] Learning how to Mirror a Git Repo so that it shows commits or contributions. 
+
+
+
 ## 2. FreeCodeCamp 
-### Day 2 Date August 5,2020 - Tuesday
+### Day 2 Date August 5,2020 - Wednesday
 
 **Project:** FreecodeCamp's Javascript Basic Algorithm Scripting
 
