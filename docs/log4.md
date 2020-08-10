@@ -33,10 +33,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
+
+
 # Code Log
 
+## 5. FreeCodeCamp 
+### Day 5 Date August 9,2020 -Sunday
+
+**Project:** FreecodeCamp's Functional Programming
+
+**Progress:**
+- [x] Completed Two challenges && made notes.
+- [ ] Need to complete how to mirror a git Repo so that it shows commits or contributions(still stuck~ish).
+
+
 ## 4. FreeCodeCamp 
-### Day 4 Date August 7,2020 - Fridday
+### Day 4 Date August 7,2020 - Friday
 
 **Project:** FreecodeCamp's Javascript Basic Algorithm Scripting
 
