@@ -38,6 +38,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ## . FreeCodeCamp 
+### Day 8 Date August 15,2020 - Saturday
+
+**Project:** FreecodeCamp's Functional Programming
+
+**Progress:**
+- [ ] Read my made notes (I really need to take better notes).
+- [ ] Broke it // git log that is.
+
+## . FreeCodeCamp 
+### Day 7 Date August 14,2020 - Friday
+
+**Project:** FreecodeCamp's Functional Programming
+
+**Progress:**
+- [x] Completed Two challenges && made notes.
+- [x] Need to complete how to mirror a git Repo so that it shows commits or contributions(figured it).
+- [ ] Broke it // git log that is.
+
+## . FreeCodeCamp 
 ### Day 6 Date August 11,2020 - Monday
 
 **Project:** FreecodeCamp's Functional Programming
