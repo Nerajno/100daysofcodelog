@@ -32,21 +32,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Refactor Portfolio. 
 
 
-
-
-
 # Code Log
 
-## . FreeCodeCamp 
-### Day 8 Date August 15,2020 - Saturday
+## 8/9. FreeCodeCamp 
+### Day 8/9 Date August 15&&16,2020 - Saturday// Sunday 
 
 **Project:** FreecodeCamp's Functional Programming
 
 **Progress:**
-- [ ] Read my made notes (I really need to take better notes).
+- [x] Solved an algorithm to understand how .map() wrks
+- [ ] Read my made notes (I need learn to take better notes).
 - [ ] Broke it // git log that is.
 
-## . FreeCodeCamp 
+## 7. FreeCodeCamp 
 ### Day 7 Date August 14,2020 - Friday
 
 **Project:** FreecodeCamp's Functional Programming
@@ -56,7 +54,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Need to complete how to mirror a git Repo so that it shows commits or contributions(figured it).
 - [ ] Broke it // git log that is.
 
-## . FreeCodeCamp 
+## 6. FreeCodeCamp 
 ### Day 6 Date August 11,2020 - Monday
 
 **Project:** FreecodeCamp's Functional Programming
