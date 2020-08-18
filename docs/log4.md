@@ -34,6 +34,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+## 10. FreeCodeCamp || Jeleva's Setup || Reading Collected Articles
+### Day 10  Date August 17,2020 - Monday 
+
+**Project:** FreecodeCamp's Functional Programming
+
+**Progress:**
+- [x] 1/2  Solved an algorithm to understand how .filter() wrks
+- [x] Set up environment for redevelopment on client work.
+- [ ] Read some of  articles saved for coding.
+
 ## 8/9. FreeCodeCamp 
 ### Day 8/9 Date August 15&&16,2020 - Saturday// Sunday 
 
