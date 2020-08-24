@@ -34,6 +34,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+## 11. FreeCodeCamp || Jeleva's Setup
+### Day 11  Date August 24 ,2020 - Monday 
+
+**Project:** FreecodeCamp's Functional Programming || Dev.JelevaCarr.com
+
+**Progress:**
+- [x] Solved 3 challenges to understand how .slice(), .concat() and .splice() works && made notes. 
+- [x]Set up hosting for client' s work, sketched outline out and connected hosting.
+
 ## 10. FreeCodeCamp || Jeleva's Setup || Reading Collected Articles
 ### Day 10  Date August 17,2020 - Monday 
 
