@@ -28,11 +28,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete Js30.
 - [ ] Complete private project (Jeleva Re:development)
 - [ ] Complete JavaScript and Algorithms (freeCodeCamp).
-- [ ] Complete Maximillian's course
-- [ ] Refactor Portfolio. 
+- [ ] Complete Maximillian's course. 
+- [ ] Refactor my Portfolio. 
 
 
 # Code Log
+
+## 12. FreeCodeCamp || Github ReadMe
+### Day 12  Date August 29 ,2020 - Saturday 
+
+**Project:** FreecodeCamp's Functional Programming || Github ReadMe
+
+**Progress:**
+- [x] Created a Github ReadMe to add to my profile. 
+- [x] Doing a challenge to understand how .reduce() works && made notes.
 
 ## 11. FreeCodeCamp || Jeleva's Setup
 ### Day 11  Date August 24 ,2020 - Monday 
@@ -41,7 +50,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 - [x] Solved 3 challenges to understand how .slice(), .concat() and .splice() works && made notes. 
-- [x]Set up hosting for client' s work, sketched outline out and connected hosting.
+- [x] Set up hosting for client' s work, sketched outline out and connected hosting.
 
 ## 10. FreeCodeCamp || Jeleva's Setup || Reading Collected Articles
 ### Day 10  Date August 17,2020 - Monday 
@@ -64,7 +73,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Broke it // git log that is.
 
 ## 7. FreeCodeCamp 
-### Day 7 Date August 14,2020 - Friday
+### Day 7 
+### Date August 14,2020 - Friday
 
 **Project:** FreecodeCamp's Functional Programming
 
