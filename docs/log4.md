@@ -34,6 +34,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+## 13 - 16. FreeCodeCamp
+### Day 13 - 16  Date August 29 - Sept 2,2020 - Sunday - Wednesday 
+
+**Project:** FreecodeCamp's Functional Programming
+
+**Progress:**
+- [x] Completed 7 challenges to understand how .concat(), .sort(), .every() etc works  && made better notes.
+
+
 ## 12. FreeCodeCamp || Github ReadMe
 ### Day 12  Date August 29 ,2020 - Saturday 
 
