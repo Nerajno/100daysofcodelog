@@ -34,6 +34,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+##  17 - FreeCodeCamp 
+### Day 17 -  Sept 8,2020 - Monday 
+
+**Project:** FreecodeCamp's Intermediate Algorithm Scripting
+
+**Progress:**
+- [x] Completed the 2nd algorithm [] ~ watched someone do it and chose the example I understood and used that.
+
+##  SideNote ~ FreeCodeCamp
+### No Clue -  Sept 2,2020 - Sunday 
+
+**Project:** FreecodeCamp's Functional Programming
+
+**Progress:**
+- [x] Re- Read notes and some of the concepts made more sense.
+- [x] Fixed up and connected Linux laptop for backup code work.
+** Lost a couple days, I stopped tracking my work and logging it. 
+
+
 ## 13 - 16. FreeCodeCamp
 ### Day 13 - 16  Date August 29 - Sept 2,2020 - Sunday - Wednesday 
 
