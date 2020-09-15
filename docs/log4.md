@@ -28,7 +28,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete Js30.
 - [ ] Complete private project (Jeleva Re:development)
 - [ ] Complete JavaScript and Algorithms (freeCodeCamp).
-- [ ] Complete Maximillian's course. 
+[s]- [ ] Complete Maximillian's course.[/s] 
 - [ ] Refactor my Portfolio. 
 
 
