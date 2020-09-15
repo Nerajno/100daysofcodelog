@@ -28,11 +28,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete Js30.
 - [ ] Complete private project (Jeleva Re:development)
 - [ ] Complete JavaScript and Algorithms (freeCodeCamp).
-[s]- [ ] Complete Maximillian's course.[/s] 
+- [ ] Complete Maximillian's course.[/s] 
 - [ ] Refactor my Portfolio. 
 
 
 # Code Log
+
+##  18 - FreeCodeCamp 
+### Day 1 -  Sept 16,2020 - Tuesday
+
+**Project:** FreecodeCamp's Intermediate Algorithm Scripting (1-4) 
+
+**Progress:**
+- [x] Completed the 4th algorithm but I am having too much issues, gonna redo the outline from here => Basic JavaScript: Use Bracket Notation to Find the First Character in a String Passed
 
 ##  17 - FreeCodeCamp 
 ### Day 17 -  Sept 8,2020 - Monday 
