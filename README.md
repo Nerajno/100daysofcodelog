@@ -1,5 +1,5 @@
 # My Code Log for #100 days of Code.
-Current Log => https://nerajno.github.io/100DaysOfCodeLog/log4.html
+My Current Progross === https://nerajno.github.io/100DaysOfCodeLog/log4.html
 
 # 100 Days Log Template<!-- omit in toc -->
 
