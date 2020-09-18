@@ -34,6 +34,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+##  19 - FreeCodeCamp 
+### Day 2 -  Sept 18,2020 - Friday
+
+**Project:** FreecodeCamp's Basic JavaScript 
+
+**Progress:**
+- [x] Redo did the 1st 4 challenges in basic JS and made notes.
+
 ##  18 - FreeCodeCamp 
 ### Day 1 -  Sept 16,2020 - Tuesday
 
