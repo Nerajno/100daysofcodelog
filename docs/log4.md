@@ -34,6 +34,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+##  20 - FreeCodeCamp 
+### Day 3 -  Sept 19,2020 - Friday
+
+**Project:** BuildWeekend Day 1
+
+**Progress:**
+- [x] Laidout the foundtion to the weekend build of the Js color background changer. 
+
 ##  19 - FreeCodeCamp 
 ### Day 2 -  Sept 18,2020 - Friday
 
