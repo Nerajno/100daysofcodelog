@@ -34,6 +34,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+##  21 - FreeCodeCamp 
+### Day 4 -  Sept 28,2020 - Monday
+
+**Project:** BuildWeekend || FreecodeCamp Js - Basic Js
+
+**Progress:**
+- [x] Figured out the issues in the background-color picker.
+- [x] Made notes for Basic Js
+
+
 ##  20 - FreeCodeCamp 
 ### Day 3 -  Sept 19,2020 - Friday
 
