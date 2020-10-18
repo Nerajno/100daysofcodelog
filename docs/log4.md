@@ -34,6 +34,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+##  22 - FreeCodeCamp 
+### Day 5 -  Oct 17,2020 - Saturday
+
+**Project:** BuildWeekend || Drink_id
+
+**Progress:**
+- [x] Completed Desktop version of Drink_id
+
+
 ##  21 - FreeCodeCamp 
 ### Day 4 -  Sept 28,2020 - Monday
 
