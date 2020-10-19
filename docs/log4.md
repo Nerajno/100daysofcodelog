@@ -32,7 +32,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Refactor my Portfolio. 
 
 
+
+
 # Code Log
+
+##  23 - FreeCodeCamp 
+### Day 5 -  Oct 18,2020 - Sunday
+
+**Project:** FreeCodeCamp ~ Basic Js
+Took time to review notes made.
 
 ##  22 - FreeCodeCamp 
 ### Day 5 -  Oct 17,2020 - Saturday
