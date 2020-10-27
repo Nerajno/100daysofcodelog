@@ -36,8 +36,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+##  24 - FreeCodeCamp 
+### Day 7 -  Oct 26,2020 - Monday
+
+**Project:** FreeCodeCamp ~ Basic Js - Object Notation
+Redid challenges
+
 ##  23 - FreeCodeCamp 
-### Day 5 -  Oct 18,2020 - Sunday
+### Day 6 -  Oct 18,2020 - Sunday
 
 **Project:** FreeCodeCamp ~ Basic Js
 Took time to review notes made.
