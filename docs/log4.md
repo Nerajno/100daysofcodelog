@@ -20,7 +20,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| August 3, 2020 | Nov 11, 2020|
+| Aug 3, 2020   | Nov 11, 2020|
 
 ## Goals
 
@@ -32,12 +32,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Refactor my Portfolio. 
 
 
-
+# Code Log
 
 ##  24 - FreeCodeCamp 
 ### Day End -  Nov 17,2020 - Tuesday
 
-New job took too much and there was no discipline
+New job took too much and there was no discipline in its execution.
 
 
 
