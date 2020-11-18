@@ -34,7 +34,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
-# Code Log
+##  24 - FreeCodeCamp 
+### Day End -  Nov 17,2020 - Tuesday
+
+New job took too much and there was no discipline
+
+
 
 ##  23 - FreeCodeCamp 
 ### Day 5 -  Oct 18,2020 - Sunday
