@@ -32,6 +32,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Refactor my Portfolio. 
 
 
+# Resolution
+
+
 # Code Log
 
 ##  24 - FreeCodeCamp 
