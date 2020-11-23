@@ -15,32 +15,33 @@ description: by Nerando
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
 
-**Commitment:** *I will code daily for the next 100 days.*
+**Commitment:** *I will code daily for the next 100 days as I now really need to.*
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Nov 18, 2020  | Feb 26, 2021 |
+| Nov 23, 2020  | Mar 3, 2021  |
 
 ## Primary Goals
 
 - [x] Code for an hour daily.
 - [ ] Complete Js30.
-- [ ] Complete private project (Jeleva Re:development)
-- [ ] Complete JavaScript and Algorithms (freeCodeCamp).
-- [ ] Complete Maximillian's course.[/s] 
-- [ ] Refactor my Portfolio - 
-
+- [ ] Complete private project (WordPress- CMS Based)
+- [ ] Complete JavaScript Algorithms and Data Structures Certification  (freeCodeCamp).
+- [ ] Complete Maximillian's course #1 [React - The Complete Guide (incl Hooks, React Router, Redux)] 
+- [ ] Refactor my Portfolio ~ - [ ] Better Colors and Fonts ~ - [ ] Projects Layout ~ - [ ] Clean Layout
 
 ## Secondary Goals
 
--[] Clean up Github profile [ ???]
+-[ ] Clean up Github profile [???].
+-[ ] Add a Gatsby section Blog addition to my portfolio.
+
 
 # Code Log
 
 ---
 
 ## 0 - FreeCodeCamp
-### Day 2: Date - Day
+### Day 0: Date - Day
 
 **Project:**
 
