@@ -11,9 +11,9 @@ Below are my code logs for each round of this challenge.
 | Code Log | Start | End |
 | --- | --- | --- |
 | [Round 0](log1.html) | Sept 29, 2019 | Aborted |
-| [Round 1](log2.html) | Dec 31, 2019  | April 9, 2020  |
-| [Round 2](log3.html) | April 23, 2020  | August 1, 2020  |
-| [Round 3](log4.html) | August 3,2020 | Nov 11, 2020 |
-| [Round 4](log5.html) | - - -  | - - -  |
+| [Round 1](log2.html) | Dec 31, 2019  | Apr 9, 2020  |
+| [Round 2](log3.html) | Apr 23, 2020  | Aug 1, 2020  |
+| [Round 3](log4.html) | Aug 3,2020    | Nov 11, 2020 |
+| [Round 4](log5.html) | Nov 23, 2020  | Mar 3, 2021  |
 | [Round 5](log5.html) | - - -  | - - -  |
 | [Round 6](log6.html) | - - -  | - - -  |
