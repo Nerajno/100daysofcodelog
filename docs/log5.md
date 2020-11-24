@@ -43,11 +43,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## 0 - FreeCodeCamp
 ### Day 0: Date - Day
 
-**Project:**
+**Project:** JavaScript 30
 
-**Progress:**
+**Progress:** Completed and Understood Cardio Array 2
 
 **Links:**
+https://github.com/Nerajno/JavaScript30
 
 ---
 ## . Sample Entry
