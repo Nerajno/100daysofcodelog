@@ -28,12 +28,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete private project (WordPress- CMS Based)
 - [ ] Complete JavaScript Algorithms and Data Structures Certification  (freeCodeCamp).
 - [ ] Complete Maximillian's course #1 [React - The Complete Guide (incl Hooks, React Router, Redux)] 
-- [ ] Refactor my Portfolio ~ - [ ] Better Colors and Fonts ~ - [ ] Projects Layout ~ - [ ] Clean Layout
+- [ ] Refactor my Portfolio **
+- [ ] Better Colors and Fonts  ** 
+- [ ] Projects Layout **
+- [ ] Clean Layout **
 
 ## Secondary Goals
 
--[ ] Clean up Github profile [???].
--[ ] Add a Gatsby section Blog addition to my portfolio.
+- [ ] Clean up Github profile [???].
+- [ ] Add a Gatsby section Blog addition to my portfolio.
 
 
 # Code Log
