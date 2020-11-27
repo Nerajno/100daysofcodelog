@@ -10,6 +10,13 @@ a {
     color: #912eca;
 }
 
+fixedBannner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+
 a:hover { color:#999999; text-decoration: underline; }
 section a { border-bottom: 1px dotted; }
 section a > img { vertical-align: top; }
