@@ -42,9 +42,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 1 - Advent of Code ~ Day 1/25
+### Day 1: December 1, 2020 - Tuesday
+
+**Project/Code:** Howler Brainstorming /  Advent of Code
+
+**Progress:**   TroubleShooted Howler 
+                Completed 1 of 2 for Day 1 of Advent of Code
+
+**Links:**
+https://github.com/Nerajno/JavaScript30
+
 
 ## 0 - FreeCodeCamp
-### Day 0: Date - Day
+### Day 0: Nov 23, 2020  - Monday
 
 **Project:** JavaScript 30
 
