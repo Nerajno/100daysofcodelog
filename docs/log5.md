@@ -42,6 +42,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 2 - Bug Fix and Sunday Builds
+### Day 2: December 6, 2020 - Sunday
+
+**Project/Code:** Random Background Color Changer / Bug Fix  
+
+**Progress:**   Fixed my portfolio bug. 
+                Worked on one of my weekend project (random color generator)
+
+**Links:**
+https://nerajno.github.io/Background--Color-Changer/
+
 ## 1 - Advent of Code ~ Day 1/25
 ### Day 1: December 1, 2020 - Tuesday
 
