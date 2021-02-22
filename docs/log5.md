@@ -30,8 +30,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete Maximillian's course #1 [React - The Complete Guide (incl Hooks, React Router, Redux)] 
 - [x] Refactor my Portfolio **
 - [x] Better Colors and Fonts  ** 
-- [ ] Projects Layout **
-- [ ] Clean Layout **
+- [x] Projects Layout **
+- [x] Clean Layout **
 
 ## Secondary Goals
 
