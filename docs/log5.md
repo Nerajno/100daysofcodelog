@@ -28,8 +28,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete private project (WordPress- CMS Based)
 - [ ] Complete JavaScript Algorithms and Data Structures Certification  (freeCodeCamp).
 - [ ] Complete Maximillian's course #1 [React - The Complete Guide (incl Hooks, React Router, Redux)] 
-- [ ] Refactor my Portfolio **
-- [ ] Better Colors and Fonts  ** 
+- [x] Refactor my Portfolio **
+- [x] Better Colors and Fonts  ** 
 - [ ] Projects Layout **
 - [ ] Clean Layout **
 
