@@ -42,6 +42,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+# 3 - Logging for Practice
+### Day 3: February 22, 2021 - Monday
+
+**Project/Code:** Daily Coding with G
+
+**Progress:**   Coding with G in React and complete the project. 
+           
 ## 2 - Bug Fix and Sunday Builds
 ### Day 2: December 6, 2020 - Sunday
 
