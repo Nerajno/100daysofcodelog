@@ -42,6 +42,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+# 5 - Logging for Practice
+### Day 5: February 28, 2021 - Sunday
+
+**Project/Code:** Burble ~ Movie React App with G
+
+**Progress:**   Coding with G in React and complete the project. 
+
 # 4 - Logging for Practice
 ### Day 4: February 27, 2021 - Monday
 
