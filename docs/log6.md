@@ -13,11 +13,12 @@ description: by Nerando
 | [Round 0](https://nerajno.github.io/100DaysOfCodeLog/log1.html) 
 | [Round 1](https://nerajno.github.io/100DaysOfCodeLog/log2.html) 
 | [Round 2](https://nerajno.github.io/100DaysOfCodeLog/log3.html) 
-| [Round 3](https://nerajno.github.io/100DaysOfCodeLog/log4.html) 
+| [Round 3](https://nerajno.github.io/100DaysOfCodeLog/log4.html)
+| [Round 4](https://nerajno.github.io/100DaysOfCodeLog/log5.html) 
 |this log 
-| [Round 5](log6.html)  
-| [Round 6](log7.html) 
-| [Round 7](log8.html) |
+| [Round 6](log7html)  
+| [Round 7](log8.html) 
+| [Round 8](log9.html) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
