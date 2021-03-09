@@ -50,13 +50,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 
-## 1. Entry Title
+## 1. Burble && Updating #100daysofCode Log
 ### Day 1: Monday - March 8,2021
 
-**Project:**
+**Project:** Coding with G and Fixing/Adding Features to Burble.
 
 **Progress:**
+Burble ~ Added a footer.
+#100daysOfCode  ~ Updated and edited the log.
 
 **Links:**
-
+Burble ~ https://burble-5c404.web.app/
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
 ---
