@@ -50,6 +50,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 
+## 2. Fixed/Updated Portfolio Content && Tinkered with Gatsby Blog Setup
+### Day 2: Tuesday - March 9,2021
+
+**Project:** Coding with G, Updated Portfolio Content & Gatsby Blog Setup.
+
+**Progress:**
+Portfolio Content ~ Updated content based on feedback Virtual Coffee feedback.
+#100daysOfCode  ~ Updated and edited the log.
+*Gatsby Blog Setup ~ Setup(https://www.gatsbyjs.com/docs/starters/#reach-skip-nav) && Template (https://www.gatsbyjs.com/starters/alxshelepenok/gatsby-starter-lumen/)
+*Went to a React Meetup on React Architecture
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+
+---
+
 ## 1. Burble && Updating #100daysofCode Log
 ### Day 1: Monday - March 8,2021
 
