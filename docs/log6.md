@@ -30,7 +30,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | March 8, 2021 | June 21, 2021 |
 
 ## Primary Goals
-
 - [x] Code for an hour daily.
 - [ ] Complete Js30, document and add to #SmallPractices page.
 - [ ] Create a #SmallPractices page (Learning Field).
@@ -41,13 +40,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Refactor, document and create live versions of Mod 1-5 projects (1/2).
 
 ## Secondary Goals
-
-# Code Log
-- [ ] Pull together Paratransit Pal.
+- [ ] Pull together Paratransit web portfolio.
 - [ ] Complete Udemy Firebase Course. 
 - [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
 ---
+## 3. Updated Burble
+### Day 3: Tuesday - March 10,2021
+
+**Project:** Coding with G and updated Burble.
+
+**Progress:**
+Burble ~ Added a filter function using useEffect to return results on search.
+#100daysOfCode  ~ Updated and edited the log.
+
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Burble ~ https://burble-5c404.web.app/
 
 
 ## 2. Fixed/Updated Portfolio Content && Tinkered with Gatsby Blog Setup
@@ -59,7 +69,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 Portfolio Content ~ Updated content based on feedback Virtual Coffee feedback.
 #100daysOfCode  ~ Updated and edited the log.
 *Gatsby Blog Setup ~ Setup(https://www.gatsbyjs.com/docs/starters/#reach-skip-nav) && Template (https://www.gatsbyjs.com/starters/alxshelepenok/gatsby-starter-lumen/)
-*Went to a React Meetup on React Architecture
+*Went to a React Meetup on React Architecture.
 
 **Links:**
 #100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
