@@ -45,8 +45,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
 ---
+## 5. Styling Trappr Keeper and Figured Gatsby 
+### Day 5 : Friday - March 12,2021
+
+**Project:** Coding with G, Trappr Keeper and Gatsby.
+
+**Progress:**
+Trappr Keeper ~ Begin to apply styling to the app.
+#100daysOfCode  ~ Updated and edited the log.
+Gatsby ~ Figured out how to use a starter template to start or use as my personal blog.
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Trappr Keeper ~ https://whispering-headland-07077.herokuapp.com/
+My Template Documentation ~ https://www.gatsbyjs.com/starters/justinformentin/gatsby-v2-tutorial-starter 
+
+---
+
 ## 4. Figure Out Styling for Trappr Keeper
-### Day : Thursday - March 11,2021
+### Day 4 : Thursday - March 11,2021
 
 **Project:** Coding with G and Trappr Keeper.
 
@@ -57,6 +74,8 @@ Trappr Keeper ~ Figured out how to apply a styling sheet to the app.
 **Links:**
 #100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
 Trappr Keeper ~ https://whispering-headland-07077.herokuapp.com/
+
+---
 
 ## 3. Updated Burble
 ### Day 3: Wednesday - March 10,2021
@@ -72,6 +91,7 @@ Burble ~ Added a filter function using useEffect to return results on search.
 #100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
 Burble ~ https://burble-5c404.web.app/
 
+---
 
 ## 2. Fixed/Updated Portfolio Content && Tinkered with Gatsby Blog Setup
 ### Day 2: Tuesday - March 9,2021
