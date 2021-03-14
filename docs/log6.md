@@ -45,6 +45,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
 ---
+## 6. Update Gatsby Blog,  
+### Day 6 : Saturday - March 13,2021
+
+**Project:** Coding with G, Gatsby Blog Re-structuring and Trapper Keepr.
+
+**Progress:**
+Trappr Keeper ~ Did some styling and inplemented a cron job and opened it up to being reviewed.
+#100daysOfCode  ~ Updated and edited the log.
+Gatsby ~ Created repo and connected it to github as my personal blog.
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Trappr Keeper ~ https://whispering-headland-07077.herokuapp.com/
+My Gatsby Template Documentation ~ https://www.gatsbyjs.com/starters/justinformentin/gatsby-v2-tutorial-starter 
+
+---
+
 ## 5. Styling Trappr Keeper and Figured Gatsby 
 ### Day 5 : Friday - March 12,2021
 
