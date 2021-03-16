@@ -45,11 +45,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
 ---
+## 8. Trapper Keepr. 
+### Day 8 : Monday - March 15,2021
+
+**Project:** Coding with G and Trapper Keepr, Refactored Portfolio.
+
+**Progress:**
+Trappr Keeper ~ Completed ReadMe V1 and added to all places.
+#100daysOfCode  ~ Updated and edited the log.
+
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Trappr Keeper ~ https://whispering-headland-07077.herokuapp.com/
+
+---
 
 ## 7. Trapper Keepr. 
-### Day 7 : Saturday - March 13,2021
+### Day 7 : Sunday - March 14,2021
 
-**Project:** Coding with G and Trapper Keepr.
+**Project:** Coding with G and Trapper Keepr
 
 **Progress:**
 Trappr Keeper ~ Did installed custom Bootstrap styling, implemented better SEO, custom url via heruko and fixed a cron job.
