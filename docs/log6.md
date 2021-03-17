@@ -45,6 +45,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
 ---
+## 9. Trapper Keepr. 
+### Day 9 : Tuesday - March 16,2021
+
+**Project:** Coding with G and Refactored Portfolio.
+
+**Progress:**
+Personal Portfolio ~ Updated all the layout and made it matched all my LinkedIn and resume  .
+#100daysOfCode  ~ Updated and edited the log.
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Personal Portfolio  ~ https://developingdvlpr.com//
+
 ## 8. Trapper Keepr. 
 ### Day 8 : Monday - March 15,2021
 
