@@ -45,7 +45,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
 ---
+## 11. Coding with G and React @ Treehouse
+### Day 11 : Thursday - March 18,2021
 
+**Project:** Coding with G, React via Treehouse.
+
+**Progress:**
+Treehouse ~ React (1st 2 hr session @ 40%)
+#100daysOfCode  ~ Updated and edited the log.
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Treehouse ~ https://teamtreehouse.com/tracks/learn-react
 
 ## 10. Burble. 
 ### Day 10 : Wednesday - March 17,2021
