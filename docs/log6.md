@@ -45,6 +45,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
 ---
+## 14. Coding with G, Brada (React Dashboard) and React @ Treehouse(React Components)
+### Day 14 : Sunday - March 21,2021
+
+**Project:** Coding with G,  Brada, React via Treehouse.
+
+**Progress:**
+Treehouse ~ React (React Components @ 1/4)
+#100daysOfCode  ~ Updated and edited the log.
+Started to style the dashboard using Material UI ~ Brada.
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Treehouse ~ https://teamtreehouse.com/tracks/learn-react
+
+## 13. Coding with G and React @ Treehouse
+### Day 13 : Saturday - March 20,2021
+
+**Project:** Coding with G, React via Treehouse.
+
+**Progress:**
+Treehouse ~ React( Completed React Basics && Completed the Practice..... Awesomeness)
+#100daysOfCode  ~ Updated and edited the log. 
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Treehouse ~ https://teamtreehouse.com/tracks/learn-react
+
+
 ## 12. Coding with G and React @ Treehouse
 ### Day 12 : Friday - March 19,2021
 
@@ -58,8 +86,6 @@ Updated Small bits of my profolio.
 **Links:**
 #100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
 Treehouse ~ https://teamtreehouse.com/tracks/learn-react
-
-
 
 ## 11. Coding with G and React @ Treehouse
 ### Day 11 : Thursday - March 18,2021
