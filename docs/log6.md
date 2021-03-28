@@ -44,7 +44,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete Udemy Firebase Course. 
 - [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
+
 ---
+
 ## 14. Coding with G, Brada (React Dashboard) and React @ Treehouse(React Components)
 ### Day 14 : Sunday - March 21,2021
 
@@ -58,6 +60,9 @@ Started to style the dashboard using Material UI ~ Brada.
 **Links:**
 #100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
 Treehouse ~ https://teamtreehouse.com/tracks/learn-react
+Brada ~ Not Yet
+
+---
 
 ## 13. Coding with G and React @ Treehouse
 ### Day 13 : Saturday - March 20,2021
@@ -66,12 +71,13 @@ Treehouse ~ https://teamtreehouse.com/tracks/learn-react
 
 **Progress:**
 Treehouse ~ React( Completed React Basics && Completed the Practice..... Awesomeness)
-#100daysOfCode  ~ Updated and edited the log. 
+#100daysOfCode  ~ Updated and edited the log.
 
 **Links:**
 #100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
 Treehouse ~ https://teamtreehouse.com/tracks/learn-react
 
+---
 
 ## 12. Coding with G and React @ Treehouse
 ### Day 12 : Friday - March 19,2021
@@ -87,6 +93,8 @@ Updated Small bits of my profolio.
 #100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
 Treehouse ~ https://teamtreehouse.com/tracks/learn-react
 
+---
+
 ## 11. Coding with G and React @ Treehouse
 ### Day 11 : Thursday - March 18,2021
 
@@ -99,6 +107,8 @@ Treehouse ~ React (1st 2 hr session @ 40%)
 **Links:**
 #100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
 Treehouse ~ https://teamtreehouse.com/tracks/learn-react
+
+---
 
 ## 10. Burble. 
 ### Day 10 : Wednesday - March 17,2021
@@ -115,6 +125,8 @@ Treehouse ~ React (2 hr session @ 25%)
 Burble  ~ https://developingdvlpr.com//
 Treehouse ~ https://teamtreehouse.com/tracks/learn-react
 
+---
+
 ## 9. Trapper Keepr. 
 ### Day 9 : Tuesday - March 16,2021
 
@@ -127,6 +139,8 @@ Personal Portfolio ~ Updated all the layout and made it matched all my LinkedIn 
 **Links:**
 #100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
 Personal Portfolio  ~ https://developingdvlpr.com//
+
+---
 
 ## 8. Trapper Keepr.
 ### Day 8 : Monday - March 15,2021
