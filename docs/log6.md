@@ -47,6 +47,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 15. React @ Treehouse(React Components)
+### Day 15 : Monday - April 12,2021
+
+**Project:** Giphy Practice @ React via Treehouse.
+
+**Progress:**
+Treehouse ~ React/Giphy (React Components @ Completed)
+#100daysOfCode  ~ Updated and edited the log.
+
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Treehouse ~ https://teamtreehouse.com/tracks/learn-react
+
+---
+
 ## 14. Coding with G, Brada (React Dashboard) and React @ Treehouse(React Components)
 ### Day 14 : Sunday - March 21,2021
 
