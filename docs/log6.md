@@ -47,6 +47,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 18. React @ Treehouse(React Components ~ Type Components)
+### Day 17 : Wednesday - April 14,2021
+
+**Project:**  React via Treehouse.
+
+**Progress:**
+Treehouse ~ (React Components @ Completed)
+#100daysOfCode  ~ Updated and edited the log.
+
 ## 16. React @ Treehouse(React Components ~ Type Components)
 ### Day 16 : Tuesday - April 13,2021
 
