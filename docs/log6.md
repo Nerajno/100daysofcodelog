@@ -40,14 +40,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Refactor, document and create live versions of Mod 1-5 projects (1/2).
 
 ## Secondary Goals
-- [ ] Pull together Paratransit web portfolio.
+- [x] Pull together Paratransit web portfolio.
 - [ ] Complete Udemy Firebase Course. 
 - [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
 
 ---
+## 18. Javascript ~  FCC Algorithms/ JS30  
+### Day 18 : Monday - June 14,2021
 
-## 18. React @ Treehouse(React Components ~ Type Components)
+**Project:**  Problem Solving
+
+**Progress:**
+Javascript ~  FCC Algorithms(x 2)/ JS30 (x 1)  
+#100daysOfCode  ~ Updated and edited the log.
+
+## 17. React @ Treehouse(React Components ~ Type Components)
 ### Day 17 : Wednesday - April 14,2021
 
 **Project:**  React via Treehouse.
