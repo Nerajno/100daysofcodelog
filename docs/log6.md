@@ -49,6 +49,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## 18. Javascript ~  FCC Algorithms/ JS30  
 ### Day 18 : Monday - June 14,2021
 
+
+
+## 18. Javascript ~  FCC Algorithms/ JS30  
+### Day 18 : Monday - June 14,2021
+
 **Project:**  Problem Solving
 
 **Progress:**
