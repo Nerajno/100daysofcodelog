@@ -1,6 +1,6 @@
 ---
-title: 100 Days of Code - Round 1
-description: by [Your Name]
+title: 100 Days of Code - Round 6
+description: by Nerando
 #pg_bk_color: '#e6e8de'
 #header_bk_color: '#1a7f6d'
 #link_color: '#1a7f6d'
@@ -10,9 +10,15 @@ description: by [Your Name]
 # 100 Days of Code
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
-| Log 1 | Log 2 | Log 3 |
-| --- | --- | --- |
-| this log | [100 Days Round 2](log2.html) | [100 Days Round 3](log3.html) |
+| [Round 0](https://nerajno.github.io/100DaysOfCodeLog/log1.html) 
+| [Round 1](https://nerajno.github.io/100DaysOfCodeLog/log2.html) 
+| [Round 2](https://nerajno.github.io/100DaysOfCodeLog/log3.html) 
+| [Round 3](https://nerajno.github.io/100DaysOfCodeLog/log4.html)
+| [Round 4](https://nerajno.github.io/100DaysOfCodeLog/log5.html) 
+|this log 
+| [Round 6](log7html)  
+| [Round 7](log8.html) 
+| [Round 8](log9.html) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -21,13 +27,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Today's date  | - - - |
+| June 24, 2021 | October 2, 2021 |
 
-## Goals
+## Primary Goals
+- [x] Code for an hour daily.
+- [ ] Complete [Js30](https://javascript30.com/), document and add to #SmallPractices page 
+- [ ] Create a #SmallPractices page (Learning Field).
+- [ ] Create a Gatsby blog and write 10 blogs.
+- [ ] Complete private project (WordPress- CMS Based)
+- [ ] Complete JavaScript Algorithms and Data Structures Certification  (freeCodeCamp).
+- [ ] Complete Refactoring of Portfolio.
+- [ ] Refactor, document and create live versions of Mod 1-5 projects (1/2).
 
-- [x] Code daily
-- [ ] Goal 2
-- [ ] Goal 3
+## Secondary Goals
+- [ ] Pull together Paratransit web portfolio.
+- [ ] Complete Udemy Firebase Course. 
+- [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
 # Code Log
 

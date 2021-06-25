@@ -36,7 +36,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Create a Gatsby blog and write 10 blogs.
 - [ ] Complete private project (WordPress- CMS Based)
 - [ ] Complete JavaScript Algorithms and Data Structures Certification  (freeCodeCamp).
-- [ ] Complete Refactoring of Portfolio.
+- [x] Complete Refactoring of Portfolio.
 - [ ] Refactor, document and create live versions of Mod 1-5 projects (1/2).
 
 ## Secondary Goals
