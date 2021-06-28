@@ -27,17 +27,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 24, 2021 | October 2, 2021 |
+| June 28, 2021 | October 2, 2021 |
 
 ## Primary Goals
 - [x] Code for an hour daily.
 - [ ] Complete [Js30](https://javascript30.com/), document and add to #SmallPractices page 
 - [ ] Create a #SmallPractices page (Learning Field).
-- [ ] Create a Gatsby blog and write 10 blogs.
+- [ ] Create a Gatsby blog on new porfolio and write  8 blogs.
 - [ ] Complete private project (WordPress- CMS Based)
 - [ ] Complete JavaScript Algorithms and Data Structures Certification  (freeCodeCamp).
-- [ ] Complete Refactoring of Portfolio.
-- [ ] Refactor, document and create live versions of Mod 1-5 projects (1/2).
+- [ ] Complete Refactoring of Portfolio V2.
+- [ ] Refactor, document and create live versions of Mod 1-5 projects.
 
 ## Secondary Goals
 - [ ] Pull together Paratransit web portfolio.
