@@ -27,26 +27,39 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| June 28, 2021 | October 2, 2021 |
+| June 30, 2021 | October 4, 2021 |
 
 ## Primary Goals
 - [x] Code for an hour daily.
 - [ ] Complete [Js30](https://javascript30.com/), document and add to #SmallPractices page 
 - [ ] Create a #SmallPractices page (Learning Field).
 - [ ] Create a Gatsby blog on new porfolio and write  8 blogs.
-- [ ] Complete private project (WordPress- CMS Based)
+- [ ] Complete contract private project (WordPress- CMS Based)
 - [ ] Complete JavaScript Algorithms and Data Structures Certification  (freeCodeCamp).
-- [ ] Complete Refactoring of Portfolio V2.
+- [ ] Complete Refactoring of Portfolio V2 and deploy.
 - [ ] Refactor, document and create live versions of Mod 1-5 projects.
 
 ## Secondary Goals
 - [ ] Pull together Paratransit web portfolio.
 - [ ] Complete Udemy Firebase Course. 
-- [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
+- [ ] Create tests and creative process live versions of Mod 1-5 projects (2/2).
 
 # Code Log
-
 ---
+## 0. FreeCodeCamp and Js30
+### Day 0: June 29, 2021 - Tuesday
+
+**Project:** Complete 1 Exercise from JS30, Complete 2 algorithms from FreeCodecamp and Revamp the portfolio in Gatsby
+**Progress:**
+- Completed all the algorithms and made notes.
+- Completed CSS Text Shadow challenge and pushed to github.
+- Outlined the structure for portfolio page and added more data. 
+- 
+**Links:**
+CSS Text Shadow ~> https://youtu.be/zaz9gLI-Xac
+FCC algorithms ~>  https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting
+---
+
 
 ## 1. Sample Entry
 ### Day 1: February 26, 2019 - Tuesday
