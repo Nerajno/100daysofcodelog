@@ -46,8 +46,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
-## 1. FreeCodeCamp
+## 2. FreeCodeCamp
 ### Day 0: June 30, 2021 - Wednesday
+
+**Project:** Started project from FreeCodecamp Javascript Projects.
+**Progress:**
+- Completed the algorithm and then got shown a quicker way to do it.
+  
+**Links:**
+Roman Numeral Converter = https://bit.ly/3waqcev
+
+## 1. FreeCodeCamp
+### Day 1: June 30, 2021 - Wednesday
 
 **Project:** Started 2nd project from FreeCodecamp Javascript Projects.
 **Progress:**
