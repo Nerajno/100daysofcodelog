@@ -17,7 +17,7 @@ description: by Nerando
 | [Round 3](https://nerajno.github.io/100DaysOfCodeLog/log4.html)
 | [Round 4](https://nerajno.github.io/100DaysOfCodeLog/log5.html) 
 | [Round 5](https://nerajno.github.io/100DaysOfCodeLog/log6.html)
-| [Round 6](log7.html) 
+| [Round 6](https://nerajno.github.io/100DaysOfCodeLog/log7.html) 
 | [Round 7](log8.html)
 | [Round 8](log9.html) | 
 

@@ -17,8 +17,8 @@ link_color: '#1a7f6d'
 | [Round 2](https://nerajno.github.io/100DaysOfCodeLog/log3.html) 
 | [Round 3](https://nerajno.github.io/100DaysOfCodeLog/log4.html)
 | [Round 4](https://nerajno.github.io/100DaysOfCodeLog/log5.html) 
-| [Round 5](https://nerajno.github.io/100DaysOfCodeLog/log7.html) 
-| [Round 6](https://nerajno.github.io/100DaysOfCodeLog/log8.html) 
+| [Round 5](https://nerajno.github.io/100DaysOfCodeLog/log6.html) 
+| [Round 6](https://nerajno.github.io/100DaysOfCodeLog/log7.html) 
 | [Round 7](log8.html) |
 
 ## Challenge & Commitment

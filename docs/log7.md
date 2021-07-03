@@ -15,8 +15,8 @@ description: by Nerando
 | [Round 2](https://nerajno.github.io/100DaysOfCodeLog/log3.html) 
 | [Round 3](https://nerajno.github.io/100DaysOfCodeLog/log4.html)
 | [Round 4](https://nerajno.github.io/100DaysOfCodeLog/log5.html) 
+ [Round 5](https://nerajno.github.io/100DaysOfCodeLog/log6.html) 
 |this log 
-| [Round 6](log7html)  
 | [Round 7](log8.html) 
 | [Round 8](log9.html) |
 

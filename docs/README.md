@@ -15,5 +15,5 @@ Below are my code logs for each round of this challenge.
 | [Round 2](log3.html) | Apr 23, 2020  | Aug 1, 2020  | Still No|
 | [Round 3](log4.html) | Aug 3,2020    | Nov 11, 2020 | Nope |
 | [Round 4](log5.html) | Nov 23, 2020  | Mar 3, 2021  | Ok~ish |
-| [Round 5](log6.html) | March 8, 2021 | June 21,2021 | Ongoing/Let's See |
-| [Round 6](log6.html) | - - -  | - - -  |  |
+| [Round 5](log6.html) | March 8, 2021 | June 21,2021 | Yeah, Nope |
+| [Round 6](log7.html) | June 30, 2021 | October 4, 2021 | Here We Go Again |
