@@ -46,8 +46,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
+## 3. JS30 => #18
+
+### Day : July 2, 2021 - Friday
+
+**Project:**  JS30 ~> Excercise 18
+**Progress:**
+- Completed the exercise and made notes.
+  
+**Links:**
+JS30 ~> Excercise 18 = https://bit.ly/367CcD1 
+
 ## 2. FreeCodeCamp
-### Day 0: June 30, 2021 - Wednesday
+### Day : July 1, 2021 - Thursday
 
 **Project:** Started project from FreeCodecamp Javascript Projects.
 **Progress:**
