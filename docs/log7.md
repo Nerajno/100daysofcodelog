@@ -46,9 +46,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
+## 4. JS30 => #19 and  FreeCodeCamp's Phone Number Validator
+
+### Day 4 : July 3, 2021 - Saturday
+
+**Project:**  JS30 => Excercise 19 and FreeCodeCamp's Phone Number Validator
+**Progress:**
+- FCC = Tried the exercise, got a bit stuck, used a tutorial which spoke to regex, took notes and solved it.
+- Js30's #19 has bugs for cookies (cross cookies). 
+  
+**Links:**
+JS30 ~> Excercise 19 = https://www.youtube.com/watch?v=ElWFcBlVk-o&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=19&ab_channel=WesBos
+FreeCodeCamp's Phone Number Validator ~> https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator
+
 ## 3. JS30 => #18
 
-### Day : July 2, 2021 - Friday
+### Day  3: July 2, 2021 - Friday
 
 **Project:**  JS30 ~> Excercise 18
 **Progress:**
@@ -58,7 +71,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 JS30 ~> Excercise 18 = https://bit.ly/367CcD1 
 
 ## 2. FreeCodeCamp
-### Day : July 1, 2021 - Thursday
+### Day 2: July 1, 2021 - Thursday
 
 **Project:** Started project from FreeCodecamp Javascript Projects.
 **Progress:**

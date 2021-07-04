@@ -10,6 +10,8 @@ var sectionHeight = function() {
   }
 };
 
+//create a function that validates phone numbers 
+
 $(window).resize(sectionHeight);
 
 $(function() {
