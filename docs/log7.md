@@ -46,6 +46,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
+---
+## 5. FreeCodeCamp's Cash Register
+
+### Day 5 : July 6, 2021 - Tuesday
+
+**Project:**  FreeCodeCamp's Cash Register and Structured My Portfolio
+
+**Progress:**
+- FCC = Broke down the problem into components, created the 1st section.
+- Created the layout to the Portfolio
+  
+**Links:**
+FreeCodeCamp Cash Register ~> https://bit.ly/36jSJ6E
+
+
 ## 4. JS30 => #19 and  FreeCodeCamp's Phone Number Validator
 
 ### Day 4 : July 3, 2021 - Saturday
@@ -56,8 +71,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Js30's #19 has bugs for cookies (cross cookies). 
   
 **Links:**
-JS30 ~> Excercise 19 = https://www.youtube.com/watch?v=ElWFcBlVk-o&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=19&ab_channel=WesBos
-FreeCodeCamp's Phone Number Validator ~> https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator
+JS30 ~> Excercise 19 = https://bit.ly/3hlFyIV
+FreeCodeCamp's Phone Number Validator ~> https://bit.ly/2UpTOas
 
 ## 3. JS30 => #18
 
