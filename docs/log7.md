@@ -46,7 +46,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
----
+## 6. FreeCodeCamp's Cash Register
+
+### Day 6 : July 8, 2021 - Thursday
+
+**Project:**  Structured My Portfolio
+
+**Progress:**
+
+- Created the layout to the Portfolio ~ again.
+  
+**Links:**
+
 ## 5. FreeCodeCamp's Cash Register
 
 ### Day 5 : July 6, 2021 - Tuesday
