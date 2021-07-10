@@ -45,7 +45,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Create tests and creative process live versions of Mod 1-5 projects (2/2).
 
 # Code Log
+
 ---
+
+## 7. Portfolio Wrk V2 && JS30 (Native Speech Recognition 
+
+### Day 7 : July 9, 2021 - Friday
+
+**Project:**  Structured My Portfolio and JS30 Speech Audio Detection
+
+**Progress:**
+- Completed the speech detection audio program.  
+- Created the layout to the portfolio v2  (wireframe).
+  
+**Links:** 
+V2 
+Native Speech Recognition #JS30 ~> https://youtu.be/L_ejDeOGZhE
+
 ## 6. FreeCodeCamp's Cash Register
 
 ### Day 6 : July 8, 2021 - Thursday
