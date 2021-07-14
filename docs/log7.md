@@ -48,6 +48,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 8. JS30 ( 20 ~ Geolocation && 21 ~ Follow Along Link ) && Portfolio Work 
+
+### Day 8 : July 13, 2021 - Tuesday
+
+**Project:**  Structured My Portfolio (Still !!!!!! ) and JS30 ( 20 && 21 )
+
+**Progress:**
+- JS30 ~> Completed exercises 20 && 21 and made notes
+- Tinkering with the layout and functionality of portfoilio 2
+  
+
 ## 7. Portfolio Wrk V2 && JS30 (Native Speech Recognition 
 
 ### Day 7 : July 9, 2021 - Friday
