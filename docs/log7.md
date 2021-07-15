@@ -47,6 +47,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 9. JS30 ( 22 ~ Speech Synthesis )&& Portfolio Work { Still mfkk planning}
+
+### Day 9 : July 14, 2021 - Wednesday
+
+**Project:**  Structured My Portfolio (Still !!!!!! ) and JS30 ( 22 ~> Speech Synthesis )
+
+**Progress:**
+- JS30 ~> Completed exercise 22 and made notes.
+- Tinkering with the layout and functionality of portfolio V2. 
+
+**Links:** 
+Speech Synthesis #JS30 ~> https://youtu.be/F95CZkXcAgk 
 
 ## 8. JS30 ( 20 ~ Geolocation && 21 ~ Follow Along Link ) && Portfolio Work 
 
@@ -56,7 +68,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 - JS30 ~> Completed exercises 20 && 21 and made notes
-- Tinkering with the layout and functionality of portfoilio 2
+- Tinkering with the layout and functionality of portfolio V2
   
 
 ## 7. Portfolio Wrk V2 && JS30 (Native Speech Recognition 
