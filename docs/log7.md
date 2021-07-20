@@ -47,6 +47,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 10. JS30 ( 26 ~ Stripe Follow Along )
+
+### Day 10 : July 19, 2021 - Monday
+
+**Project:**   JS30 (26 ~> Stripe Follow Along)
+
+**Progress:**
+- JS30 ~> Completed exercise 26 and made notes. 
+
+
 ## 9. JS30 ( 22 ~ Speech Synthesis )&& Portfolio Work { Still mfkk planning}
 
 ### Day 9 : July 14, 2021 - Wednesday
