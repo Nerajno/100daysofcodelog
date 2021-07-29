@@ -31,7 +31,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Primary Goals
 - [x] Code for an hour daily.
-- [ ] Complete [Js30](https://javascript30.com/), document and add to #SmallPractices page 
+- [ ] Complete [Js30](https://javascript30.com/)
+- [ ] Post-Op #JS30  and Suggest ideas to build.  
+- [ ] create #SmallPractices|| Learning Field  page/blog (build~planning, process, things learnt, stretch goal etc) 
 - [ ] Create a #SmallPractices page (Learning Field).
 - [ ] Create a Gatsby blog on new porfolio and write  8 blogs.
 - [ ] Complete contract private project (WordPress- CMS Based)
