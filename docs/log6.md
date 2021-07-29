@@ -1,6 +1,6 @@
 ---
-title: 100 Days of Code - Round 1
-description: by [Your Name]
+title: 100 Days of Code - Round 5
+description: by Nerando
 #pg_bk_color: '#e6e8de'
 #header_bk_color: '#1a7f6d'
 #link_color: '#1a7f6d'
@@ -10,269 +10,309 @@ description: by [Your Name]
 # 100 Days of Code
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
-| Log 1 | Log 2 | Log 3 |
-| --- | --- | --- |
-| this log | [100 Days Round 2](log2.html) | [100 Days Round 3](log3.html) |
+| [Round 0](https://nerajno.github.io/100DaysOfCodeLog/log1.html) 
+| [Round 1](https://nerajno.github.io/100DaysOfCodeLog/log2.html) 
+| [Round 2](https://nerajno.github.io/100DaysOfCodeLog/log3.html) 
+| [Round 3](https://nerajno.github.io/100DaysOfCodeLog/log4.html)
+| [Round 4](https://nerajno.github.io/100DaysOfCodeLog/log5.html) 
+|this log 
+| [Round 6](https://nerajno.github.io/100DaysOfCodeLog/log7.html) 
+| [Round 7](log8.html) 
+| [Round 8](log9.html) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
 
-**Commitment:** *I will code daily for the next 100 days.*
+**Commitment:** *I will code for 1hr daily for the next 100 days.*
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Today's date  | - - - |
+| March 8, 2021 | June 21, 2021 |
 
-## Goals
+## Primary Goals
+- [x] Code for an hour daily.
+- [ ] Complete [Js30](https://javascript30.com/), document and add to #SmallPractices page.
+- [ ] Create a #SmallPractices page (Learning Field).
+- [ ] Create a Gatsby blog and write 10 blogs.
+- [ ] Complete private project (WordPress- CMS Based)
+- [ ] Complete JavaScript Algorithms and Data Structures Certification  (freeCodeCamp).
+- [x] Complete Refactoring of Portfolio.
+- [ ] Refactor, document and create live versions of Mod 1-5 projects (1/2).
 
-- [x] Code daily
-- [ ] Goal 2
-- [ ] Goal 3
+## Secondary Goals
+- [x] Pull together Paratransit web portfolio.
+- [ ] Complete Udemy Firebase Course. 
+- [ ] Complete (Refactor, document and create live versions of Mod 1-5 projects (2/2).)
 
-# Code Log
 
 ---
+## 18. Javascript ~  FCC Algorithms/ JS30  
+### Day 18 : Monday - June 14,2021
 
-<<<<<<< HEAD
-## 1. Sample Entry
-### Day 1: February 26, 2019 - Tuesday
-=======
-## 31. Checkout Page
-### Day 31: August 30, 2019 - Friday
 
-**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
 
-[![App](assets/images/r6d31-small.jpg)](assets/images/r6d31.jpg)<br>
-<span class="center bold">Checkout Page</span>
+## 18. Javascript ~  FCC Algorithms/ JS30  
+### Day 18 : Monday - June 14,2021
+
+**Project:**  Problem Solving
 
 **Progress:**
+Javascript ~  FCC Algorithms(x 2)/ JS30 (x 1)  
+#100daysOfCode  ~ Updated and edited the log.
 
-In this lesson I built the cart page which allows the quantity to be updated and also allows removing of items from the cart.
+## 17. React @ Treehouse(React Components ~ Type Components)
+### Day 17 : Wednesday - April 14,2021
 
-This was done with
+**Project:**  React via Treehouse.
 
-- Redux Actions
-- Redux Reducers
-- Utility functions
+**Progress:**
+Treehouse ~ (React Components @ Completed)
+#100daysOfCode  ~ Updated and edited the log.
 
-The cartItem component looks like this.
+## 16. React @ Treehouse(React Components ~ Type Components)
+### Day 16 : Tuesday - April 13,2021
 
-```jsx
-import React from 'react';
-import { connect } from 'react-redux';
+**Project:**  React via Treehouse.
 
-import {
-  addItem,
-  removeItem,
-  clearItemFromCart
-} from '../../redux/cart/cart.actions';
+**Progress:**
+Treehouse ~ (React Components @ Completed)
+#100daysOfCode  ~ Updated and edited the log.
 
-import './checkout-item.styles.scss';
 
-const CheckoutItem = ({ cartItem, clearItem, addItem, removeItem }) => {
-  const { name, imageUrl, price, quantity } = cartItem;
-  return (
-    <div className="checkout-item">
-      <div className="image-container">
-        <img src={imageUrl} alt="item" />
-      </div>
-      <span className="name">{name}</span>
-      <span className="quantity">
-        <div className="arrow" onClick={() => removeItem(cartItem)}>
-          &#10094;
-        </div>
-        <span className="value">{quantity}</span>
-        <div className="arrow" onClick={() => addItem(cartItem)}>
-          &#10095;
-        </div>
-      </span>
-      <span className="price">{price}</span>
-      <span className="remove-button" onClick={() => clearItem(cartItem)}>
-        &#10005;
-      </span>
-    </div>
-  );
-};
+## 15. React @ Treehouse(React Components)
+### Day 15 : Monday - April 12,2021
 
-const mapDispatchToProps = dispatch => ({
-  clearItem: item => dispatch(clearItemFromCart(item)),
-  addItem: item => dispatch(addItem(item)),
-  removeItem: item => dispatch(removeItem(item))
-});
+**Project:** Giphy Practice @ React via Treehouse.
 
-export default connect(
-  null,
-  mapDispatchToProps
-)(CheckoutItem);
-```
+**Progress:**
+Treehouse ~ React/Giphy (React Components @ Completed)
+#100daysOfCode  ~ Updated and edited the log.
+
 
 **Links:**
-- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
-- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Treehouse ~ https://teamtreehouse.com/tracks/learn-react
 
 ---
 
-## 30. Cart Display
-### Day 30: August 28, 2019 - Wednesday
+## 14. Coding with G, Brada (React Dashboard) and React @ Treehouse(React Components)
+### Day 14 : Sunday - March 21,2021
 
-**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
-
-[![App](assets/images/r6d30-small.jpg)](assets/images/r6d30.jpg)<br>
-<span class="center bold">Cart Display</span>
+**Project:** Coding with G,  Brada, React via Treehouse.
 
 **Progress:**
-
-This lesson dealt with creating the CartItem component to display products added to the cart.
-
-It uses the connect() method of 'react-redux' to access the store.
-
-[![App](assets/images/r6d30a-small.jpg)](assets/images/r6d30a.jpg)<br>
-<span class="center bold">Card Display with Redux store</span>
+Treehouse ~ React (React Components @ 1/4)
+#100daysOfCode  ~ Updated and edited the log.
+Started to style the dashboard using Material UI ~ Brada.
 
 **Links:**
-- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
-- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Treehouse ~ https://teamtreehouse.com/tracks/learn-react
+Brada ~ Not Yet
 
 ---
 
-## 29. Add Items to Cart
-### Day 29: August 27, 2019 - Tuesday
+## 13. Coding with G and React @ Treehouse
+### Day 13 : Saturday - March 20,2021
 
-**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
-
-[![App](assets/images/r6d29-small.jpg)](assets/images/r6d29.jpg)<br>
-<span class="center bold">Redux Logger</span>
+**Project:** Coding with G, React via Treehouse.
 
 **Progress:**
-
-In this lesson we learned how to add items to our Redux shopping cart.
-
-[![App](assets/images/r6d29a-small.jpg)](assets/images/r6d29a.jpg)<br>
-<span class="center bold">Items added to cart</span>
-
-This is displayed in our Redux logger.
-
-Multiple items are handled with a cart utility function.
-
-[![App](assets/images/r6d29b-small.jpg)](assets/images/r6d29b.jpg)<br>
-<span class="center bold">Utility function in reducer</span>
+Treehouse ~ React( Completed React Basics && Completed the Practice..... Awesomeness)
+#100daysOfCode  ~ Updated and edited the log.
 
 **Links:**
-- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
-- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Treehouse ~ https://teamtreehouse.com/tracks/learn-react
 
 ---
 
-## 28. Display Product Items
-### Day 28: August 26, 2019 - Monday
+## 12. Coding with G and React @ Treehouse
+### Day 12 : Friday - March 19,2021
 
-**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
-
-[![App](assets/images/r6d28-small.jpg)](assets/images/r6d28.jpg)<br>
-<span class="center bold">Product Items</span>
+**Project:** Coding with G, React via Treehouse.
 
 **Progress:**
-
-This lesson dealt with setting up the display of products and creating buttons on items to add them to the shopping cart.
-
-[![App](assets/images/r6d28a-small.jpg)](assets/images/r6d28a.jpg)<br>
-<span class="center bold">Add Item to cart</span>
+Treehouse ~ React (2 hr session @ 50%)
+#100daysOfCode  ~ Updated and edited the log.
+Updated Small bits of my profolio. 
 
 **Links:**
-- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
-- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Treehouse ~ https://teamtreehouse.com/tracks/learn-react
 
 ---
 
-## 27. Add Redux Boilerplate
-### Day 27: August 24, 2019 - Saturday
+## 11. Coding with G and React @ Treehouse
+### Day 11 : Thursday - March 18,2021
 
-**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
-
-[![App](assets/images/r6d27-small.jpg)](assets/images/r6d27.jpg)<br>
-<span class="center bold">Redux Flow</span>
+**Project:** Coding with G, React via Treehouse.
 
 **Progress:**
-
-This set of lessons was all about setting up Redux boilerplate into an existing app.
-
-Middleware was set up for Redux logging.
-
-[![App](assets/images/r6d27b-small.jpg)](assets/images/r6d27b.jpg)<br>
-<span class="center bold">Redux Logger</span>
-
-The nice thing that this lesson focused on was proper organization of items for large-scale applications.
-
-It included:
-
-- Types & constants
-- Action creators
-- Reducers
-- Middleware
-
-[![App](assets/images/r6d27a-small.jpg)](assets/images/r6d27a.jpg)<br>
-<span class="center bold">VS Code</span>
+Treehouse ~ React (1st 2 hr session @ 40%)
+#100daysOfCode  ~ Updated and edited the log.
 
 **Links:**
-- My GitHub Repo - [Crown Clothing Repo](https://github.com/james-priest/crown-clothing)
-- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Treehouse ~ https://teamtreehouse.com/tracks/learn-react
 
 ---
 
-## 26. Firebase Firestore
-### Day 26: August 22, 2019 - Thursday
+## 10. Burble. 
+### Day 10 : Wednesday - March 17,2021
 
-**Project:** [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery/) - Neagoie & Zhang
-
-[![App](assets/images/r6d26-small.jpg)](assets/images/r6d26.jpg)<br>
-<span class="center bold">Firebase Firestore</span>
+**Project:** Coding with G, React via Treehouse and Burble.
 
 **Progress:**
-
-Today I implemented two forms of Firebase Authentication:
-
-- Sign In with Google (OAuth)
-- Email & Password Sign In
-
-I also started working with Firestore which is a NoSQL database that allows saving of:
->>>>>>> e152888ec606ed0978802f49643523d6a6c29730
-
-**Project:** Code Log Template
-
-[![new code log](assets/images/day1-small.jpg)](assets/images/day1.jpg)
-
-**Progress:** Created a new GitHub repo for my code log.
-
-This repo is redesigned so that it can be forked and cloned for others to use. I'm still in the process of writing out the README to cover the following areas
-
-- installation
-- usage
-- customization
-- image optimization
-- set-up & testing
-
-**Links:** My GitHub repo [https://github.com/james-priest/100-days-log](https://github.com/james-priest/100-days-log)
-
----
-
-## 2. Entry Title
-### Day 2: Date - Day
-
-**Project:**
-
-**Progress:**
+Burble ~ Tried to add the sort filter and had some issues.
+Treehouse ~ React (2 hr session @ 25%)
+#100daysOfCode  ~ Updated and edited the log.
 
 **Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Burble  ~ https://developingdvlpr.com//
+Treehouse ~ https://teamtreehouse.com/tracks/learn-react
 
 ---
 
-## 3. Entry Title
-### Day 3: Date - Day
+## 9. Trapper Keepr. 
+### Day 9 : Tuesday - March 16,2021
 
-**Project:**
+**Project:** Coding with G and Refactored Portfolio.
 
 **Progress:**
+Personal Portfolio ~ Updated all the layout and made it matched all my LinkedIn and resume  .
+#100daysOfCode  ~ Updated and edited the log.
 
 **Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Personal Portfolio  ~ https://developingdvlpr.com//
 
+---
+
+## 8. Trapper Keepr.
+### Day 8 : Monday - March 15,2021
+
+**Project:** Coding with G and Trapper Keepr, Refactored Portfolio.
+
+**Progress:**
+Trappr Keeper ~ Completed ReadMe V1 and added to all places.
+#100daysOfCode  ~ Updated and edited the log.
+
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Trappr Keeper ~ https://whispering-headland-07077.herokuapp.com/
+
+---
+
+## 7. Trapper Keepr. 
+### Day 7 : Sunday - March 14,2021
+
+**Project:** Coding with G and Trapper Keepr
+
+**Progress:**
+Trappr Keeper ~ Did installed custom Bootstrap styling, implemented better SEO, custom url via heruko and fixed a cron job.
+#100daysOfCode  ~ Updated and edited the log.
+
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Trappr Keeper ~ https://whispering-headland-07077.herokuapp.com/
+
+---
+
+## 6. Update Gatsby Blog, Trapper Keepr and Blog Restructuring. 
+### Day 6 : Saturday - March 13,2021
+
+**Project:** Coding with G, Gatsby Blog Re-structuring and Trapper Keepr.
+
+**Progress:**
+Trappr Keeper ~ Did some styling and inplemented a cron job and opened it up to being reviewed.
+#100daysOfCode  ~ Updated and edited the log.
+Gatsby ~ Created repo and connected it to github as my personal blog.
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Trappr Keeper ~ https://whispering-headland-07077.herokuapp.com/
+My Gatsby Template Documentation ~ https://www.gatsbyjs.com/starters/justinformentin/gatsby-v2-tutorial-starter 
+
+---
+
+## 5. Styling Trappr Keeper and Figured Gatsby 
+### Day 5 : Friday - March 12,2021
+
+**Project:** Coding with G, Trappr Keeper and Gatsby.
+
+**Progress:**
+Trappr Keeper ~ Begin to apply styling to the app.
+#100daysOfCode  ~ Updated and edited the log.
+Gatsby ~ Figured out how to use a starter template to start or use as my personal blog.
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Trappr Keeper ~ https://whispering-headland-07077.herokuapp.com/
+My Template Documentation ~ https://www.gatsbyjs.com/starters/justinformentin/gatsby-v2-tutorial-starter 
+
+---
+
+## 4. Figure Out Styling for Trappr Keeper
+### Day 4 : Thursday - March 11,2021
+
+**Project:** Coding with G and Trappr Keeper.
+
+**Progress:**
+Trappr Keeper ~ Figured out how to apply a styling sheet to the app.
+#100daysOfCode  ~ Updated and edited the log.
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Trappr Keeper ~ https://whispering-headland-07077.herokuapp.com/
+
+---
+
+## 3. Updated Burble
+### Day 3: Wednesday - March 10,2021
+
+**Project:** Coding with G and updated Burble.
+
+**Progress:**
+Burble ~ Added a filter function using useEffect to return results on search.
+#100daysOfCode  ~ Updated and edited the log.
+
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+Burble ~ https://burble-5c404.web.app/
+
+---
+
+## 2. Fixed/Updated Portfolio Content && Tinkered with Gatsby Blog Setup
+### Day 2: Tuesday - March 9,2021
+
+**Project:** Coding with G, Updated Portfolio Content & Gatsby Blog Setup.
+
+**Progress:**
+Portfolio Content ~ Updated content based on feedback Virtual Coffee feedback.
+#100daysOfCode  ~ Updated and edited the log.
+*Gatsby Blog Setup ~ Setup(https://www.gatsbyjs.com/docs/starters/#reach-skip-nav) && Template (https://www.gatsbyjs.com/starters/alxshelepenok/gatsby-starter-lumen/)
+*Went to a React Meetup on React Architecture.
+
+**Links:**
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
+
+---
+
+## 1. Burble && Updating #100daysofCode Log
+### Day 1: Monday - March 8,2021
+
+**Project:** Coding with G and Fixing/Adding Features to Burble.
+
+**Progress:**
+Burble ~ Added a footer.
+#100daysOfCode  ~ Updated and edited the log.
+
+**Links:**
+Burble ~ https://burble-5c404.web.app/
+#100daysOfCode  ~ https://nerajno.github.io/100DaysOfCodeLog/index.html
 ---

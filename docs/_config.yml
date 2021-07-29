@@ -12,4 +12,4 @@ exclude: [
   package.json,
   src/
 ]
-# url: http://localhost
+url: http://localhost

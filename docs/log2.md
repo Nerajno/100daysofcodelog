@@ -12,7 +12,14 @@ link_color: '#1a7f6d'
 
 ## 100 Days of Code
 
-| [Round 0](https://github.com/Nerajno/100-days-log/blob/master/docs/log1.md) | this log | [Round 2](log3.html) | [Round 3](log4.html) | [Round 4](log5.html) | [Round 5](log6.html)  | [Round 6](log7.html) | [Round 7](log8.html) |
+| [Round 0](https://nerajno.github.io/100DaysOfCodeLog/log1.html) 
+| this log 
+| [Round 2](https://nerajno.github.io/100DaysOfCodeLog/log3.html) 
+| [Round 3](https://nerajno.github.io/100DaysOfCodeLog/log4.html)
+| [Round 4](https://nerajno.github.io/100DaysOfCodeLog/log5.html) 
+| [Round 5](https://nerajno.github.io/100DaysOfCodeLog/log6.html) 
+| [Round 6](https://nerajno.github.io/100DaysOfCodeLog/log7.html) 
+| [Round 7](log8.html) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -27,11 +34,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [x] Code for at least 1hr daily.
 - [x] Complete Learning how to learn and make notes. 
-- [ ] Complete Js30.
 - [x] Write blogs according to the requirements of my #Mod6. 
 - [x] Complete my V1 of  my portfolio.
+- [ ] Complete Js30.
 - [ ] Complete Jeleva's project. 
 - [ ] Create a demo of a project using stack of Mobile App Hero. => {React Native, Redux/ React Hooks, Firebase etc}
+
+## Final Thoughts
+---
+Got into a groove to code daily. Liked it and worked on several projects brought them to life. I now need to block a time ( 1hr) and turn it all off daily and work on a specific problem or planned coding issue.
+
 
 # Code Log
 ## 29-34.   Personal Project || Technical Documentation Page || MaxiMillian's React Course 
