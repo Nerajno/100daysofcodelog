@@ -6,5 +6,5 @@ This repo is being used to track my progress for  100 Days of Code Challenge ([h
 # Todo {Current Round || March 8 - June 21,2021}
 - [ ] Make Readme better looking and more informative.
 - [ ] Implement personal branding and story telling for whole log.
-- [ ] Make the Log a part of this ReadMe. 
+- [ ] Make this log a part of this current ReadMe or provide a link. 
   
