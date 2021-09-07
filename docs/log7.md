@@ -47,6 +47,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+## 12.  FreeCodeCamp  
+### Day 12 : September 6, 2021 - Tuesday
+
+**Project:**  Updated Burble   
+
+**Progress:**
+- Worked on Burble to get new api key to work --- had to reinstall firebase. 
 ## 11.  FreeCodeCamp  
 ### Day 11 : August 24, 2021 - Tuesday
 
