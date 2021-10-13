@@ -17,8 +17,8 @@ description: by Nerando
 | [Round 4](https://nerajno.github.io/100DaysOfCodeLog/log5.html) 
 |this log 
 | [Round 6](https://nerajno.github.io/100DaysOfCodeLog/log7.html) 
-| [Round 7](log8.html) 
-| [Round 8](log9.html) |
+| [Round 7](https://nerajno.github.io/100DaysOfCodeLog/log8.html) 
+| 
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
