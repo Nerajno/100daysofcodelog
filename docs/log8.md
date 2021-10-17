@@ -26,13 +26,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Today's date  | - - - |
+| October 16, 2021 | January 24, 2022 |
 
-## Goals
+## Primary Goals
+- [ ] Hacktoberfest 2021
+- [ ] MERN work for 1hr daily
+- [ ] Complete Wrk DevOps training ( 1 hr daily).
+- [ ] 100Blackdevs (issues for site improvement, A0B)
+- [ ] Code for an hour daily.
+- [ ] Post-Op #JS30  and suggest ideas to build.  
+- [ ] Create a #SmallPractices page (Learning Field).
+- [ ] Create a Gatsby blog on new porfolio and deploy 7 blogs.
+- [ ] Complete contract private project (WordPress- CMS Based)
+- [ ] Complete Front End Development Libraries Certification  ~> (freeCodeCamp).
+- [ ] Complete Refactoring of Portfolio V2 and deploy.
+- [ ] Refactor, document and create live versions of Mod 1-5 projects.
 
-- [x] Code daily
-- [ ] Goal 2
-- [ ] Goal 3
+## Secondary Goals
+- [ ] Pull together Paratransit web portfolio.
+- [ ] Create tests, documentation and creative process for live versions of Mod 1-5 projects (2/2).
 
 # Code Log
 

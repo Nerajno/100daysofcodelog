@@ -17,3 +17,4 @@ Below are my code logs for each round of this challenge.
 | [Round 4](log5.html) | Nov 23, 2020  | Mar 3, 2021  | Ok~ish |
 | [Round 5](log6.html) | March 8, 2021 | June 21,2021 | Yeah, Nope |
 | [Round 6](log7.html) | June 30, 2021 | October 4, 2021 | Here We Go Again |
+| [Round 7](log8.html) | October 16, 2021 | January 24, 2022 | 7th Time Itch |
