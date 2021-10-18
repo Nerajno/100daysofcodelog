@@ -47,29 +47,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Create tests, documentation and creative process for live versions of Mod 1-5 projects (2/2).
 
 # Code Log
-
 ---
 
-## 1. Sample Entry
-### Day 1: February 26, 2019 - Tuesday
+## 2. 
+### Day 2: October 17, 2021 - Sunday
 
-**Project:** Code Log Template
+**Project:** HacktoberFest
 
-[![new code log](assets/images/day1-small.jpg)](assets/images/day1.jpg)
+**Progress:** Reviewed what is needed for an issue that I choose to fix with my VC crew and realised that I need more Ram in my laptop (STUCK).
+              Research other issues to fix.
 
-**Progress:** Created a new GitHub repo for my code log.
+## 1. Restart
+### Day 1: October 16, 2021 - Saturday
 
-This repo is redesigned so that it can be forked and cloned for others to use. I'm still in the process of writing out the README to cover the following areas
+**Project:** Revamp 100DaysofCode log and HacktoberFest(2/4)
 
-- installation
-- usage
-- customization
-- image optimization
-- set-up & testing
+**Progress:** Revamped my GitHub repo for my code log and reviewed what is needed for an issue that I choose to fix.
 
-**Links:** My GitHub repo [https://github.com/james-priest/100-days-log](https://github.com/james-priest/100-days-log)
 
----
+
 
 ## 2. Entry Title
 ### Day 2: Date - Day
