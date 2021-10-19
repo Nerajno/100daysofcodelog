@@ -48,14 +48,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
+## 3.  JavaScript Mastery && Hacktoberfest 
+### Day 3: October 18, 2021 - Monday
 
-## 2. 
+**Project:** HacktoberFest && JavaScript Mastery
+
+**Progress:** Started FullStack MERN Project ~ Stopped @ 15 mins in, had bugs in and fixed it.
+              Working on Hacktoberfest issues ( thisdot/tech-podcasts) #hacktoberfest #2/4
+
+## 2. Hacktoberfest 
 ### Day 2: October 17, 2021 - Sunday
 
 **Project:** HacktoberFest
 
 **Progress:** Reviewed what is needed for an issue that I choose to fix with my VC crew and realised that I need more Ram in my laptop (STUCK).
-              Research other issues to fix.
+              Research other issues to fix. (Found)
 
 ## 1. Restart
 ### Day 1: October 16, 2021 - Saturday
