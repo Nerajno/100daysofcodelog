@@ -48,6 +48,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
+## 4.  ~~JavaScript Mastery~~ FCC MERN Stack Course && Hacktoberfest 
+### Day 4: October 19, 2021 - Tuesday
+
+**Project:** HacktoberFest && ~~JavaScript Mastery MERN Course~~ FCC MERN Stack Course
+
+**Progress:** Abandoned previous JavaScript Mastery MERN stack course to got to FCC MERN course as it was more recent and had less bugs.
+              Working on Hacktoberfest issues ( thisdot/tech-podcasts) #hacktoberfest #2/4 => made pull request 
+
 ## 3.  JavaScript Mastery && Hacktoberfest 
 ### Day 3: October 18, 2021 - Monday
 
