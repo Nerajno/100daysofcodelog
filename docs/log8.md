@@ -49,8 +49,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 6.  FCC MERN Stack Course && Hacktoberfest 
+### Day 6: October 21, 2021 - Wednesday
 
+**Project:** HacktoberFest && FCC MERN Stack Course
 
+**Progress:** FCC MERN is buggy and outdated ( Understood MongoDB  setup though). 
+              Working on Hacktoberfest issues ( thisdot/tech-podcasts) #hacktoberfest #2/4 => pull request got pull request merged.
+              Bought Brad Traversy MERN Course
+              
 ## 5.  ~~JavaScript Mastery~~ FCC MERN Stack Course && Hacktoberfest 
 ### Day 5: October 20, 2021 - Wednesday
 
