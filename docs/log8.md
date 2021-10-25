@@ -48,7 +48,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
+## 9.  Brad Travesty's MERN Stack Course
+### Day 9: October 24, 2021 - Sunday
 
+**Project:** Mern Course
+
+**Progress:** MERN COURSE ~> Section 7
+
+
+## 8.  FCC MERN Stack Course
+### Day 8: October 23, 2021 - Saturday
+
+**Project:** Hacktoberfest 
+
+**Progress:** Hacktoberfest ~> Initialized and quick fixed the 2nd pull request.  
 
 ## 7.  FCC MERN Stack Course
 ### Day 7: October 22, 2021 - Friday
