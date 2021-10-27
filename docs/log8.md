@@ -49,6 +49,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 11.  Brad Travesty's MERN Stack Course
+### Day 11: October 26, 2021 - Tuesday
+
+**Project:** Mern Course ~ Completed Step 7 && Fixed bugs
+
+**Progress:** MERN COURSE ~> Section 7 { Learnt how to upgrade node  - both on machine and in project - Again}
+
 ## 10.  Brad Travesty's MERN Stack Course
 ### Day 10: October 25, 2021 - Monday
 
