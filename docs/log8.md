@@ -49,6 +49,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 12. Hacktoberfest 2021
+### Day 12: October 27, 2021 - Wednesday
+
+**Project:**  Hacktoberfest ~ Looking into my last pull request
+
+**Progress:** Did the research and started to add the links.
+
+
 ## 11.  Brad Travesty's MERN Stack Course
 ### Day 11: October 26, 2021 - Tuesday
 
