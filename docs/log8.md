@@ -49,6 +49,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 13. Hacktoberfest 2021 && MERN Course
+### Day 13: October 28, 2021 - Thursday
+
+**Project:**  Hacktoberfest ~ Added 10 links and alphabetized them.
+              MERN course ~ Completed testing and grouping of the api 
+              Contined github hooks
+
+**Progress:** See above.
+
 ## 12. Hacktoberfest 2021
 ### Day 12: October 27, 2021 - Wednesday
 
