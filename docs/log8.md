@@ -49,8 +49,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 13. MERN Course
+### Day 13: October 30, 2021 - Saturday
+
+**Project:**  MERN course ~ Got something to work with the api and got it to reflect in Postman
+
+**Progress:** See Above
+
+## 14. Hacktoberfest 2021 && MERN Course
+### Day 14: October 29, 2021 - Friday
+
+**Project:**  Hacktoberfest ~ Added 10 links and alphabetized them, added them to the newsletter and pushed them to the 
+              MERN course ~ Completed testing and grouping of the api ( got Postman to run)
+
+**Progress:** See above.
+
 ## 13. Hacktoberfest 2021 && MERN Course
-### Day 13: October 28, 2021 - Thursday
+### Day 13: October 28, 2021 - Thurday
 
 **Project:**  Hacktoberfest ~ Added 10 links and alphabetized them.
               MERN course ~ Completed testing and grouping of the api 
