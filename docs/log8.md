@@ -49,6 +49,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 14. Took a Break
+### Day 15: Nov 1, 2021 - Monday
+
+**Project:** Took a day off and chilled. 
+
+## 14. AOB ~ Blog
+### Day 13: October 31, 2021 - Sunday
+
+**Project:**  AOB ~ Found a draft of a blog with alternative IRL networking tools
+
+**Progress:** See Above
+
 ## 13. MERN Course
 ### Day 13: October 30, 2021 - Saturday
 
