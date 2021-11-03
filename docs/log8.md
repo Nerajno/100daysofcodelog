@@ -49,6 +49,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 17. MERN Course 
+### Day 17: Nov 3, 2021 - Wednesday
+
+**Project:** MERN - Understood, troubleshooted && implemented JWT. 
 
 ## 16. MERN Course 
 ### Day 16: Nov 2, 2021 - Tuesday
