@@ -49,7 +49,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
-## 14. Took a Break
+
+## 16. MERN Course 
+### Day 16: Nov 2, 2021 - Tuesday
+
+**Project:** Followed along in the course and got it to work and register a user. 
+
+## 15. Took a Break
 ### Day 15: Nov 1, 2021 - Monday
 
 **Project:** Took a day off and chilled. 
