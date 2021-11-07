@@ -49,6 +49,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 18, 19, 20 . MERN Course 
+### Days : Nov 4 -6 , 2021 - Thursday - Saturday
+
+**Project:** MERN - Troubleshoot, Understood  and Implemented Auth. 
+
 ## 17. MERN Course 
 ### Day 17: Nov 3, 2021 - Wednesday
 
