@@ -49,6 +49,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 22 
+
+### Days : 22 ~> Connect Tech 2021 
+
+**Project:** Worked on an introduction to TypeScript app which helped me to understand typing.
+
+## 21 
+### Days : 21 ~ > Not Sure 
+
+**Project:** I forgot
+
 ## 18, 19, 20 . MERN Course 
 ### Days : Nov 4 -6 , 2021 - Thursday - Saturday
 
