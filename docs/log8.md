@@ -29,7 +29,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | October 16, 2021 | January 24, 2022 |
 
 ## Primary Goals
-- [ ] Hacktoberfest 2021
+- [x] Hacktoberfest 2021
 - [ ] MERN work for 1hr daily
 - [ ] Complete Wrk DevOps training ( 1 hr daily).
 - [ ] 100Blackdevs (issues for site improvement, A0B)
@@ -49,9 +49,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
-## 22 
+## 23. MERN Course ( 65 days to go)
+### Day 23: November 20, 2021 - Saturday
 
-### Days : 22 ~> Connect Tech 2021 
+**Project:** MERN course ~ Completed testing and updating of the api ( got Postman to run and saved it). 
+
+**Progress:** See above.
+
+
+## 22. ConnectTech 2021
+
+### Days : Nov 8,2021 ~> Connect Tech 2021 / Day 1
 
 **Project:** Worked on an introduction to TypeScript app which helped me to understand typing.
 
