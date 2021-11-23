@@ -49,6 +49,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 25. MERN Course ( 63 days to go)
+### Day 25: November 22, 2021 - Monday
+
+**Project:** MERN course ~ Stuck (STILL) on creating and updating Profile routes. 
+
+**Progress:** See above.
+
 ## 24. MERN Course ( 64 days to go)
 ### Day 24: November 21, 2021 - Sunday
 
