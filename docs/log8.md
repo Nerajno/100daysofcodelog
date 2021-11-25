@@ -49,6 +49,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 26. MERN Course ( 60 days to go)
+### Day 25: November 25, 2021 - Thursday
+
+**Project:** MERN course ~ Creating User Profiles but getting errors from postman. 
+
+**Progress:** See above.
+
 ## 25. MERN Course ( 63 days to go)
 ### Day 25: November 22, 2021 - Monday
 
