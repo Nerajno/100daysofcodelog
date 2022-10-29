@@ -21,20 +21,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Today's date  | - - - |
+| January 23, 2022  | May 3, 2022 |
 
-## Goals
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| October 16, 2021 | January 24, 2022 |
 
-- [x] Code daily
-- [ ] Goal 2
-- [ ] Goal 3
+## Primary Goals
+- [ ] REACT/MERN work for 1hr daily ( Complete Udemy React Course).
+- [ ] Complete Wrk DevOps training ( 1 hr daily).
+- [ ] 100Blackdevs (issues for site improvement, A0B) ???
+- [ ] Code for an hour daily.
+- [ ] Post-Op #JS30  and suggest ideas to build and blog about it.   
+- [ ] Create a #SmallPractices page (Learning Field) ~> Learning Garden. 
+- [ ] Create a Gatsby or other format blog on new porfolio and deploy 4 blogs.
+- [ ] Complete Front End Development Libraries Certification  ~> (freeCodeCamp).
+- [ ] Complete Refactoring of Portfolio V2 and deploy.
+- [ ] Refactor, document and create live versions of Mod 1 -3  projects.
+- [ ] Clean up Github and stuff to move learning space.   
 
+## Secondary Goals
+- [ ] Pull together Paratransit web portfolio.
+- [ ] Look into FCC (website creation).
 # Code Log
 
 ---
 
-## 1. Sample Entry
-### Day 1: February 26, 2019 - Tuesday
+## 1. Review JS Basics
+### Day 1: January 23, 2022 - Sunday
 
 **Project:** Code Log Template
 
@@ -54,8 +68,8 @@ This repo is redesigned so that it can be forked and cloned for others to use. I
 
 ---
 
-## 2. Entry Title
-### Day 2: Date - Day
+## 2. Review JS Basics => ES6 Basics 
+### Day 1: January 24, 2022 - Monday
 
 **Project:**
 
