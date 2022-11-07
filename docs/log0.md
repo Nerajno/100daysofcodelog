@@ -26,9 +26,10 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ## Primary Goals
 - [ ] Code for an hour daily building.
+- [ ] Complete Burble rebuild. 
 - [ ] Post-Op #JS30 and noting ideas to build and blog about it ~> What to build after JS30 [Beginner/Intermediate].   
 - [ ] Create a #SmallPractices page (Learning Field)  ~> Learning Garden [What I am building, what I am learning, links to the documentation and live version].
-- [ ] Create and add a Gatsby or other format blog to my porfolio and deploy 4 blogs via using https://github.com/Nerajno/TheKorner
+- [ ] Create and add a Gatsby or other format blog to my portfolio and deploy 4 blogs via using https://github.com/Nerajno/TheKorner
 - [ ] Complete Front End Development Libraries Certification  ~> (freeCodeCamp).
 - [ ] Complete Refactoring of Portfolio V3 in plane html and css to make mobile compatible.
 - [ ] Implement testing v1 
@@ -57,7 +58,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
-## 0. Revamped Burble 
+## 0. Revamped Burble && Updated #100days of Code Log
 ### Day 0: Nov 6, 2022 - Sunday
 
 **Project:** Code Log Template && Burble
@@ -66,7 +67,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 Code Log
 - Laying out the format.
-- Update the repo and formating to meet current needs.
+- Update the repo and formatting to meet current needs.
 
 Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=ntYXj9W1Ez8&feature=youtu.be&ab_channel=TuatTranAnh).
  I'm still in the process of writing out the README to cover the following areas
@@ -80,6 +81,17 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
+## 1. Worked on Burble
+### Day 1: Nov 7, 2023 - Monday
+
+**Project:** Burble
+
+**Progress:** Added the Scss file structure.
+
+**Links:** Using this Youtube [tutorial](https://www.youtube.com/watch?v=ntYXj9W1Ez8&ab_channel=TuatTranAnh) to update my older project.
+
+
+---
 ## 0. Entry Title
 ### Day 0: Date - Day
 

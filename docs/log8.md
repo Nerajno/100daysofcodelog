@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 100 Days of Code - Round 7
 description: by Nerajno
 #pg_bk_color: '#e6e8de'
@@ -255,4 +255,4 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Links:**
 
----
+--- -->
