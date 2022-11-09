@@ -103,6 +103,17 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Links:** Look at [this tweet](https://twitter.com/nerajno/status/1589987670759182338) for clarity with a blog to follow.
 
 ---
+
+## 3. Conference ~ ConnectTech 2022
+### Day 3: Nov 9, 2023 - Wednesday
+
+**Project:** Intermission : ConnectTech 2022 Day 2
+
+**Progress:** Learning new tools to further the craft and giving my talk about Open Sourced Learning
+
+**Links:** Look at [this tweet thread ](https://twitter.com/nerajno/status/1590350807362568192?s=20&t=aRbPFqLaKe95DKsSQD8-RA) for clarity. 
+
+---
 ## 0. Entry Title
 ### Day 0: Date - Day
 
