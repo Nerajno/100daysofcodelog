@@ -92,6 +92,17 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 
 ---
+
+## 2. Conference ~ ConnectTech 2022
+### Day 2: Nov 8, 2023 - Tuesday
+
+**Project:** Intermission : ConnectTech 2022
+
+**Progress:** Learning new tools to further the craft.
+
+**Links:** Look at [this tweet](https://twitter.com/nerajno/status/1589987670759182338) for clarity with a blog to follow.
+
+---
 ## 0. Entry Title
 ### Day 0: Date - Day
 

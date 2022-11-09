@@ -10,4 +10,4 @@ Below are my code logs for each round of this challenge.
 
 | Code Log | Start | End | Results/How It went
 | --- | --- | --- |
-| [Round 0](log0.html) | Jan 23, 2022 | May 3, 2022 | Ongoing **|
+| [Round 0](log0.html) | Nov 6, 2022  | Feb 12, 2023  | Ongoing **|
