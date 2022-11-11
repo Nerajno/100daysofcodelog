@@ -114,6 +114,16 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Links:** Look at [this tweet thread ](https://twitter.com/nerajno/status/1590350807362568192?s=20&t=aRbPFqLaKe95DKsSQD8-RA) for clarity. 
 
 ---
+## 4. Post Conference Recovery ~ ConnectTech 2022
+### Day 4: Nov 10, 2023 - Thursday
+
+**Project:** Recovery : ConnectTech 2022 && Burble
+
+**Progress:** Resting post ConnectTech 2022 && making notes for an article.
+              Working on configApi for Burble.
+
+
+---
 ## 0. Entry Title
 ### Day 0: Date - Day
 
