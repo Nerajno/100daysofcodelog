@@ -122,6 +122,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Resting post ConnectTech 2022 && making notes for an article.
               Working on configApi for Burble.
 
+---
 ## 5. Burble
 ### Day 5: Nov 11, 2023 - Friday
 
@@ -129,11 +130,18 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Completed working on configApi for Burble.
 
-
-
 ---
+## 6. Burble
+### Day 6: Nov 12, 2023 - Saturday
+
+**Project:** Burble
+
+**Progress:** Burble ~ Completed creating the routes and the header.
+
+
+
 ## 0. Entry Title
-### Day 0: Date - Day
+# Day 0: Date - Day
 
 **Project:**
 
