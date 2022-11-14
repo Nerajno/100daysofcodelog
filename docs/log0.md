@@ -137,8 +137,16 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Burble
 
 **Progress:** Burble ~ Completed creating the routes and the header.
+              Updated isNerandodoneyet.com
 
+---
+## 7. Burble
+### Day 7: Nov 13, 2023 - Sunday
 
+**Project:** Burble
+
+**Progress:** Burble ~ Completed creating the modal && button.
+             
 
 ## 0. Entry Title
 # Day 0: Date - Day
