@@ -146,7 +146,16 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Burble
 
 **Progress:** Burble ~ Completed creating the modal && button.
-             
+
+---
+## 8. Burble
+### Day 8: Nov 14, 2023 - Sunday
+
+**Project:** Burble
+
+**Progress:** Burble ~ Stuck on hero_slider.
+
+
 
 ## 0. Entry Title
 # Day 0: Date - Day
