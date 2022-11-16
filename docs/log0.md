@@ -149,12 +149,19 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 8. Burble
-### Day 8: Nov 14, 2023 - Sunday
+### Day 8: Nov 14, 2023 - Monday
 
 **Project:** Burble
 
 **Progress:** Burble ~ Stuck on hero_slider.
 
+---
+## 9. Burble
+### Day 9: Nov 14, 2023 - Tuesday
+
+**Project:** Burble
+
+**Progress:** Burble ~ Still on hero_slider.
 
 
 ## 0. Entry Title
