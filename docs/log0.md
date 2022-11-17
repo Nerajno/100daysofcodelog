@@ -157,11 +157,21 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 9. Burble
-### Day 9: Nov 14, 2023 - Tuesday
+### Day 9: Nov 15, 2023 - Tuesday
 
 **Project:** Burble
 
 **Progress:** Burble ~ Still on hero_slider.
+
+---
+## 10. Burble
+### Day 10: Nov 16, 2023 - Wednesday
+
+**Project:** Burble
+
+**Progress:** Burble ~ Still on hero_slider
+              *Got help in serializing the data as the paramsSerializer method was the issue.
+              
 
 
 ## 0. Entry Title
