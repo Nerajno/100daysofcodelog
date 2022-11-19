@@ -173,6 +173,22 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               *Got help in serializing the data as the paramsSerializer method was the issue.
               
 
+## 11. Burble
+### Day 10: Nov 17, 2023 - Thursday
+
+**Project:** Burble
+
+**Progress:** Take Home Start && Burble ~ Still on hero_slider
+              *Do not forget backticks.
+              * Take home start
+
+## 12. Burble
+### Day 10: Nov 1*, 2023 - Friday
+
+**Project:** Burble
+
+**Progress:** Take Home Start
+              => Take home start && stuck
 
 ## 0. Entry Title
 # Day 0: Date - Day
