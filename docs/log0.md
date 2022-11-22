@@ -174,7 +174,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               
 
 ## 11. Burble && Take Home
-### Day 10: Nov 17, 2023 - Thursday
+### Day 11: Nov 17, 2023 - Thursday
 
 **Project:** Burble
 
@@ -183,7 +183,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               * Take home start
 
 ## 12. Burble && Take Home
-### Day 10: Nov 18, 2023 - Friday
+### Day 12: Nov 18, 2023 - Friday
 
 **Project:** Burble
 
@@ -191,13 +191,28 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               => Take home start && stuck
 
 ## 13. Take Home
-### Day 10: Nov 19, 2023 - Saturday
+### Day 13: Nov 19, 2023 - Saturday
 
 **Project:** Take Home
 **Progress:** Take Home Progress
               => Take home start && 1/2 way
 
+## 14. Take Home
+### Day 14: Nov 20, 2023 - Sunday
 
+**Project:** Take Home
+**Progress:** Take Home Progress
+              => Take home start && 3/4 way
+
+
+## 15. Take Home
+### Day 15: Nov 21, 2023 - Monday
+
+**Project:** Take Home
+**Progress:** Take Home Progress
+              => Take home start && 4/5 way ** Late
+
+            
 ## 0. Entry Title
 # Day 0: Date - Day
 
