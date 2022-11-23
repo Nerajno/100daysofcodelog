@@ -212,6 +212,14 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Take Home Progress
               => Take home start && 4/5 way ** Late
 
+## 16. Take Home
+### Day 16: Nov 22, 2023 - Tuesday
+
+**Project:** Take Home && Burble
+**Progress:** Take Home Progress
+              => Submitted it
+            Burble => Hero slider 
+
             
 ## 0. Entry Title
 # Day 0: Date - Day
