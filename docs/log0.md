@@ -220,6 +220,14 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               => Submitted it
             Burble => Hero slider 
 
+## 17. Burble && Updated isNerandodoneyet
+### Day 17: Nov 23, 2023 - Wednesday
+
+**Project:** Burble && isNerandodoneyet
+
+**Progress:** Burble ~ Still on hero_slider
+              Updated the styling version of the website => isNerandodoneyet
+              
             
 ## 0. Entry Title
 # Day 0: Date - Day
