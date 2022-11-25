@@ -227,6 +227,16 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble ~ Still on hero_slider
               Updated the styling version of the website => isNerandodoneyet
+
+## 18. Burble
+### Day 18: Nov 14, 2023 - Thursday
+
+**Project:** Burble
+
+**Progress:** Burble ~ Still on hero_slider.
+          
+
+
               
             
 ## 0. Entry Title
