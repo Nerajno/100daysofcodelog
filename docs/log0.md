@@ -229,12 +229,19 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               Updated the styling version of the website => isNerandodoneyet
 
 ## 18. Burble
-### Day 18: Nov 14, 2023 - Thursday
+### Day 18: Nov 24, 2023 - Thursday
 
 **Project:** Burble
 
 **Progress:** Burble ~ Still on hero_slider.
           
+## 19. Burble
+### Day 19: Nov 25, 2023 - Friday
+
+**Project:** Burble
+
+**Progress:** Burble ~> Completed Hero Slide and Trending stuff.... swiper isnt working 
+
 
 
               
