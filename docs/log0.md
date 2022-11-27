@@ -242,7 +242,12 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble ~> Completed Hero Slide and Trending stuff.... swiper isnt working 
 
+## 20. Burble
+### Day 20: Nov 26, 2023 - Saturday
 
+**Project:** Burble
+
+**Progress:** Burble ~> Completed Movie card
 
               
             
