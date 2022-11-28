@@ -21,7 +21,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Nov 6, 2022  | Feb 12, 2023 |
+| Nov 6, 2022  | Feb 12, 2022 |
 
 
 ## Primary Goals
@@ -82,7 +82,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 1. Worked on Burble
-### Day 1: Nov 7, 2023 - Monday
+### Day 1: Nov 7, 2022 - Monday
 
 **Project:** Burble
 
@@ -94,7 +94,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 2. Conference ~ ConnectTech 2022
-### Day 2: Nov 8, 2023 - Tuesday
+### Day 2: Nov 8, 2022 - Tuesday
 
 **Project:** Intermission : ConnectTech 2022
 
@@ -105,7 +105,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 3. Conference ~ ConnectTech 2022
-### Day 3: Nov 9, 2023 - Wednesday
+### Day 3: Nov 9, 2022 - Wednesday
 
 **Project:** Intermission : ConnectTech 2022 Day 2
 
@@ -115,7 +115,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 4. Post Conference Recovery ~ ConnectTech 2022
-### Day 4: Nov 10, 2023 - Thursday
+### Day 4: Nov 10, 2022 - Thursday
 
 **Project:** Recovery : ConnectTech 2022 && Burble
 
@@ -124,7 +124,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 5. Burble
-### Day 5: Nov 11, 2023 - Friday
+### Day 5: Nov 11, 2022 - Friday
 
 **Project:** Burble
 
@@ -132,7 +132,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 6. Burble
-### Day 6: Nov 12, 2023 - Saturday
+### Day 6: Nov 12, 2022 - Saturday
 
 **Project:** Burble
 
@@ -141,7 +141,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 7. Burble
-### Day 7: Nov 13, 2023 - Sunday
+### Day 7: Nov 13, 2022 - Sunday
 
 **Project:** Burble
 
@@ -149,7 +149,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 8. Burble
-### Day 8: Nov 14, 2023 - Monday
+### Day 8: Nov 14, 2022 - Monday
 
 **Project:** Burble
 
@@ -157,7 +157,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 9. Burble
-### Day 9: Nov 15, 2023 - Tuesday
+### Day 9: Nov 15, 2022 - Tuesday
 
 **Project:** Burble
 
@@ -165,7 +165,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 10. Burble
-### Day 10: Nov 16, 2023 - Wednesday
+### Day 10: Nov 16, 2022 - Wednesday
 
 **Project:** Burble
 
@@ -174,7 +174,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               
 
 ## 11. Burble && Take Home
-### Day 11: Nov 17, 2023 - Thursday
+### Day 11: Nov 17, 2022 - Thursday
 
 **Project:** Burble
 
@@ -183,7 +183,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               * Take home start
 
 ## 12. Burble && Take Home
-### Day 12: Nov 18, 2023 - Friday
+### Day 12: Nov 18, 2022 - Friday
 
 **Project:** Burble
 
@@ -191,14 +191,14 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               => Take home start && stuck
 
 ## 13. Take Home
-### Day 13: Nov 19, 2023 - Saturday
+### Day 13: Nov 19, 2022 - Saturday
 
 **Project:** Take Home
 **Progress:** Take Home Progress
               => Take home start && 1/2 way
 
 ## 14. Take Home
-### Day 14: Nov 20, 2023 - Sunday
+### Day 14: Nov 20, 2022 - Sunday
 
 **Project:** Take Home
 **Progress:** Take Home Progress
@@ -206,14 +206,14 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 
 ## 15. Take Home
-### Day 15: Nov 21, 2023 - Monday
+### Day 15: Nov 21, 2022 - Monday
 
 **Project:** Take Home
 **Progress:** Take Home Progress
               => Take home start && 4/5 way ** Late
 
 ## 16. Take Home
-### Day 16: Nov 22, 2023 - Tuesday
+### Day 16: Nov 22, 2022 - Tuesday
 
 **Project:** Take Home && Burble
 **Progress:** Take Home Progress
@@ -221,7 +221,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
             Burble => Hero slider 
 
 ## 17. Burble && Updated isNerandodoneyet
-### Day 17: Nov 23, 2023 - Wednesday
+### Day 17: Nov 23, 2022 - Wednesday
 
 **Project:** Burble && isNerandodoneyet
 
@@ -229,25 +229,34 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               Updated the styling version of the website => isNerandodoneyet
 
 ## 18. Burble
-### Day 18: Nov 24, 2023 - Thursday
+### Day 18: Nov 24, 2022 - Thursday
 
 **Project:** Burble
 
 **Progress:** Burble ~ Still on hero_slider.
           
 ## 19. Burble
-### Day 19: Nov 25, 2023 - Friday
+### Day 19: Nov 25, 2022 - Friday
 
 **Project:** Burble
 
 **Progress:** Burble ~> Completed Hero Slide and Trending stuff.... swiper isnt working 
 
 ## 20. Burble
-### Day 20: Nov 26, 2023 - Saturday
+### Day 20: Nov 26, 2022 - Saturday
 
 **Project:** Burble
 
 **Progress:** Burble ~> Completed Movie card
+
+## 21. Burble && isNerandodoneyet
+### Day 21: Nov 27, 2022 - Sunday
+
+**Project:** Burble && isNerandodoneyet
+
+**Progress:** Burble
+              isNerandodoneyet => Added bootstrap and accordians
+
 
               
             
