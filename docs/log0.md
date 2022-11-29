@@ -257,6 +257,13 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Burble
               isNerandodoneyet => Added bootstrap and accordians
 
+## 22. Burble && Grindr75 
+### Day 22: Nov 28, 2022 - Monday
+
+**Project:** Burble && Grindr75
+
+**Progress:** Burble ( Stuck - Sass Mixin)
+              Grindr75 => TwoSum (halfway)
 
               
             
