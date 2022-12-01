@@ -265,7 +265,21 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Burble ( Stuck - Sass Mixin)
               Grindr75 => TwoSum (halfway)
 
-              
+## 23. Burble && Tired
+### Day 23: Nov 29, 2022 - Tuesday
+
+**Project:** Burble 
+
+**Progress:** Burble - Completed movie grid
+
+## 24. Burble & Still Tired
+### Day 24: Nov 29, 2022 - Wednesday
+
+**Project:** Burble 
+
+**Progress:** Burble - Completed search term
+
+
             
 ## 0. Entry Title
 # Day 0: Date - Day
