@@ -273,11 +273,19 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Burble - Completed movie grid
 
 ## 24. Burble & Still Tired
-### Day 24: Nov 29, 2022 - Wednesday
+### Day 24: Nov 30, 2022 - Wednesday
 
 **Project:** Burble 
 
 **Progress:** Burble - Completed search term
+
+## 25. Burble & Algorithms
+### Day 25: Dev, 2022 - Thursday 
+
+**Project:** Burble 
+
+**Progress:** Burble - Completed search term
+              Stuck 
 
 
             
