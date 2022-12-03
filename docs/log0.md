@@ -287,6 +287,14 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Burble - Completed search term
               Stuck 
 
+## 26. Burble
+### Day 26: Dev, 2022 - Friday 
+
+**Project:** Burble V1 Completed
+
+**Progress:** Burble - Completed V1
+              
+
 
             
 ## 0. Entry Title
