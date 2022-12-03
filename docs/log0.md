@@ -40,7 +40,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 - [ ] Create new portfolio or version 3 of portfolio in React.
 
 ## Projects to build
-- [ ] Burble v1
+- [x] Burble v1
 - [ ] Burble v2
 - [ ] FreeCodeCamp project FEDL certificate 1
 - [ ] FreeCodeCamp project FEDL certificate 2
@@ -173,6 +173,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               *Got help in serializing the data as the paramsSerializer method was the issue.
               
 
+---
 ## 11. Burble && Take Home
 ### Day 11: Nov 17, 2022 - Thursday
 
@@ -181,7 +182,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Take Home Start && Burble ~ Still on hero_slider
               * Do not forget backticks.
               * Take home start
+              
 
+---
 ## 12. Burble && Take Home
 ### Day 12: Nov 18, 2022 - Friday
 
@@ -190,20 +193,25 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Take Home Start
               => Take home start && stuck
 
+---
 ## 13. Take Home
 ### Day 13: Nov 19, 2022 - Saturday
 
 **Project:** Take Home
 **Progress:** Take Home Progress
               => Take home start && 1/2 way
+              
 
+---
 ## 14. Take Home
 ### Day 14: Nov 20, 2022 - Sunday
 
 **Project:** Take Home
 **Progress:** Take Home Progress
               => Take home start && 3/4 way
+              
 
+---
 
 ## 15. Take Home
 ### Day 15: Nov 21, 2022 - Monday
@@ -211,7 +219,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Take Home
 **Progress:** Take Home Progress
               => Take home start && 4/5 way ** Late
+              
 
+---
 ## 16. Take Home
 ### Day 16: Nov 22, 2022 - Tuesday
 
@@ -219,7 +229,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Take Home Progress
               => Submitted it
             Burble => Hero slider 
+              
 
+---
 ## 17. Burble && Updated isNerandodoneyet
 ### Day 17: Nov 23, 2022 - Wednesday
 
@@ -227,28 +239,36 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble ~ Still on hero_slider
               Updated the styling version of the website => isNerandodoneyet
+              
 
+---
 ## 18. Burble
 ### Day 18: Nov 24, 2022 - Thursday
 
 **Project:** Burble
 
 **Progress:** Burble ~ Still on hero_slider.
-          
+              
+
+---        
 ## 19. Burble
 ### Day 19: Nov 25, 2022 - Friday
 
 **Project:** Burble
 
 **Progress:** Burble ~> Completed Hero Slide and Trending stuff.... swiper isnt working 
+              
 
+---
 ## 20. Burble
 ### Day 20: Nov 26, 2022 - Saturday
 
 **Project:** Burble
 
 **Progress:** Burble ~> Completed Movie card
+              
 
+---
 ## 21. Burble && isNerandodoneyet
 ### Day 21: Nov 27, 2022 - Sunday
 
@@ -256,7 +276,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble
               isNerandodoneyet => Added bootstrap and accordians
+              
 
+---
 ## 22. Burble && Grindr75 
 ### Day 22: Nov 28, 2022 - Monday
 
@@ -264,21 +286,27 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble ( Stuck - Sass Mixin)
               Grindr75 => TwoSum (halfway)
+              
 
+---
 ## 23. Burble && Tired
 ### Day 23: Nov 29, 2022 - Tuesday
 
 **Project:** Burble 
 
 **Progress:** Burble - Completed movie grid
+              
 
+---
 ## 24. Burble & Still Tired
 ### Day 24: Nov 30, 2022 - Wednesday
 
 **Project:** Burble 
 
 **Progress:** Burble - Completed search term
+              
 
+---
 ## 25. Burble & Algorithms
 ### Day 25: Dev, 2022 - Thursday 
 
@@ -286,7 +314,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble - Completed search term
               Stuck 
+              
 
+---
 ## 26. Burble
 ### Day 26: Dev, 2022 - Friday 
 
@@ -295,7 +325,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Burble - Completed V1
               
 
-
+---
             
 ## 0. Entry Title
 # Day 0: Date - Day
