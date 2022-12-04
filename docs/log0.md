@@ -308,7 +308,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 25. Burble & Algorithms
-### Day 25: Dev, 2022 - Thursday 
+### Day 25: Dec 1, 2022 - Thursday 
 
 **Project:** Burble 
 
@@ -318,11 +318,20 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 26. Burble
-### Day 26: Dev, 2022 - Friday 
+### Day 26: Dec 2, 2022 - Friday 
 
 **Project:** Burble V1 Completed
 
 **Progress:** Burble - Completed V1
+              
+---
+
+## 27. Burble
+### Day 27: Dec 3, 2022 - Saturday 
+
+**Project:** Burble V1 
+
+**Progress:** Burble - Completed V1 && updated the domain for the [hosting](https://theburble.netlify.app/)
               
 
 ---
