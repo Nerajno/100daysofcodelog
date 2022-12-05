@@ -335,6 +335,16 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               
 
 ---
+
+## 87. Burble
+### Day 28: Dec 4, 2022 - Sunday 
+
+**Project:** Burble V1 
+
+**Progress:** Burble - Updated the branding and favicon
+              
+
+---
             
 ## 0. Entry Title
 # Day 0: Date - Day
