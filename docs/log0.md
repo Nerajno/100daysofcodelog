@@ -336,7 +336,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
-## 87. Burble
+## 28. Burble
 ### Day 28: Dec 4, 2022 - Sunday 
 
 **Project:** Burble V1 
@@ -345,6 +345,14 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               
 
 ---
+
+## 29. Burble
+### Day 29: Dec 5, 2022 - Monday 
+
+**Project:** Burble V2
+
+**Progress:** Burble - Stuck with hiding api
+              
             
 ## 0. Entry Title
 # Day 0: Date - Day
