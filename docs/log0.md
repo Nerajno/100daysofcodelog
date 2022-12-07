@@ -353,6 +353,15 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble - Stuck with hiding api
               
+---
+
+## 30. Burble
+### Day 30: Dec 7, 2022 - Tueday 
+
+**Project:** Burble V2
+
+**Progress:** Burble - Hid the APi
+              
             
 ## 0. Entry Title
 # Day 0: Date - Day
