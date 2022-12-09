@@ -356,12 +356,25 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 30. Burble
-### Day 30: Dec 7, 2022 - Tueday 
+### Day 30: Dec 6, 2022 - Tuesday 
+
+**Project:** Burble V2 
+
+**Progress:** Burble - Hid the Api - Unsuccessfully
+
+## 31. Burble
+### Day 31: Dec 7, 2022 - Wednesday 
 
 **Project:** Burble V2
 
-**Progress:** Burble - Hid the APi
+**Progress:** Burble - Hid the Api - Successfully
               
+## 32. Burble
+### Day 32: Dec 8, 2022 - Thursday 
+
+**Project:** Burble V2
+
+**Progress:** Burble - Started to implement dark mode.
             
 ## 0. Entry Title
 # Day 0: Date - Day
