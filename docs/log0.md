@@ -389,6 +389,15 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Burble V2
 
 **Progress:** Burble - Started to implement dark mode [Got Unstuck].
+
+## 35. Burble
+### Day 35: Dec 11, 2022 - Sunday 
+
+**Project:** Burble V2
+
+**Progress:** Burble - Started to implement dark mode [Got Stuck --- again].
+
+
             
 ## 0. Entry Title
 # Day 0: Date - Day
