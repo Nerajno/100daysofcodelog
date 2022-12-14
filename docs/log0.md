@@ -403,6 +403,13 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Burble V2
 
 **Progress:** Burble - Started to implement dark mode [Got Stuck --- progress].
+
+## 37. Portfolio && Job Hunt
+### Day 37: Dec 13, 2022 - Tuesday 
+
+**Project:** Portfolio
+
+**Progress:** Updated parts of my portfolio.
             
 ## 0. Entry Title
 # Day 0: Date - Day
