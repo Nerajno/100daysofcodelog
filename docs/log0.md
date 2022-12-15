@@ -410,8 +410,15 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Portfolio
 
 **Progress:** Updated parts of my portfolio.
+
+## 38. Tinkered && Rest Day
+### Day 38: Dec 14, 2022 - Wednesday 
+
+**Project:** Did Something && Tinkering on My Repositories
+
+**Progress:** Tinkering on My Repositories... Rested
             
-## 0. Entry Title
+## 0. Entry Title Example
 # Day 0: Date - Day
 
 **Project:**
