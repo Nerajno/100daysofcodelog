@@ -6,5 +6,5 @@ This repo is being used to track my progress for  100 Days of Code Challenge ([h
 #### Todo {Current Round || Nov 5,2022 }
 - [ ] Make Readme better look more informative.
 - [ ] Implement personal branding and story telling for whole log.
-- [ ] Brain storm this version. 
+- [x] Brain storm this version. 
   
