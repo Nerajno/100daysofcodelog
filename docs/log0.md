@@ -451,7 +451,7 @@ import { connect } from 'react-redux';
 
 or 
 
-[![Day 3]]("./assets/images/day3.jpg")
+[![Day 3]](./assets/images/day3.jpg)
 
 
 
