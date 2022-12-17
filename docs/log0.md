@@ -427,21 +427,35 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ## 40. Re-set && Burble
 
-### Day 40: Dec 15, 2022 -
+### Day 40: Dec 15, 2022 - Friday
 
 **Project:** Burble - Fixing The .Env for Netlify
 
 **Progress**: Did the research and updated the .env and made went live.
 
 
-
             
-## 0. Entry Title Example
+## 0. Entry  Example Title Example
 # Day 0: Date - Day
 
 **Project:**
 
 **Progress:**
+- This may include images like this : 
+```jsx
+
+import React from 'react';
+import { connect } from 'react-redux';
+
+```
+
+or 
+
+[![Day 3]](docs/assets/images/day3.jpg)
+
+
+
+**Thoughts**
 
 **Links:**
 
