@@ -442,8 +442,8 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:**
 - This may include images like this : 
-```jsx
 
+```
 import React from 'react';
 import { connect } from 'react-redux';
 
@@ -451,7 +451,7 @@ import { connect } from 'react-redux';
 
 or 
 
-[![Day 3]](docs/assets/images/day3.jpg)
+[![Day 3]]("./assets/images/day3.jpg")
 
 
 
