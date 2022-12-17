@@ -417,6 +417,24 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Did Something && Tinkering on My Repositories
 
 **Progress:** Tinkering on My Repositories... Rested
+
+## 39. Rest Day
+### Day 39: Dec 15, 2022 - Thursday 
+
+**Project:** Did  NOTHING !!!!
+
+**Progress:** Rested
+
+## 40. Re-set && Burble
+
+### Day 40: Dec 15, 2022 -
+
+**Project:** Burble - Fixing The .Env for Netlify
+
+**Progress**: Did the research and updated the .env and made went live.
+
+
+
             
 ## 0. Entry Title Example
 # Day 0: Date - Day
