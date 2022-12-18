@@ -454,6 +454,20 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Thoughts:**: Had to reset my mind as I think I over estimated my time and tasks to match. 
 
 ---
+
+## 42. Updating 100days of Code Log || Burble
+
+### Day 41: Dec 17, 2022 - Sunday
+
+**Project(s):**  Updating 100days of Code Log && Burble
+
+**Progress**: Found better material on the dark mode implementation and started to write tests. 
+              Implementing stuff to get #100daysofcode log to run locally. 
+
+
+**Thoughts:**: Had to reset my mind as I think I over estimated my time and tasks to match. 
+
+---
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
