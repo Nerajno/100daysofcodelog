@@ -464,8 +464,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress**: Found better material on the dark mode implementation and started to write tests. 
               Implementing stuff to get #100daysofcode log to run locally. 
 
-
-**Thoughts:**: Had to reset my mind as I think I over estimated my time and tasks to match. 
+**Thoughts:**: A deep focus environment is needed. 
 
 ---
             
