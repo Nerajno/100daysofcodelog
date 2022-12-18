@@ -172,7 +172,6 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Burble ~ Still on hero_slider
               *Got help in serializing the data as the paramsSerializer method was the issue.
               
-
 ---
 ## 11. Burble && Take Home
 ### Day 11: Nov 17, 2022 - Thursday
@@ -362,13 +361,15 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble - Hid the Api - Unsuccessfully
 
+---
 ## 31. Burble
 ### Day 31: Dec 7, 2022 - Wednesday 
 
 **Project:** Burble V2
 
 **Progress:** Burble - Hid the Api - Successfully
-              
+
+---             
 ## 32. Burble
 ### Day 32: Dec 8, 2022 - Thursday 
 
@@ -376,6 +377,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble - Started to implement dark mode.
 
+---
 ## 33. Burble
 ### Day 33: Dec 9, 2022 - Friday 
 
@@ -383,6 +385,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble - Started to implement dark mode [Stuck].
 
+---
 ## 34. Burble
 ### Day 34: Dec 10, 2022 -Saturday 
 
@@ -390,6 +393,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble - Started to implement dark mode [Got Unstuck].
 
+---
 ## 35. Burble
 ### Day 35: Dec 11, 2022 - Sunday 
 
@@ -397,6 +401,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble - Started to implement dark mode [Got Stuck --- again].
 
+---
 ## 36. Burble && Job Hunt
 ### Day 36: Dec 12, 2022 - Monday 
 
@@ -404,6 +409,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble - Started to implement dark mode [Got Stuck --- progress].
 
+---
 ## 37. Portfolio && Job Hunt
 ### Day 37: Dec 13, 2022 - Tuesday 
 
@@ -411,6 +417,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Updated parts of my portfolio.
 
+---
 ## 38. Tinkered && Rest Day
 ### Day 38: Dec 14, 2022 - Wednesday 
 
@@ -418,6 +425,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Tinkering on My Repositories... Rested
 
+---
 ## 39. Rest Day
 ### Day 39: Dec 15, 2022 - Thursday 
 
@@ -425,6 +433,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Rested
 
+---
 ## 40. Re-set && Burble
 
 ### Day 40: Dec 15, 2022 - Friday
@@ -432,8 +441,19 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Burble - Fixing The .Env for Netlify
 
 **Progress**: Did the research and updated the .env and made went live.
+             
+---
+## 41. Updating 100days of Code Log || Retooling for a full press
 
+### Day 41: Dec 17, 2022 - Saturday
 
+**Project:**  Updating 100days of Code Log
+
+**Progress**: Did the research and updated the log example .
+
+**Thoughts:**: Had to reset my mind as I think I over estimated my time and tasks to match. 
+
+---
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
@@ -455,7 +475,7 @@ or
 
 
 
-**Thoughts**
+**Thoughts:**
 
 **Links:**
 
