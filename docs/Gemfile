@@ -4,3 +4,4 @@ gem 'rack', '~> 2.1.4'
 gem 'rspec'
 gem 'github-pages', group: :jekyll_plugins
 gem 'sassc'
+gem "webrick", "~> 1.7"
