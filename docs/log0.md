@@ -456,7 +456,6 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 42. Updating 100days of Code Log || Burble
-
 ### Day 41: Dec 17, 2022 - Sunday
 
 **Project(s):**  Updating 100days of Code Log && Burble
@@ -467,6 +466,19 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Thoughts:**: ~~A deep focus environment is needed~~ Fixed. 
 
 ---
+
+## 43. Burble
+### Day 41: Dec 17, 2022 - Monday
+
+**Project(s):** Burble
+
+**Progress**: Found better material on the dark mode implementation and got stuck. 
+              
+
+**Thoughts:**: My focus is crap. 
+
+---
+
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
