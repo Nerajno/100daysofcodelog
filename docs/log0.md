@@ -468,7 +468,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 43. Burble
-### Day 41: Dec 17, 2022 - Monday
+### Day 43: Dec 17, 2022 - Monday
 
 **Project(s):** Burble
 
@@ -476,6 +476,16 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               
 
 **Thoughts:**: My focus is crap. 
+
+---
+
+### Day 44: Dec 17, 2022 - Tuesday
+
+**Project(s):** Burble && Sick
+
+**Progress**: Found better material on the dark mode implementation and got sick. 
+              
+**Thoughts:**: If you are sick, rest. 
 
 ---
 
