@@ -489,6 +489,10 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
+### Break  Dec 18 - 21, 2022
+
+**Thoughts**: I was too disorganized and all over the place. Toook time to refocus.
+
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
