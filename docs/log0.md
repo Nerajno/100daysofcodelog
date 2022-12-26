@@ -456,7 +456,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 42. Updating 100days of Code Log || Burble
-### Day 41: Dec 17, 2022 - Sunday
+### Day 42: Dec 17, 2022 - Sunday
 
 **Project(s):**  Updating 100days of Code Log && Burble
 
@@ -479,7 +479,8 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
-### Day 44: Dec 17, 2022 - Tuesday
+## 44. Burble
+### Day 44: Dec 18, 2022 - Tuesday
 
 **Project(s):** Burble && Sick
 
@@ -489,9 +490,57 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
-### Break  Dec 18 - 21, 2022
+## .Break
+### Break  Dec 19 - 21, 2022
 
-**Thoughts**: I was too disorganized and all over the place. Toook time to refocus.
+**Thoughts**: I was too disorganized and all over the place. Took time to refocus.
+
+---
+
+## 45. Burble
+### Day 45: Dec 22, 2022 -
+
+**Project(s):** 
+
+**Progress**: 
+              
+**Thoughts:**:
+
+---
+
+## 46. Burble
+### Day 46: Dec 23, 2022 -
+
+**Project(s):** 
+
+**Progress**: 
+              
+**Thoughts:**:
+
+---
+
+## 47. Burble
+### Day 47: Dec 24, 2022 -
+
+**Project(s):** 
+
+**Progress**: 
+              
+**Thoughts:**:
+
+---
+
+
+## 48. Burble
+### Day 48: Dec 25, 2022 -
+
+**Project(s):** 
+
+**Progress**: 
+              
+**Thoughts:**:
+
+---
 
             
 ## 0. Entry  Example Title Example
