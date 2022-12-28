@@ -542,6 +542,31 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
+
+
+## 48. Burble
+### Day 48: Dec 26, 2022 - Monday
+
+**Project(s):** Burble
+
+**Progress**: Took time to truly understand the context but got stuck passing down a mixin to App.jsx
+              
+**Thoughts:**: Still to take time to fully understand Sass mixins.
+
+
+---
+
+## 49. Burble
+### Day 49: Dec 27, 2022 - Tuesday
+
+**Project(s):** Burble
+
+**Progress**: Got help fixing it and it worked.
+              Reference :https://stackoverflow.com/questions/66365150/when-importing-a-file-with-use-then-error-undefined-mixin
+              
+**Thoughts:**: Still to take time to fully understand Sass mixins.
+---
+
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
