@@ -567,6 +567,28 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Thoughts:**: Still to take time to fully understand Sass mixins.
 ---
 
+
+## 50 - 51. Nothing
+### Day 50: Dec 28 - 29, 2022 - Wednesday and Thursday
+
+**Project(s):** N/A
+
+**Progress**: Nope ~> Nothing
+              
+**Thoughts:**: Got tired and overwhelmed with learning and the job hunt.
+---
+
+
+## 53. Burble
+### Day 49: Dec 20, 2022 - Friday, 
+
+**Project(s):** Burble
+
+**Progress**: Got help fixing it and it worked.
+              Reference :https://stackoverflow.com/questions/66365150/when-importing-a-file-with-use-then-error-undefined-mixin
+              
+**Thoughts:**: Still to take time to fully understand Sass mixins.
+---
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
