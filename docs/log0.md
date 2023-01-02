@@ -578,9 +578,8 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Thoughts:**: Got tired and overwhelmed with learning and the job hunt.
 ---
 
-
 ## 53. Burble
-### Day 49: Dec 20, 2022 - Friday, 
+### Day 49: Dec 30, 2022 - Friday, 
 
 **Project(s):** Burble
 
@@ -588,6 +587,31 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               Reference :https://stackoverflow.com/questions/66365150/when-importing-a-file-with-use-then-error-undefined-mixin
               
 **Thoughts:**: Still to take time to fully understand Sass mixins.
+
+
+---
+
+## 53. No Progress
+### Day 49: Dec 31, 2022 - Stuck
+
+**Project(s):** No Progress
+
+**Progress**: Mentally stuck, need a restarter for when I get stuck. 
+              Reference :https://www.youtube.com/watch?v=v2JXDPKohaQ&ab_channel=TEDxTalks
+              
+**Thoughts:**: Still need to keep going.
+
+---
+
+## 54. Regression
+### Day 54: Jan 1, 2023 - Removed some of the over complications
+
+**Project(s):** No Progress, took out some thing I installed.
+
+**Progress**: Restarted and took out some of the over-complications. 
+              
+**Thoughts:**: Re-set is progress. 
+
 ---
             
 ## 0. Entry  Example Title Example
