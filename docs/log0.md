@@ -613,6 +613,17 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Thoughts:**: Re-set is progress. 
 
 ---
+
+## 55. Burble 
+### Day 55: Jan 2, 2023 - Reviewed Over Complication and Got Help on Burble
+
+**Project(s):** Burble - got the toggle to work.
+
+**Progress**: Got the 1st version to work of dark mode toggle.
+              
+**Thoughts:**: This thing is ugly but can be fixed.
+
+---
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
