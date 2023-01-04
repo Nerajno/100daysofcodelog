@@ -624,6 +624,20 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Thoughts:**: This thing is ugly but can be fixed.
 
 ---
+
+## 56. Burble 
+### Day 56: Jan 3, 2023 - Burble - Completed v1 of Dark Mode
+
+**Project(s):** Burble - Dark Mode v1 done.
+                Algorithms: Two Sums
+
+**Progress**: Edited my colors and deployed to the live site.
+              Couldn't solve this problem, understood how to do it.
+              
+**Thoughts:**: This thing is ugly, I realise the things I never noted or wrote for this project [Burble].
+               Realise that I couldn't this algorithmically, understood how to do it though.
+
+---
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
