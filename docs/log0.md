@@ -638,6 +638,31 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
                Realise that I couldn't this algorithmically, understood how to do it though.
 
 ---
+
+## 57. ~~~~~
+### Day 57: Jan 4, 2023 ~~~~~~~
+
+**Project(s):** ~~~~
+
+
+**Progress**:  ____________________________________________
+               __________________________________
+              
+**Thoughts:**: __________________________________
+               ____________________________________________
+
+---
+
+## 58. Trapper Keepr 
+### Day 58: Jan 3, 2023 - Trapper Keepr
+
+**Project(s):** Trapper - updated to run locally
+
+**Progress**: Created new user in postgresql, recreate tables and ran locally.
+              
+**Thoughts:**: This thing is ugly but I understand it.
+
+---
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
