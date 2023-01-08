@@ -654,13 +654,35 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 58. Trapper Keepr 
-### Day 58: Jan 3, 2023 - Trapper Keepr
+### Day 58: Jan 5, 2023 - Trapper Keepr
 
 **Project(s):** Trapper - updated to run locally
 
 **Progress**: Created new user in postgresql, recreate tables and ran locally.
               
 **Thoughts:**: This thing is ugly but I understand it.
+
+---
+
+## 59. Nothing 
+### Day 59: Jan 6, 2023 - Nada
+
+**Project(s):** Nope
+
+**Progress**: Still Nope
+              
+**Thoughts:**: Had issues.
+
+---
+
+## 60. Updated Portfolio
+### Day 59: Jan 6, 2023 - Portfolio Updated
+
+**Project(s):** https://developindvlpr.com/
+
+**Progress**: Added the blog link to the navbar. 
+              
+**Thoughts:**: Made sense to add the blog link to the navbar. 
 
 ---
             
