@@ -676,7 +676,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 60. Updated Portfolio
-### Day 59: Jan 6, 2023 - Portfolio Updated
+### Day 50: Jan 7, 2023 - Portfolio Updated
 
 **Project(s):** https://developindvlpr.com/
 
@@ -685,6 +685,24 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Thoughts:**: Made sense to add the blog link to the navbar. 
 
 ---
+
+#### Missing. Jan 8 and 10, 2022 | Days 61 - 62
+
+#### Notes - Updating the footer for Burble
+           
+---
+## 63. Burble 
+### Day 63: Jan 11, 2023 - Burble: Implementation of Cypress Tests
+
+**Project(s):** Burble
+
+**Progress**: Discussed with Mark on what is needed as I have bugs.
+              Had bugs in version, component testing vs end to end testing, what is a testing journey. 
+
+**Thoughts:**: Had Os issues. 
+
+---
+
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
