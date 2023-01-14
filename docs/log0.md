@@ -703,6 +703,30 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
+## 63. Burble 
+### Day 63: Jan 11, 2023 - Burble: Implementation of Cypress Tests
+
+**Project(s):** Burble
+
+**Progress**: Discussed with Mark on what is needed as I have bugs.
+              Had bugs in version, component testing vs end to end testing, what is a testing journey. 
+
+**Thoughts:**: Had Os issues. 
+
+---
+
+## 65. Burble 
+### Day 65: Jan 13, 2023 - Burble: Implementation of Cypress Tests [ Day 3]
+
+**Project(s):** Burble
+
+**Progress**: Created a test for the toggle button and the button search button.
+               
+
+**Thoughts:**: All I have to say is Chatgpt.
+
+---
+
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
