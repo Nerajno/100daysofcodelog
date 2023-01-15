@@ -721,12 +721,23 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** Burble
 
 **Progress**: Created a test for the toggle button and the button search button.
-               
 
-**Thoughts:**: All I have to say is Chatgpt.
+**Thoughts:**: All I have to say is ChatGPT.
 
 ---
 
+
+## 66. Burble 
+### Day 66: Jan 14, 2023 - Burble && Algorithms
+
+**Project(s):** Burble && Two Sum
+
+**Progress**: Researched and added more requirements for whats needed.
+              Stuck for a bit on the algorithm but wrote out the process.
+
+**Thoughts:**: Build it right 1st : Burble
+
+---
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
