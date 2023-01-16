@@ -702,7 +702,6 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Thoughts:**: Had Os issues. 
 
 ---
-
 ## 63. Burble 
 ### Day 63: Jan 11, 2023 - Burble: Implementation of Cypress Tests
 
@@ -736,6 +735,18 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               Stuck for a bit on the algorithm but wrote out the process.
 
 **Thoughts:**: Build it right 1st : Burble
+
+---
+
+## 67. Burble 
+### Day 66: Jan 15, 2023 - Burble
+
+**Project(s):** Burble
+
+**Progress**: Completed the toggle dark mode test
+              - Started to add 404 page
+
+**Thoughts:**: Flow and practice is a blessing.
 
 ---
             
