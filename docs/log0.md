@@ -739,7 +739,31 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 67. Burble 
-### Day 66: Jan 15, 2023 - Burble
+### Day 67: Jan 15, 2023 - Burble
+
+**Project(s):** Burble
+
+**Progress**: Completed the toggle dark mode test
+              - Started to add 404 page
+
+**Thoughts:**: Flow and practice is a blessing.
+
+---
+
+## 68. Burble  ??
+### Day 68: Jan 16, 2023 - Burble
+
+**Project(s):** Burble
+
+**Progress**: Completed the toggle dark mode test
+              - Started to add 404 page
+
+**Thoughts:**: Flow and practice is a blessing.
+
+---
+
+## 68. Burble  ??
+### Day 69: Jan 17, 2023 - Burble
 
 **Project(s):** Burble
 
