@@ -762,7 +762,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
-## 68. Burble  ??
+## 69. Burble  ??
 ### Day 69: Jan 17, 2023 - Burble
 
 **Project(s):** Burble
@@ -773,6 +773,65 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Thoughts:**: Flow and practice is a blessing.
 
 ---
+
+## 70. Burble  ??
+### Day 70: Jan 18, 2023 - Burble
+
+**Project(s):** Burble
+
+**Progress**: Completed the toggle dark mode test
+              - Started to add 404 page
+
+**Thoughts:**: Flow and practice is a blessing.
+
+---
+
+## 71. Burble  ??
+### Day 71: Jan 19, 2023 -  ??
+
+**Project(s):**  ??
+
+**Progress**: ??
+              
+
+**Thoughts:**: ??
+---
+
+## 72. Burble - ??
+### Day 72: Jan 20, 2023 - ??
+
+**Project(s):** ??
+
+**Progress**: ??
+            
+**Thoughts:**: ??
+
+---
+## 73. Burble  ??
+### Day 73: Jan 21, 2023 - ??
+
+**Project(s):** ??
+
+**Progress**:  ??
+
+**Thoughts:**: ??
+
+---
+## 74. Burble  && Portfolio
+### Day 74: Jan 74, 2023 - Burble
+
+
+**Project(s):** Burble - Cypress Testing (Header)
+
+**Progress**: Added or tried to implement a header test journey, may need a bit more time.
+              Added a footer to my portfolio.
+
+**Thoughts:**: Flow and practice is a blessing.
+
+**Links:** Commit that shows current test implementation progress => https://tinyurl.com/4by69m57
+
+---
+
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
