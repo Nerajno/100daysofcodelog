@@ -832,6 +832,20 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
+## 75. Burble
+### Day 75: Jan 23, 2023 - Burble
+
+
+**Project(s):** Burble - Cypress Testing (Header)
+
+**Progress**: Nil - on the component testing side; pivoting to end-to-end testing.
+              
+**Thoughts:**: The docs are good.
+
+**Links:** N/a
+
+---
+
             
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
