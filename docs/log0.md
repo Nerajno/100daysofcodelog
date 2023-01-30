@@ -818,7 +818,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 74. Burble  && Portfolio
-### Day 74: Jan 74, 2023 - Burble
+### Day 74: Jan 24, 2023 - Burble
 
 
 **Project(s):** Burble - Cypress Testing (Header)
@@ -833,7 +833,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 75. Burble
-### Day 75: Jan 23, 2023 - Burble
+### Day 75: Jan 25, 2023 - Burble
 
 
 **Project(s):** Burble - Cypress Testing (Header)
@@ -842,7 +842,65 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               
 **Thoughts:**: The docs are good.
 
-**Links:** N/a
+**Links:** N/A
+
+---
+
+## 76. Burble
+### Day 76: Jan 26, 2023 - Burble
+
+
+**Project(s):** Burble - Cypress Testing (Header)
+
+**Progress**: Nil - on the component testing side; pivoting to end-to-end testing.
+              
+**Thoughts:**: The docs are good.
+
+**Links:** N/A
+
+---
+
+---
+
+## 77. Burble
+### Day 77: Jan 27, 2023 - Burble
+
+**Project(s):** Burble - Cypress Testing (Header)
+
+**Progress**: Nil - on the component testing side; pivoting to end-to-end testing.
+              
+**Thoughts:**: The docs are good.
+
+**Links:** N/A
+
+---
+
+
+## 78. Burble
+### Day 78: Jan 28, 2023 - Burble
+
+**Project(s):** Burble - Cypress Testing (Header)
+
+**Progress**: Nil - on the component testing side; pivoting to end-to-end testing.
+              
+**Thoughts:**: The docs are good.
+
+**Links:** N/A
+
+---
+---
+
+## 79. #100daysofCode &&
+### Day 79: Jan 29, 2023 - Sunday
+
+**Project(s):** Coming back out of the Fog : Reset
+
+**Progress**: Code Mind/ Fog: Reset
+              
+**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi. 
+               -> Got rid of resume links from my portfolio website. 
+
+**Links:** N/A
 
 ---
 
