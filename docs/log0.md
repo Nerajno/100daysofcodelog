@@ -890,6 +890,62 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 ---
 
+## 79. #100daysofCode && Reset
+### Day 79: Jan 29, 2023 - Sunday
+
+**Project(s):** Coming back out of the Fog : Reset
+
+**Progress**: Code Mind/ Fog: Reset
+              
+**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi. 
+               -> Got rid of resume links from my portfolio website. 
+
+**Links:** N/A
+
+---
+
+## 80. Need Update
+### Day 80: Jan 30, 2023 - Monday
+
+**Project(s):** Coming back out of the Fog : Reset
+
+**Progress**: Code Mind/ Fog: Reset
+              
+**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi. 
+               -> Got rid of resume links from my portfolio website. 
+
+**Links:** N/A
+
+---
+
+## 81. Need Update
+### Day 81: Jan 31, 2023 - Tuesday
+
+**Project(s):** Coming back out of the Fog : Reset
+
+**Progress**: Code Mind/ Fog: Reset
+              
+**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi. 
+               -> Got rid of resume links from my portfolio website. 
+
+**Links:** N/A
+
+---
+
+## 82. Need Update
+### Day 82: Feb 1, 2023 - Wednesday
+
+**Project(s):** Coming back out of the Fog : Reset
+
+**Progress**: Code Mind/ Fog: Reset
+              
+**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi. 
+               -> Got rid of resume links from my portfolio website. 
+
+**Links:** N/A
+
+---
+
 ## 79. #100daysofCode &&
 ### Day 79: Jan 29, 2023 - Sunday
 
@@ -903,6 +959,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Links:** N/A
 
 ---
+
 
             
 ## 0. Entry  Example Title Example
