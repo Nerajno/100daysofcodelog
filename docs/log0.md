@@ -946,15 +946,17 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
-## 79. #100daysofCode &&
-### Day 79: Jan 29, 2023 - Sunday
+## 83. Building
+### Day 79: Feb 2, 2023 - Thursday
 
-**Project(s):** Coming back out of the Fog : Reset
+**Project(s):** Burble && #100daysofCode && FCC Previewer
+                
 
-**Progress**: Code Mind/ Fog: Reset
+**Progress**: Burble - Gor help form Mark to review tests, added 3 in total. 
+              FCC Previewer - framed the App
+              #100daysofCode - made updates to the lo
               
-**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi. 
-               -> Got rid of resume links from my portfolio website. 
+**Thoughts:**: -> Stop starting over.
 
 **Links:** N/A
 
