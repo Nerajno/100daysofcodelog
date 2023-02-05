@@ -993,6 +993,22 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
+## 86. Building && Reviewing
+### Day 86: Feb 5, 2023 - Sunday
+
+**Project(s):** Burble && #100daysofCode && FCC Previewer
+                
+
+**Progress**: Burble - 
+              FCC Previewer -
+              #100daysofCode - 
+              
+**Thoughts:**: -> Develop a better solution for get into the grove for work.
+
+**Links:** N/A
+
+---
+
 
             
 ## 0. Entry  Example Title Example
