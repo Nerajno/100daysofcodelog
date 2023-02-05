@@ -947,7 +947,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 ## 83. Building
-### Day 79: Feb 2, 2023 - Thursday
+### Day 83: Feb 2, 2023 - Thursday
 
 **Project(s):** Burble && #100daysofCode && FCC Previewer
                 
@@ -957,6 +957,37 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
               #100daysofCode - made updates to the lo
               
 **Thoughts:**: -> Stop starting over.
+
+**Links:** N/A
+
+---
+
+## 84. Building
+### Day 84: Feb 3, 2023 - Friday
+
+**Project(s):** Burble && #100daysofCode && FCC Previewer
+                
+
+**Progress**: Burble - Gor help form Mark to review tests, added 3 in total. 
+              FCC Previewer - framed the App
+              #100daysofCode - made updates to the lo
+              
+**Thoughts:**: -> Stop starting over.
+
+**Links:** N/A
+
+---
+## 85. Building && Reviewing
+### Day 85: Feb 4, 2023 - Saturday
+
+**Project(s):** Burble && #100daysofCode && FCC Previewer
+                
+
+**Progress**: Burble - Troubleshooting current linting and husky  issues for deployment.
+              FCC Previewer - N/A Tired
+              #100daysofCode - Kinda
+              
+**Thoughts:**: -> Develop a better solution for get into the grove for work.
 
 **Links:** N/A
 
