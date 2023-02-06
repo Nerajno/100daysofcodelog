@@ -996,14 +996,13 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ## 86. Building && Reviewing
 ### Day 86: Feb 5, 2023 - Sunday
 
-**Project(s):** Burble && #100daysofCode && FCC Previewer
+**Project(s):**  #100daysofCode && FCC Previewer
                 
 
-**Progress**: Burble - 
-              FCC Previewer -
-              #100daysofCode - 
+**Progress**: FCC Previewer - Broke it into issues via a Github project : 
+              #100daysofCode - Updated for today
               
-**Thoughts:**: -> Develop a better solution for get into the grove for work.
+**Thoughts:**: -> Doing project architecture, CICD ground work and documentation is 1/2 the work required.
 
 **Links:** N/A
 
