@@ -8,13 +8,13 @@ This repo is being used to track my progress for  100 Days of Code Challenge ([h
 - [ ] Implement personal branding and improve story telling for whole log.
 - [x] Brain storm this version.
   
-<<<<<<< HEAD
-### Current Mental Status
-[![Groot looking ](https://media.giphy.com/media/B9XXtlIKF8wec/giphy.gif)](https://media.giphy.com/media/B9XXtlIKF8wec/giphy.gif)
-=======
-## Informative Section 
 
-### Embedding Images in Log
+## Current Mental Status
+[![Groot looking ](https://media.giphy.com/media/B9XXtlIKF8wec/giphy.gif)](https://media.giphy.com/media/B9XXtlIKF8wec/giphy.gif)
+
+### Informative Section 
+
+#### Embedding Images in Log
 
 Use this format to embed a **simple, non-clickable** image.
 
@@ -28,7 +28,7 @@ Use this format to embed a **clickable image** which displays a larger version o
 [![image alt text](assets/images/my-file_small.jpg)](assets/images/my-file.jpg)
 ```
 
-## Log Customization
+#### Log Customization
 
 THIS SECTION IS A WIP... and still needs to be completed.
 
@@ -47,7 +47,7 @@ These items can be customized for the site.
 
 ## Miscellaneous
 
-### Recommended Workflow
+#### Recommended Workflow
 
 - VSCode extensions that I use for my log.
   - Code Spell Checker
@@ -90,4 +90,4 @@ Here are some paths and their URL mapping.
 | `/docs/my-notes.md` | `https://<username>.github.io/100-days-log/my-notes.html` |
 | `/docs/logs/page1.md` | `https://<username>.github.io/100-days-log/logs/page1.html` |
 | `/docs/school-notes/cs101.md` | `https://<username>.github.io/100-days-log/school-notes/cs101.html` |
->>>>>>> 483e60b84f501dd7e5939107818c4bbcca166409
+
