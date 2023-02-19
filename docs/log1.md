@@ -1,5 +1,5 @@
 ---
-title: 100 Days of Code - Round 1
+title: 100 Days of Code - Round 2
 description: by [Your Name]
 #pg_bk_color: '#e6e8de'
 #header_bk_color: '#1a7f6d'
@@ -12,7 +12,7 @@ description: by [Your Name]
 
 | Log 1 | Log 2 | Log Example | 
 | --- | --- | --- |
-| [Log 1](log0.md) | this log |  [100 Days Round - Example](log8.html) | 
+| [Log 0](log0.md) | this log |  [100 Days Round - Example](log8.html) | 
 
 ## Challenge & Commitment
 This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge as template.More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com"). The aim is to hold myself accountable, thus, putting in the work to  grow as software professional. 
