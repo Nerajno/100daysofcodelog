@@ -1,5 +1,5 @@
 ---
-title: 100 Days of Code - Round 1
+title: 100 Days of Code - Round 0
 description: by Nerajno
 #pg_bk_color: '#e6e8de'
 #header_bk_color: '#1a7f6d'
@@ -10,7 +10,7 @@ description: by Nerajno
 # 100 Days of Code
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
-| Log 1 | Log 2 | Log Example | 
+| Log 0 | Log 1 | Log Example | 
 | --- | --- | --- |
 | this log | [Log 1](log1.md) | [100 Days Round - Example](log8.html) |
 
