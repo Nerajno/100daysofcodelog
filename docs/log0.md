@@ -21,18 +21,18 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Nov 6, 2022  | Feb 12, 2022 |
+| Nov 6, 2022  | Feb 12, 2023 |
 
 
 ## Primary Goals
 - [ ] Code for an hour daily building.
-- [ ] Complete Burble rebuild. 
+- [x] Complete Burble rebuild.
 - [ ] Post-Op #JS30 and noting ideas to build and blog about it ~> What to build after JS30 [Beginner/Intermediate].   
 - [ ] Create a #SmallPractices page (Learning Field)  ~> Learning Garden [What I am building, what I am learning, links to the documentation and live version].
 - [ ] Create and add a Gatsby or other format blog to my portfolio and deploy 4 blogs via using https://github.com/Nerajno/TheKorner
 - [ ] Complete Front End Development Libraries Certification  ~> (freeCodeCamp).
-- [ ] Complete Refactoring of Portfolio V3 in plane html and css to make mobile compatible.
-- [ ] Implement testing v1 
+- [x] Complete Refactoring of Portfolio V3 in plane html and css to make mobile compatible.
+- [x] Implement testing v1 
 
 ## Secondary Goals
 - [ ] Look into FCC for (website creation).
@@ -47,7 +47,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 - [ ] FreeCodeCamp project FEDL certificate 3
 - [ ] FreeCodeCamp project FEDL certificate 4
 - [ ] Native Eats v1.
-- [ ] Updated TrapprKeeper and add notes.
+- [x] Updated TrapprKeeper and add notes.
 
 
 
@@ -1008,6 +1008,20 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
+
+## End of #v1 #100DaysOfCode
+### Day 100: Feb 18, 2023 - Saturday
+
+**Project(s):**  #100daysofCode Review and V2 Scaffolding
+                
+
+**Progress**: 
+              
+**Thoughts:**: 
+
+**Links:** 
+
+---
 
             
 ## 0. Entry  Example Title Example
