@@ -45,6 +45,17 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
+## 0. Burble
+### Day 0: Feb 27, 2023 - Monday
+
+**Project:** Burble ~ Creating Additional Tests
+
+**Progress:** Burble - Wrote additional tests and figuring out the a found bug. 
+
+**Links:** N/A
+
+---
+
 
            
 ## 0. Entry  Example Title Example
