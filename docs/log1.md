@@ -21,7 +21,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Feb 19, 2023  | May 30, 2023 |
+| Feb 27, 2023  | June 7, 2023 |
 
 ## Primary Goals
 - [ ] Code for an hour daily building.
