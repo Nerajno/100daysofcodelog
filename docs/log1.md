@@ -56,6 +56,17 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
+## 1. Burble
+### Day 0: Feb 28, 2023 - Tuesday
+
+**Project:** Burble ~ Found a bug
+
+**Progress:** Burble - Tried to debug the issue with passing down the props.
+
+**Links:** N/A
+
+---
+
 
            
 ## 0. Entry  Example Title Example
