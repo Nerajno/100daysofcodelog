@@ -10,12 +10,12 @@ description: by Nerajno
 # 100 Days of Code
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
-| Log 0 | Log 1 | Log Example | 
+| Log 0 | Log 1 | Log Example |
 | --- | --- | --- |
-| [Log 0](log0.md) | this log |  [100 Days Round - Example](log8.html) | 
+| [Log 0](log0.md) | this log |  [100 Days Round - Example](log8.html) |
 
 ## Challenge & Commitment
-This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge as template.More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com"). The aim is to hold myself accountable, thus, putting in the work to  grow as software professional. 
+This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge as template.More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com"). The aim is to hold myself accountable, thus, putting in the work to  grow as software professional.
 
 **Commitment:** *I will code daily for an hr for the next 100 days.*
 
@@ -30,7 +30,6 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 - [ ] Complete Front End Development Libraries Certification  ~> (freeCodeCamp).
 - [ ] Create new portfolio or version 3 of portfolio in React.
 
-
 ## Projects to Complete
 - [ ] Burble v2
 - [ ] FreeCodeCamp project FEDL certificate 1
@@ -40,8 +39,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 - [ ] Native Eats v1.
 - [ ] AOB
 
-
-# Code Log
+## Code Log
 
 ---
 
@@ -50,7 +48,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 **Project:** Burble ~ Creating Additional Tests
 
-**Progress:** Burble - Wrote additional tests and figuring out the a found bug. 
+**Progress:** Burble - Wrote additional tests and figuring out the a found bug.
 
 **Links:** N/A
 
@@ -67,15 +65,13 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
-
-           
 ## 0. Entry  Example Title Example
-# Day 0: Date - Day
+## Day 0: Date - Day
 
 **Project:**
 
 **Progress:**
-- This may include images like this : 
+- This may include images like this :
 
 ```
 import React from 'react';
@@ -83,11 +79,9 @@ import { connect } from 'react-redux';
 
 ```
 
-or 
+or
 
 [![Day 3](./assets/images/day3.jpg)](./assets/images/day3.jpg)
-
-
 
 **Thoughts:**
 
