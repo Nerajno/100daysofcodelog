@@ -32,7 +32,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ## Projects to Complete
 - [ ] Burble v2
-- [ ] FreeCodeCamp project FEDL certificate 1
+- [ ] FreeCodeCamp project FEDL certificate 1 ~> Assaggio 
 - [ ] FreeCodeCamp project FEDL certificate 2
 - [ ] FreeCodeCamp project FEDL certificate 3
 - [ ] FreeCodeCamp project FEDL certificate 4
@@ -62,6 +62,22 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Burble - Tried to debug the issue with passing down the props.
 
 **Links:** N/A
+
+---
+
+## 2. Burble
+### Day 2: March 19, 2023 - Sunday
+
+**Project:** Assaggio && freeCodeCamp Atl Monthly Meetup
+
+**Progress:** Restructuring the Markdown Project ~ Assaggio for fCC FEDL
+              => Added bootstrap and fontawesome to project and refactored the navbar.
+[![Day 2](./assets/images/log1/day2.png)](./assets/log1/day2.png)
+  
+
+**Links:** 
+- [Reactstrap Vs. React-Bootstrap](https://medium.com/geekculture/reactstrap-vs-react-bootstrap-9bd3250809aa#:~:text=Reactstrap%20is%20a%20library%20of%20React%20components%20that%20provide%20Bootstrap,with%20Bootstrap%20styling%20using%20React.)
+- [Font Awesome - Npm Docs](https://fontawesome.com/docs/web/setup/packages)
 
 ---
 
