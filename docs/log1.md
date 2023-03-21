@@ -65,7 +65,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
-## 2. Burble
+## 2. Assaggio 
 ### Day 2: March 19, 2023 - Sunday
 
 **Project:** Assaggio && freeCodeCamp Atl Monthly Meetup
@@ -79,6 +79,16 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 - [Reactstrap Vs. React-Bootstrap](https://medium.com/geekculture/reactstrap-vs-react-bootstrap-9bd3250809aa#:~:text=Reactstrap%20is%20a%20library%20of%20React%20components%20that%20provide%20Bootstrap,with%20Bootstrap%20styling%20using%20React.)
 - [Font Awesome - Npm Docs](https://fontawesome.com/docs/web/setup/packages)
 
+---
+
+## 3. Burble
+### Day #: March 20, 2023 - Monday
+
+**Project:** Revamping Test Suite to Complete Test Writing
+
+**Progress:** Stuck as Tests were broken due to config and update issues.
+  
+**AOB** - Updated Portfolio re-spelling issues.
 ---
 
 ## 0. Entry  Example Title Example
