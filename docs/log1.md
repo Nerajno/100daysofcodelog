@@ -82,11 +82,24 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ---
 
 ## 3. Burble
-### Day #: March 20, 2023 - Monday
+### Day 3: March 20, 2023 - Monday
 
 **Project:** Revamping Test Suite to Complete Test Writing
 
 **Progress:** Stuck as Tests were broken due to config and update issues.
+  
+**AOB** - Updated Portfolio re-spelling issues.
+
+---
+## 4. Burble 
+### Day 4: March 21, 2023 - Tuesday
+
+**Project:** Still having config issues ~ Burble
+             Takehome Problem Set - Trackonomy
+
+**Progress:** Still having issues with cypress config
+              Completed 3/4 problems and I failed.
+
   
 **AOB** - Updated Portfolio re-spelling issues.
 ---
