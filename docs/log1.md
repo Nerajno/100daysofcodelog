@@ -95,13 +95,24 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ### Day 4: March 21, 2023 - Tuesday
 
 **Project:** Still having config issues ~ Burble
-             Takehome Problem Set - Trackonomy
+             Take home Problem Set - Trackonomy
 
 **Progress:** Still having issues with cypress config
               Completed 3/4 problems and I failed.
-
   
 **AOB** - Updated Portfolio re-spelling issues.
+---
+
+## 5. Burble 
+### Day 5: March 22, 2023 - Wednesday
+
+**Project:** Still having config issues ~ Burble
+             Found a Markdown template for blogging.
+
+**Progress:** Still having issues with cypress config
+              Working on configuring Markdown blog to make work for current needs
+  
+**AOB** 
 ---
 
 ## 0. Entry  Example Title Example
