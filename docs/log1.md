@@ -115,6 +115,18 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **AOB** 
 ---
 
+## 6. Burble 
+### Day 5: March 32, 2023 - Thursday
+
+**Project:** Still having config issues ~ Burble
+             Found a Markdown template for blogging.
+
+**Progress:** Still having issues with cypress config
+              Working on configuring Markdown blog to make work for current needs
+  
+**AOB** 
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Day
 
