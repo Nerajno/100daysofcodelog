@@ -116,7 +116,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ---
 
 ## 6. Burble 
-### Day 5: March 32, 2023 - Thursday
+### Day 6: March 23, 2023 - Thursday
 
 **Project:** Still having config issues ~ Burble
              Found a Markdown template for blogging.
@@ -125,6 +125,19 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
               Working on configuring Markdown blog to make work for current needs
   
 **AOB** 
+---
+
+## 7. FreeCodeCamp ~ Redux 
+### Day 7: April 10, 2023 - Monday
+
+**Project/Stuff Being Learn't :** Re:Walking through redux and understanding enclosed state via FCC
+            
+**Progress:** Completed 10/17 exercises
+
+  
+**AOB**  Understands this on a highlevel but the low leave stuff makes sense.
+
+**Links:**  [Assistance ](https://dev.to/codebucks/what-is-redux-simply-explained-2ch7)
 ---
 
 ## 0. Entry  Example Title Example
