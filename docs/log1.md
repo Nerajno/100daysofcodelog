@@ -137,7 +137,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
   
 **AOB**  Understands this on a highlevel but the low leave stuff makes sense.
 
-**Links:**  [Assistance ](https://dev.to/codebucks/what-is-redux-simply-explained-2ch7)
+**Links:**  - [Assistance ](https://dev.to/codebucks/what-is-redux-simply-explained-2ch7)
 ---
 
 ## 0. Entry  Example Title Example
