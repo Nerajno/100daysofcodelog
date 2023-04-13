@@ -140,6 +140,26 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Links:**  - [Assistance ](https://dev.to/codebucks/what-is-redux-simply-explained-2ch7)
 ---
 
+## 7.5. Job Interview Prep 
+### Day 7.5: April 11, 2023 - Tuesday
+
+**Project/Stuff Being Learn't :** You can tick all the boxes and still not be the right candidate. 
+
+---
+
+## 8. FreeCodeCamp ~ Redux 
+### Day 8: April 12, 2023 - Wednesday
+
+**Project/Stuff Being Learn't :** Walking through a redux tutorial to cement a deeper understanding of all of its components that manages state.
+            
+**Progress:** Completed 10/17 exercises
+
+  
+**AOB**  Understands this on a highlevel but the low leave stuff makes sense.
+
+**Links:**  - [Assistance ](https://dev.to/codebucks/what-is-redux-simply-explained-2ch7)
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Day
 
