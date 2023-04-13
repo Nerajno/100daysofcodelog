@@ -137,7 +137,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
   
 **AOB**  Understands this on a highlevel but the low leave stuff makes sense.
 
-**Links:**  - [Assistance ](https://dev.to/codebucks/what-is-redux-simply-explained-2ch7)
+**Links:**  - [Redux Explained Simply ](https://dev.to/codebucks/what-is-redux-simply-explained-2ch7)
 ---
 
 ## 7.5. Job Interview Prep 
@@ -147,17 +147,17 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
-## 8. FreeCodeCamp ~ Redux 
+## 8. FreeCodeCamp ~ Redux || Paused for Redux
 ### Day 8: April 12, 2023 - Wednesday
 
 **Project/Stuff Being Learn't :** Walking through a redux tutorial to cement a deeper understanding of all of its components that manages state.
             
-**Progress:** Completed 10/17 exercises
+**Progress:** Completed 10/17 exercises || Took a segway in a tutorial, linked below.
 
   
-**AOB**  Understands this on a highlevel but the low leave stuff makes sense.
+**AOB**  Refining my understanding of redux via tutorial build out and implementation. 
 
-**Links:**  - [Assistance ](https://dev.to/codebucks/what-is-redux-simply-explained-2ch7)
+**Links:**  - [Learn Redux with Redux Toolkit ](https://youtu.be/fiesH6WU63I)
 ---
 
 ## 0. Entry  Example Title Example
