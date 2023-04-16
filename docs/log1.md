@@ -161,7 +161,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ---
 
 ## 0. Entry  Example Title Example
-## Day 0: Date - Day
+## Day 0: Date - Dayv 0
 
 **Project:**
 
