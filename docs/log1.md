@@ -160,6 +160,19 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Links:**  - [Learn Redux with Redux Toolkit ](https://youtu.be/fiesH6WU63I)
 ---
 
+## 9. FreeCodeCamp ~ Redux || Paused for Redux
+### Day 9: April 16, 2023 - Sunday
+
+**Project/Stuff Being Learn't :** Walking through a redux tutorial to cement a deeper understanding of all of its components that manages state.
+            
+**Progress:** Completed 10/17 exercises || Took a segway in a tutorial, linked below.
+
+  
+**AOB**  Refining my understanding of redux via tutorial build out and implementation. 
+
+**Links:**  - [Learn Redux with Redux Toolkit ](https://youtu.be/fiesH6WU63I)
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
 
