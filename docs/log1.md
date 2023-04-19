@@ -186,6 +186,18 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Links:**  - [Learn Redux with Redux Toolkit ](https://youtu.be/fiesH6WU63I)
 ---
 
+## 11.  Redux : Review video
+### Day 11: April 18, 2023 - Tuesday
+
+**Project/Stuff Being Learn't :** Completed walking through the redux tutorial to cement a deeper understanding of all of its components. 
+            
+**Progress:** Completed the tutorial.
+  
+**AOB**  Co-pilot is awesome. 
+
+**Links:**  - [Learn Redux with Redux Toolkit ](https://youtu.be/fiesH6WU63I)
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
 
