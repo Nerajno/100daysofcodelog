@@ -210,6 +210,18 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Links:**  
 ---
 
+## 13.  Stopped For a bunch of Cancellations
+### Day 13: April 20, 2023 - Thursday
+
+**Project/Stuff Being Learn't :** Paused ... Had a interview ( cancelled), a lunch talk  (cancelled) and a checkin ( cancelled). I went to bed. 
+            
+**Progress:** Completed the tutorial.
+  
+**AOB**  Co-pilot is still awesome. 
+
+**Links:**  
+---
+
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
