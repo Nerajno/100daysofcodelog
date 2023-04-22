@@ -210,7 +210,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Links:**  
 ---
 
-## 13.  Stopped For a bunch of Cancellations
+## 13. Stopped For a bunch of Cancellations
 ### Day 13: April 20, 2023 - Thursday
 
 **Project/Stuff Being Learn't :** Paused ... Had a interview ( cancelled), a lunch talk  (cancelled) and a checkin ( cancelled). I went to bed. 
@@ -218,6 +218,18 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Completed the tutorial.
   
 **AOB**  Co-pilot is still awesome. 
+
+**Links:**  
+---
+
+## 14. FreeCodeCamp ~ Redux
+### Day 14: April 21, 2023 - Friday
+
+**Project/Stuff Being Learn't :** Completed the FreeCodecamp Redux section 
+            
+**Progress:** See up above.
+  
+**AOB**  Using ChatGPT as  learning aid is a win-win.
 
 **Links:**  
 ---
