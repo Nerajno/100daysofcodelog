@@ -225,15 +225,20 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ## 14. FreeCodeCamp ~ Redux
 ### Day 14: April 21, 2023 - Friday
 
-**Project/Stuff Being Learn't :** Completed the FreeCodecamp Redux section 
+**Project/Stuff Being Learn't :** Completed the FreeCodeCamp Redux section 
             
 **Progress:** See up above.
   
 **AOB**  Using ChatGPT as  learning aid is a win-win.
-
-**Links:**  
 ---
 
+## 15. and 16. Sick ~ Cold: Aches && Pain  
+### Day 15 && : April 22 -23, 2023 - Saturday and Sunday
+
+**Project/Stuff Being Learn't :** Paused as result of sickness. 
+            
+**Progress:** See up above.
+---
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
