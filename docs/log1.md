@@ -233,12 +233,23 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ---
 
 ## 15. and 16. Sick ~ Cold: Aches && Pain  
-### Day 15 && : April 22 -23, 2023 - Saturday and Sunday
+### Day 15 && 16 : April 22 -23, 2023 - Saturday and Sunday
 
 **Project/Stuff Being Learn't :** Paused as result of sickness. 
             
 **Progress:** See up above.
 ---
+
+## 17. Rail Conf : Day 1  
+### Day 17: April 24, 2023 - Monday
+
+**Project/Stuff Being Learn't :** Rails Conf Day 1 . 
+            
+**Progress:** See up above.
+---
+
+
+
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
