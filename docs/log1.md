@@ -248,6 +248,16 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** See up above.
 ---
 
+## 18 - 19. Rail Conf : Day 2 & 3    
+### Day 18 -19: April 25 26, 2023 - Tuesday & Wednesday
+
+**Project/Stuff Being Learn't :** Rails Conf Day 2- 3 . 
+            
+**Progress:** See up above.
+---
+
+
+
 
 
 
