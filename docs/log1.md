@@ -249,10 +249,27 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ---
 
 ## 18 - 19. Rail Conf : Day 2 & 3    
-### Day 18 -19: April 25 26, 2023 - Tuesday & Wednesday
+### Day 18 -19: April 25 - 26, 2023 - Tuesday & Wednesday
 
 **Project/Stuff Being Learn't :** Rails Conf Day 2- 3 . 
             
+**Progress:** See up above.
+---
+
+## 20 - 21. Rail Conf Recovery : Day 1 & 2  && FreeCodecamp : FEDLC [ React + Redux]
+### Day 20 - 21: April 27 - 28, 2023 - Thursday & Friday
+
+**Project/Stuff Being Learn't :** Rails Conf Recovery .
+                                  Redux in practice. 
+
+**Progress:** See up above.
+---
+
+## 22. Burble && Other Updates 
+### Day 22: April 29, 2023 - Saturday
+
+**Project/Stuff Being Learn't :** Rails Conf Recovery .
+                                  Redux in Practice.               
 **Progress:** See up above.
 ---
 
