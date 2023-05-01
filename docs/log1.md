@@ -273,6 +273,17 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** See up above.
 ---
 
+## 23. FreeCodeCamp 
+### Day 23: April 30, 2023 - Sunday
+
+**Project/Stuff Being Learn't :** Redux - Tutorial
+                                                 
+**Progress:** Completed 2 exercises.
+---
+
+
+
+
 
 
 
