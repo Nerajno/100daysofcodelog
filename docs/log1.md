@@ -277,16 +277,18 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ### Day 23: April 30, 2023 - Sunday
 
 **Project/Stuff Being Learn't :** Redux - Tutorial
-                                                 
+
 **Progress:** Completed 2 exercises.
 ---
 
+## 24. FreeCodeCamp && Portfolio Update
+### Day 24: May 1, 2023 - Monday
 
+**Project/Stuff Being Learn't :** Redux - Tutorial
+                                  Updated Grammar and Content ~> Working on Navbar
 
-
-
-
-
+**Progress:** Completed 2 exercises.
+---
 
 
 ## 0. Entry  Example Title Example
