@@ -290,6 +290,15 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Completed 2 exercises.
 ---
 
+## 25. FreeCodeCamp 
+### Day 25: May 2, 2023 - Tuesday
+
+**Project/Stuff Being Learn't :** Redux - Tutorial [ Completed]
+                                  Complete the 1st Blog series of 3. 
+
+**Progress:** Completed all  of the exercises.
+---
+
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
