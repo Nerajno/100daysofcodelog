@@ -299,6 +299,15 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Completed all  of the exercises.
 ---
 
+## 26 -27 . 
+### Day 26 -27: May 3 - 4 , 2023 - Wednesday && Thursday ( Happy Star Wars Day)
+
+**Project/Stuff Being Learn't :** Paused .... Trauma
+                                  Fixing Toggle on Navbar
+                                  
+**Progress:** Completed all  of the exercises.
+---
+
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
