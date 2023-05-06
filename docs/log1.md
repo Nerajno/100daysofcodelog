@@ -308,6 +308,15 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Completed all  of the exercises.
 ---
 
+## 28. 
+### Day 28: May 5, 2023 - Friday
+
+**Project/Stuff Being Learn't :** Recovering .... Trauma
+                                  Framed out Assagio
+                                  
+**Progress:** Almost done with  1st FEDL project.
+---
+
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
