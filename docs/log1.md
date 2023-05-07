@@ -317,6 +317,15 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Almost done with  1st FEDL project.
 ---
 
+## 29. 
+### Day 29: May 6, 2023 - Saturday
+
+**Project/Stuff Being Learn't :** Recovering .... Trauma
+                                  Stuck on  Assagio
+                                  
+**Progress:** Still working on  1st FEDL project.
+---
+
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
