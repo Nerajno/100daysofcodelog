@@ -326,6 +326,22 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Still working on  1st FEDL project.
 ---
 
+## Burnt Out. 
+### Lightly Toasted : May, 7 -20 2023
+
+**Project/Stuff Being Learn't :** Between 
+                                                                   
+**Progress:** Implemented Navbar and got stuck ... asked for help.
+---
+
+
+## 30. 
+### Day 30: May 21, 2023 - Sunday
+
+**Project/Stuff Being Learn't :** Started Small - Dark Mode Toggle ( Portfolio )
+                                                                   
+**Progress:** Implemented Navbar and got stuck ... asked for help.
+---
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
