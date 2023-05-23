@@ -334,13 +334,21 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Implemented Navbar and got stuck ... asked for help.
 ---
 
-
 ## 30. 
 ### Day 30: May 21, 2023 - Sunday
 
 **Project/Stuff Being Learn't :** Started Small - Dark Mode Toggle ( Portfolio )
                                                                    
 **Progress:** Implemented Navbar and got stuck ... asked for help.
+---
+
+## 31. 
+### Day 31: May 22, 2023 - Monday
+
+**Project/Stuff Being Learn't :** Navbar ~ Portfolio || Assaggio
+                                                                   
+**Progress:** Implemented Navbar and its good now.
+              New errors in portfolio project.
 ---
 
 ## 0. Entry  Example Title Example
