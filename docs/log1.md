@@ -10,9 +10,9 @@ description: by Nerajno
 # 100 Days of Code
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
-| Log 0 | Log 1 | Log Example |
-| --- | --- | --- |
-| [Log 0](log0.md) | this log |  [100 Days Round - Example](log8.html) |
+| Log 0 | Log 1 | Log 2 | Log Example |
+| --- | --- | --- | --- |
+| [Log 0](log0.md) | this log | [Log 2](log2.md) | [100 Days Round - Example](log8.html) |
 
 ## Challenge & Commitment
 This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge as template.More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com"). The aim is to hold myself accountable, thus, putting in the work to  grow as software professional.
@@ -32,7 +32,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ## Projects to Complete
 - [ ] Burble v2
-- [ ] FreeCodeCamp project FEDL certificate 1 ~> Assaggio 
+- [ ] FreeCodeCamp project FEDL certificate 1 ~> Assaggio
 - [ ] FreeCodeCamp project FEDL certificate 2
 - [ ] FreeCodeCamp project FEDL certificate 3
 - [ ] FreeCodeCamp project FEDL certificate 4
@@ -65,7 +65,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
-## 2. Assaggio 
+## 2. Assaggio
 ### Day 2: March 19, 2023 - Sunday
 
 **Project:** Assaggio && freeCodeCamp Atl Monthly Meetup
@@ -73,9 +73,9 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Restructuring the Markdown Project ~ Assaggio for fCC FEDL
               => Added bootstrap and fontawesome to project and refactored the navbar.
 [![Day 2](./assets/images/log1/day2.png)](./assets/log1/day2.png)
-  
 
-**Links:** 
+
+**Links:**
 - [Reactstrap Vs. React-Bootstrap](https://medium.com/geekculture/reactstrap-vs-react-bootstrap-9bd3250809aa#:~:text=Reactstrap%20is%20a%20library%20of%20React%20components%20that%20provide%20Bootstrap,with%20Bootstrap%20styling%20using%20React.)
 - [Font Awesome - Npm Docs](https://fontawesome.com/docs/web/setup/packages)
 
@@ -87,11 +87,11 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Project:** Revamping Test Suite to Complete Test Writing
 
 **Progress:** Stuck as Tests were broken due to config and update issues.
-  
+
 **AOB** - Updated Portfolio re-spelling issues.
 
 ---
-## 4. Burble 
+## 4. Burble
 ### Day 4: March 21, 2023 - Tuesday
 
 **Project:** Still having config issues ~ Burble
@@ -99,11 +99,11 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 **Progress:** Still having issues with cypress config
               Completed 3/4 problems and I failed.
-  
+
 **AOB** - Updated Portfolio re-spelling issues.
 ---
 
-## 5. Burble 
+## 5. Burble
 ### Day 5: March 22, 2023 - Wednesday
 
 **Project:** Still having config issues ~ Burble
@@ -111,11 +111,11 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 **Progress:** Still having issues with cypress config
               Working on configuring Markdown blog to make work for current needs
-  
-**AOB** 
+
+**AOB**
 ---
 
-## 6. Burble 
+## 6. Burble
 ### Day 6: March 23, 2023 - Thursday
 
 **Project:** Still having config issues ~ Burble
@@ -123,27 +123,27 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 **Progress:** Still having issues with cypress config
               Working on configuring Markdown blog to make work for current needs
-  
-**AOB** 
+
+**AOB**
 ---
 
-## 7. FreeCodeCamp ~ Redux 
+## 7. FreeCodeCamp ~ Redux
 ### Day 7: April 10, 2023 - Monday
 
 **Project/Stuff Being Learn't :** Re:Walking through redux and understanding enclosed state via FCC
-            
+
 **Progress:** Completed 10/17 exercises
 
-  
+
 **AOB**  Understands this on a highlevel but the low leave stuff makes sense.
 
 **Links:**  - [Redux Explained Simply ](https://dev.to/codebucks/what-is-redux-simply-explained-2ch7)
 ---
 
-## 7.5. Job Interview Prep 
+## 7.5. Job Interview Prep
 ### Day 7.5: April 11, 2023 - Tuesday
 
-**Project/Stuff Being Learn't :** You can tick all the boxes and still not be the right candidate. 
+**Project/Stuff Being Learn't :** You can tick all the boxes and still not be the right candidate.
 
 ---
 
@@ -151,11 +151,11 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ### Day 8: April 12, 2023 - Wednesday
 
 **Project/Stuff Being Learn't :** Walking through a redux tutorial to cement a deeper understanding of all of its components that manages state.
-            
+
 **Progress:** Completed 10/17 exercises || Took a segway in a tutorial, linked below.
 
-  
-**AOB**  Refining my understanding of redux via tutorial build out and implementation. 
+
+**AOB**  Refining my understanding of redux via tutorial build out and implementation.
 
 **Links:**  - [Learn Redux with Redux Toolkit ](https://youtu.be/fiesH6WU63I)
 ---
@@ -164,11 +164,11 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ### Day 9: April 16, 2023 - Sunday
 
 **Project/Stuff Being Learn't :** Walking through a redux tutorial to cement a deeper understanding of all of its components that manages state.
-            
+
 **Progress:** Completed 10/17 exercises || Took a segway in a tutorial, linked below.
 
-  
-**AOB**  Refining my understanding of redux via tutorial build out and implementation. 
+
+**AOB**  Refining my understanding of redux via tutorial build out and implementation.
 
 **Links:**  - [Learn Redux with Redux Toolkit ](https://youtu.be/fiesH6WU63I)
 ---
@@ -177,11 +177,11 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ### Day 10: April 17, 2023 - Monday
 
 **Project/Stuff Being Learn't :** Walking through a redux tutorial to cement a deeper understanding of all of its components that manages state.
-            
+
 **Progress:** Took a segway in a tutorial, linked below.
 
-  
-**AOB**  Refining my understanding of redux via tutorial build out and implementation. 
+
+**AOB**  Refining my understanding of redux via tutorial build out and implementation.
 
 **Links:**  - [Learn Redux with Redux Toolkit ](https://youtu.be/fiesH6WU63I)
 ---
@@ -189,11 +189,11 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ## 11.  Redux : Review video
 ### Day 11: April 18, 2023 - Tuesday
 
-**Project/Stuff Being Learn't :** Completed walking through the redux tutorial to cement a deeper understanding of all of its components. 
-            
+**Project/Stuff Being Learn't :** Completed walking through the redux tutorial to cement a deeper understanding of all of its components.
+
 **Progress:** Completed the tutorial.
-  
-**AOB**  Co-pilot is awesome. 
+
+**AOB**  Co-pilot is awesome.
 
 **Links:**  - [Learn Redux with Redux Toolkit ](https://youtu.be/fiesH6WU63I)
 ---
@@ -201,58 +201,58 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ## 12.  FreeCodeCamp: Redux
 ### Day 12: April 19, 2023 - Wednesday
 
-**Project/Stuff Being Learn't :** Completed walking through the redux tutorial to cement a deeper understanding of all of its components. 
-            
-**Progress:** Completed the tutorial.
-  
-**AOB**  Co-pilot is still awesome. 
+**Project/Stuff Being Learn't :** Completed walking through the redux tutorial to cement a deeper understanding of all of its components.
 
-**Links:**  
+**Progress:** Completed the tutorial.
+
+**AOB**  Co-pilot is still awesome.
+
+**Links:**
 ---
 
 ## 13. Stopped For a bunch of Cancellations
 ### Day 13: April 20, 2023 - Thursday
 
-**Project/Stuff Being Learn't :** Paused ... Had a interview ( cancelled), a lunch talk  (cancelled) and a checkin ( cancelled). I went to bed. 
-            
-**Progress:** Completed the tutorial.
-  
-**AOB**  Co-pilot is still awesome. 
+**Project/Stuff Being Learn't :** Paused ... Had a interview ( cancelled), a lunch talk  (cancelled) and a checkin ( cancelled). I went to bed.
 
-**Links:**  
+**Progress:** Completed the tutorial.
+
+**AOB**  Co-pilot is still awesome.
+
+**Links:**
 ---
 
 ## 14. FreeCodeCamp ~ Redux
 ### Day 14: April 21, 2023 - Friday
 
-**Project/Stuff Being Learn't :** Completed the FreeCodeCamp Redux section 
-            
+**Project/Stuff Being Learn't :** Completed the FreeCodeCamp Redux section
+
 **Progress:** See up above.
-  
+
 **AOB**  Using ChatGPT as  learning aid is a win-win.
 ---
 
-## 15. and 16. Sick ~ Cold: Aches && Pain  
+## 15. and 16. Sick ~ Cold: Aches && Pain
 ### Day 15 && 16 : April 22 -23, 2023 - Saturday and Sunday
 
-**Project/Stuff Being Learn't :** Paused as result of sickness. 
-            
+**Project/Stuff Being Learn't :** Paused as result of sickness.
+
 **Progress:** See up above.
 ---
 
-## 17. Rail Conf : Day 1  
+## 17. Rail Conf : Day 1
 ### Day 17: April 24, 2023 - Monday
 
-**Project/Stuff Being Learn't :** Rails Conf Day 1 . 
-            
+**Project/Stuff Being Learn't :** Rails Conf Day 1 .
+
 **Progress:** See up above.
 ---
 
-## 18 - 19. Rail Conf : Day 2 & 3    
+## 18 - 19. Rail Conf : Day 2 & 3
 ### Day 18 -19: April 25 - 26, 2023 - Tuesday & Wednesday
 
-**Project/Stuff Being Learn't :** Rails Conf Day 2- 3 . 
-            
+**Project/Stuff Being Learn't :** Rails Conf Day 2- 3 .
+
 **Progress:** See up above.
 ---
 
@@ -260,20 +260,20 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ### Day 20 - 21: April 27 - 28, 2023 - Thursday & Friday
 
 **Project/Stuff Being Learn't :** Rails Conf Recovery .
-                                  Redux in practice. 
+                                  Redux in practice.
 
 **Progress:** See up above.
 ---
 
-## 22. Burble && Other Updates 
+## 22. Burble && Other Updates
 ### Day 22: April 29, 2023 - Saturday
 
 **Project/Stuff Being Learn't :** Rails Conf Recovery .
-                                  Redux in Practice.               
+                                  Redux in Practice.
 **Progress:** See up above.
 ---
 
-## 23. FreeCodeCamp 
+## 23. FreeCodeCamp
 ### Day 23: April 30, 2023 - Sunday
 
 **Project/Stuff Being Learn't :** Redux - Tutorial
@@ -290,63 +290,63 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Completed 2 exercises.
 ---
 
-## 25. FreeCodeCamp 
+## 25. FreeCodeCamp
 ### Day 25: May 2, 2023 - Tuesday
 
 **Project/Stuff Being Learn't :** Redux - Tutorial [ Completed]
-                                  Complete the 1st Blog series of 3. 
+                                  Complete the 1st Blog series of 3.
 
 **Progress:** Completed all  of the exercises.
 ---
 
-## 26 -27 . 
+## 26 -27 .
 ### Day 26 -27: May 3 - 4 , 2023 - Wednesday && Thursday ( Happy Star Wars Day)
 
 **Project/Stuff Being Learn't :** Paused .... Trauma
                                   Fixing Toggle on Navbar
-                                  
+
 **Progress:** Completed all  of the exercises.
 ---
 
-## 28. 
+## 28.
 ### Day 28: May 5, 2023 - Friday
 
 **Project/Stuff Being Learn't :** Recovering .... Trauma
                                   Framed out Assagio
-                                  
+
 **Progress:** Almost done with  1st FEDL project.
 ---
 
-## 29. 
+## 29.
 ### Day 29: May 6, 2023 - Saturday
 
 **Project/Stuff Being Learn't :** Recovering .... Trauma
                                   Stuck on  Assagio
-                                  
+
 **Progress:** Still working on  1st FEDL project.
 ---
 
-## Burnt Out. 
+## Burnt Out.
 ### Lightly Toasted : May, 7 -20 2023
 
-**Project/Stuff Being Learn't :** Between 
-                                                                   
+**Project/Stuff Being Learn't :** Between
+
 **Progress:** Implemented Navbar and got stuck ... asked for help.
 ---
 
-## 30. 
+## 30.
 ### Day 30: May 21, 2023 - Sunday
 
 **Project/Stuff Being Learn't :** Started Small - Dark Mode Toggle ( Portfolio )
-                                                                   
+
 **Progress:** Implemented Navbar and got stuck ... asked for help.
 ---
 
-## 31. 
+## 31.
 ### Day 31: May 22, 2023 - Monday
 
 **Project/Stuff Being Learn't :** Navbar ~ Portfolio || Assaggio
-                                                                   
+
 **Progress:** Implemented Navbar and its good now.
               New errors in portfolio project.
 ---

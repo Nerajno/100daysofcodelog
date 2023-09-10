@@ -10,12 +10,12 @@ description: by Nerajno
 # 100 Days of Code
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
-| Log 0 | Log 1 | Log Example | 
-| --- | --- | --- |
-| this log | [Log 1](log1.md) | [100 Days Round - Example](log8.html) |
+| Log 0 | Log 1 | Log 2 |Log Example |
+| --- | --- | --- | --- |
+| this log | [Log 1](log1.md) | | [Log 2](log2.md) |  [100 Days Round - Example](log8.html) |
 
 ## Challenge & Commitment
-This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge as template.More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com"). The aim is to hold myself accountable, thus, putting in the work to  grow as software professional. 
+This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge as template.More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com"). The aim is to hold myself accountable, thus, putting in the work to  grow as software professional.
 
 **Commitment:** *I will code daily for the next 100 days.*
 
@@ -27,12 +27,12 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ## Primary Goals
 - [ ] Code for an hour daily building.
 - [x] Complete Burble rebuild.
-- [ ] Post-Op #JS30 and noting ideas to build and blog about it ~> What to build after JS30 [Beginner/Intermediate].   
+- [ ] Post-Op #JS30 and noting ideas to build and blog about it ~> What to build after JS30 [Beginner/Intermediate].
 - [ ] Create a #SmallPractices page (Learning Field)  ~> Learning Garden [What I am building, what I am learning, links to the documentation and live version].
 - [ ] Create and add a Gatsby or other format blog to my portfolio and deploy 4 blogs via using https://github.com/Nerajno/TheKorner
 - [ ] Complete Front End Development Libraries Certification  ~> (freeCodeCamp).
 - [x] Complete Refactoring of Portfolio V3 in plane html and css to make mobile compatible.
-- [x] Implement testing v1 
+- [x] Implement testing v1
 
 ## Secondary Goals
 - [ ] Look into FCC for (website creation).
@@ -111,7 +111,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Learning new tools to further the craft and giving my talk about Open Sourced Learning
 
-**Links:** Look at [this tweet thread ](https://twitter.com/nerajno/status/1590350807362568192?s=20&t=aRbPFqLaKe95DKsSQD8-RA) for clarity. 
+**Links:** Look at [this tweet thread ](https://twitter.com/nerajno/status/1590350807362568192?s=20&t=aRbPFqLaKe95DKsSQD8-RA) for clarity.
 
 ---
 ## 4. Post Conference Recovery ~ ConnectTech 2022
@@ -171,7 +171,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble ~ Still on hero_slider
               *Got help in serializing the data as the paramsSerializer method was the issue.
-              
+
 ---
 ## 11. Burble && Take Home
 ### Day 11: Nov 17, 2022 - Thursday
@@ -181,7 +181,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Progress:** Take Home Start && Burble ~ Still on hero_slider
               * Do not forget backticks.
               * Take home start
-              
+
 
 ---
 ## 12. Burble && Take Home
@@ -199,7 +199,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Take Home
 **Progress:** Take Home Progress
               => Take home start && 1/2 way
-              
+
 
 ---
 ## 14. Take Home
@@ -208,7 +208,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Take Home
 **Progress:** Take Home Progress
               => Take home start && 3/4 way
-              
+
 
 ---
 
@@ -218,7 +218,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Take Home
 **Progress:** Take Home Progress
               => Take home start && 4/5 way ** Late
-              
+
 
 ---
 ## 16. Take Home
@@ -227,8 +227,8 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Take Home && Burble
 **Progress:** Take Home Progress
               => Submitted it
-            Burble => Hero slider 
-              
+            Burble => Hero slider
+
 
 ---
 ## 17. Burble && Updated isNerandodoneyet
@@ -238,7 +238,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble ~ Still on hero_slider
               Updated the styling version of the website => isNerandodoneyet
-              
+
 
 ---
 ## 18. Burble
@@ -247,16 +247,16 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Burble
 
 **Progress:** Burble ~ Still on hero_slider.
-              
 
----        
+
+---
 ## 19. Burble
 ### Day 19: Nov 25, 2022 - Friday
 
 **Project:** Burble
 
-**Progress:** Burble ~> Completed Hero Slide and Trending stuff.... swiper isnt working 
-              
+**Progress:** Burble ~> Completed Hero Slide and Trending stuff.... swiper isnt working
+
 
 ---
 ## 20. Burble
@@ -265,7 +265,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Burble
 
 **Progress:** Burble ~> Completed Movie card
-              
+
 
 ---
 ## 21. Burble && isNerandodoneyet
@@ -275,103 +275,103 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress:** Burble
               isNerandodoneyet => Added bootstrap and accordians
-              
+
 
 ---
-## 22. Burble && Grindr75 
+## 22. Burble && Grindr75
 ### Day 22: Nov 28, 2022 - Monday
 
 **Project:** Burble && Grindr75
 
 **Progress:** Burble ( Stuck - Sass Mixin)
               Grindr75 => TwoSum (halfway)
-              
+
 
 ---
 ## 23. Burble && Tired
 ### Day 23: Nov 29, 2022 - Tuesday
 
-**Project:** Burble 
+**Project:** Burble
 
 **Progress:** Burble - Completed movie grid
-              
+
 
 ---
 ## 24. Burble & Still Tired
 ### Day 24: Nov 30, 2022 - Wednesday
 
-**Project:** Burble 
+**Project:** Burble
 
 **Progress:** Burble - Completed search term
-              
+
 
 ---
 ## 25. Burble & Algorithms
-### Day 25: Dec 1, 2022 - Thursday 
+### Day 25: Dec 1, 2022 - Thursday
 
-**Project:** Burble 
+**Project:** Burble
 
 **Progress:** Burble - Completed search term
-              Stuck 
-              
+              Stuck
+
 
 ---
 ## 26. Burble
-### Day 26: Dec 2, 2022 - Friday 
+### Day 26: Dec 2, 2022 - Friday
 
 **Project:** Burble V1 Completed
 
 **Progress:** Burble - Completed V1
-              
+
 ---
 
 ## 27. Burble
-### Day 27: Dec 3, 2022 - Saturday 
+### Day 27: Dec 3, 2022 - Saturday
 
-**Project:** Burble V1 
+**Project:** Burble V1
 
 **Progress:** Burble - Completed V1 && updated the domain for the [hosting](https://theburble.netlify.app/)
-              
+
 
 ---
 
 ## 28. Burble
-### Day 28: Dec 4, 2022 - Sunday 
+### Day 28: Dec 4, 2022 - Sunday
 
-**Project:** Burble V1 
+**Project:** Burble V1
 
 **Progress:** Burble - Updated the branding and favicon
-              
+
 
 ---
 
 ## 29. Burble
-### Day 29: Dec 5, 2022 - Monday 
+### Day 29: Dec 5, 2022 - Monday
 
 **Project:** Burble V2
 
 **Progress:** Burble - Stuck with hiding api
-              
+
 ---
 
 ## 30. Burble
-### Day 30: Dec 6, 2022 - Tuesday 
+### Day 30: Dec 6, 2022 - Tuesday
 
-**Project:** Burble V2 
+**Project:** Burble V2
 
 **Progress:** Burble - Hid the Api - Unsuccessfully
 
 ---
 ## 31. Burble
-### Day 31: Dec 7, 2022 - Wednesday 
+### Day 31: Dec 7, 2022 - Wednesday
 
 **Project:** Burble V2
 
 **Progress:** Burble - Hid the Api - Successfully
 
----             
+---
 ## 32. Burble
-### Day 32: Dec 8, 2022 - Thursday 
+### Day 32: Dec 8, 2022 - Thursday
 
 **Project:** Burble V2
 
@@ -379,7 +379,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 33. Burble
-### Day 33: Dec 9, 2022 - Friday 
+### Day 33: Dec 9, 2022 - Friday
 
 **Project:** Burble V2
 
@@ -387,7 +387,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 34. Burble
-### Day 34: Dec 10, 2022 -Saturday 
+### Day 34: Dec 10, 2022 -Saturday
 
 **Project:** Burble V2
 
@@ -395,7 +395,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 35. Burble
-### Day 35: Dec 11, 2022 - Sunday 
+### Day 35: Dec 11, 2022 - Sunday
 
 **Project:** Burble V2
 
@@ -403,7 +403,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 36. Burble && Job Hunt
-### Day 36: Dec 12, 2022 - Monday 
+### Day 36: Dec 12, 2022 - Monday
 
 **Project:** Burble V2
 
@@ -411,7 +411,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 37. Portfolio && Job Hunt
-### Day 37: Dec 13, 2022 - Tuesday 
+### Day 37: Dec 13, 2022 - Tuesday
 
 **Project:** Portfolio
 
@@ -419,7 +419,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 38. Tinkered && Rest Day
-### Day 38: Dec 14, 2022 - Wednesday 
+### Day 38: Dec 14, 2022 - Wednesday
 
 **Project:** Did Something && Tinkering on My Repositories
 
@@ -427,7 +427,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 ## 39. Rest Day
-### Day 39: Dec 15, 2022 - Thursday 
+### Day 39: Dec 15, 2022 - Thursday
 
 **Project:** Did  NOTHING !!!!
 
@@ -441,7 +441,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project:** Burble - Fixing The .Env for Netlify
 
 **Progress**: Did the research and updated the .env and made went live.
-             
+
 ---
 ## 41. Updating 100days of Code Log || Retooling for a full press
 
@@ -451,7 +451,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress**: Did the research and updated the log example .
 
-**Thoughts:**: Had to reset my mind as I think I over estimated my time and tasks to match. 
+**Thoughts:**: Had to reset my mind as I think I over estimated my time and tasks to match.
 
 ---
 
@@ -460,10 +460,10 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Project(s):**  Updating 100days of Code Log && Burble
 
-**Progress**: Found better material on the dark mode implementation and started to write tests. 
-              Implementing stuff to get #100daysofcode log to run locally. 
+**Progress**: Found better material on the dark mode implementation and started to write tests.
+              Implementing stuff to get #100daysofcode log to run locally.
 
-**Thoughts:**: ~~A deep focus environment is needed~~ Fixed. 
+**Thoughts:**: ~~A deep focus environment is needed~~ Fixed.
 
 ---
 
@@ -472,10 +472,10 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Project(s):** Burble
 
-**Progress**: Found better material on the dark mode implementation and got stuck. 
-              
+**Progress**: Found better material on the dark mode implementation and got stuck.
 
-**Thoughts:**: My focus is crap. 
+
+**Thoughts:**: My focus is crap.
 
 ---
 
@@ -484,9 +484,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Project(s):** Burble && Sick
 
-**Progress**: Found better material on the dark mode implementation and got sick. 
-              
-**Thoughts:**: If you are sick, rest. 
+**Progress**: Found better material on the dark mode implementation and got sick.
+
+**Thoughts:**: If you are sick, rest.
 
 ---
 
@@ -500,10 +500,10 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ## 45. Burble
 ### Day 45: Dec 22, 2022 -
 
-**Project(s):** 
+**Project(s):**
 
-**Progress**: 
-              
+**Progress**:
+
 **Thoughts:**:
 
 ---
@@ -511,10 +511,10 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ## 46. Burble
 ### Day 46: Dec 23, 2022 -
 
-**Project(s):** 
+**Project(s):**
 
-**Progress**: 
-              
+**Progress**:
+
 **Thoughts:**:
 
 ---
@@ -522,10 +522,10 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ## 47. Burble
 ### Day 47: Dec 24, 2022 -
 
-**Project(s):** 
+**Project(s):**
 
-**Progress**: 
-              
+**Progress**:
+
 **Thoughts:**:
 
 ---
@@ -534,10 +534,10 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ## 48. Burble
 ### Day 48: Dec 25, 2022 -
 
-**Project(s):** 
+**Project(s):**
 
-**Progress**: 
-              
+**Progress**:
+
 **Thoughts:**:
 
 ---
@@ -550,7 +550,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** Burble
 
 **Progress**: Took time to truly understand the context but got stuck passing down a mixin to App.jsx
-              
+
 **Thoughts:**: Still to take time to fully understand Sass mixins.
 
 
@@ -563,7 +563,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress**: Got help fixing it and it worked.
               Reference :https://stackoverflow.com/questions/66365150/when-importing-a-file-with-use-then-error-undefined-mixin
-              
+
 **Thoughts:**: Still to take time to fully understand Sass mixins.
 ---
 
@@ -574,18 +574,18 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** N/A
 
 **Progress**: Nope ~> Nothing
-              
+
 **Thoughts:**: Got tired and overwhelmed with learning and the job hunt.
 ---
 
 ## 53. Burble
-### Day 49: Dec 30, 2022 - Friday, 
+### Day 49: Dec 30, 2022 - Friday,
 
 **Project(s):** Burble
 
 **Progress**: Got help fixing it and it worked.
               Reference :https://stackoverflow.com/questions/66365150/when-importing-a-file-with-use-then-error-undefined-mixin
-              
+
 **Thoughts:**: Still to take time to fully understand Sass mixins.
 
 
@@ -596,9 +596,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Project(s):** No Progress
 
-**Progress**: Mentally stuck, need a restarter for when I get stuck. 
+**Progress**: Mentally stuck, need a restarter for when I get stuck.
               Reference :https://www.youtube.com/watch?v=v2JXDPKohaQ&ab_channel=TEDxTalks
-              
+
 **Thoughts:**: Still need to keep going.
 
 ---
@@ -608,24 +608,24 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Project(s):** No Progress, took out some thing I installed.
 
-**Progress**: Restarted and took out some of the over-complications. 
-              
-**Thoughts:**: Re-set is progress. 
+**Progress**: Restarted and took out some of the over-complications.
+
+**Thoughts:**: Re-set is progress.
 
 ---
 
-## 55. Burble 
+## 55. Burble
 ### Day 55: Jan 2, 2023 - Reviewed Over Complication and Got Help on Burble
 
 **Project(s):** Burble - got the toggle to work.
 
 **Progress**: Got the 1st version to work of dark mode toggle.
-              
+
 **Thoughts:**: This thing is ugly but can be fixed.
 
 ---
 
-## 56. Burble 
+## 56. Burble
 ### Day 56: Jan 3, 2023 - Burble - Completed v1 of Dark Mode
 
 **Project(s):** Burble - Dark Mode v1 done.
@@ -633,7 +633,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress**: Edited my colors and deployed to the live site.
               Couldn't solve this problem, understood how to do it.
-              
+
 **Thoughts:**: This thing is ugly, I realise the things I never noted or wrote for this project [Burble].
                Realise that I couldn't this algorithmically, understood how to do it though.
 
@@ -647,30 +647,30 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Progress**:  ____________________________________________
                __________________________________
-              
+
 **Thoughts:**: __________________________________
                ____________________________________________
 
 ---
 
-## 58. Trapper Keepr 
+## 58. Trapper Keepr
 ### Day 58: Jan 5, 2023 - Trapper Keepr
 
 **Project(s):** Trapper - updated to run locally
 
 **Progress**: Created new user in postgresql, recreate tables and ran locally.
-              
+
 **Thoughts:**: This thing is ugly but I understand it.
 
 ---
 
-## 59. Nothing 
+## 59. Nothing
 ### Day 59: Jan 6, 2023 - Nada
 
 **Project(s):** Nope
 
 **Progress**: Still Nope
-              
+
 **Thoughts:**: Had issues.
 
 ---
@@ -680,41 +680,41 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 **Project(s):** https://developindvlpr.com/
 
-**Progress**: Added the blog link to the navbar. 
-              
-**Thoughts:**: Made sense to add the blog link to the navbar. 
+**Progress**: Added the blog link to the navbar.
+
+**Thoughts:**: Made sense to add the blog link to the navbar.
 
 ---
 
 #### Missing. Jan 8 and 10, 2022 | Days 61 - 62
 
 #### Notes - Updating the footer for Burble
-           
+
 ---
-## 63. Burble 
+## 63. Burble
 ### Day 63: Jan 11, 2023 - Burble: Implementation of Cypress Tests
 
 **Project(s):** Burble
 
 **Progress**: Discussed with Mark on what is needed as I have bugs.
-              Had bugs in version, component testing vs end to end testing, what is a testing journey. 
+              Had bugs in version, component testing vs end to end testing, what is a testing journey.
 
-**Thoughts:**: Had Os issues. 
+**Thoughts:**: Had Os issues.
 
 ---
-## 63. Burble 
+## 63. Burble
 ### Day 63: Jan 11, 2023 - Burble: Implementation of Cypress Tests
 
 **Project(s):** Burble
 
 **Progress**: Discussed with Mark on what is needed as I have bugs.
-              Had bugs in version, component testing vs end to end testing, what is a testing journey. 
+              Had bugs in version, component testing vs end to end testing, what is a testing journey.
 
-**Thoughts:**: Had Os issues. 
+**Thoughts:**: Had Os issues.
 
 ---
 
-## 65. Burble 
+## 65. Burble
 ### Day 65: Jan 13, 2023 - Burble: Implementation of Cypress Tests [ Day 3]
 
 **Project(s):** Burble
@@ -726,7 +726,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ---
 
 
-## 66. Burble 
+## 66. Burble
 ### Day 66: Jan 14, 2023 - Burble && Algorithms
 
 **Project(s):** Burble && Two Sum
@@ -738,7 +738,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 
 ---
 
-## 67. Burble 
+## 67. Burble
 ### Day 67: Jan 15, 2023 - Burble
 
 **Project(s):** Burble
@@ -792,7 +792,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):**  ??
 
 **Progress**: ??
-              
+
 
 **Thoughts:**: ??
 ---
@@ -803,7 +803,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** ??
 
 **Progress**: ??
-            
+
 **Thoughts:**: ??
 
 ---
@@ -839,7 +839,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** Burble - Cypress Testing (Header)
 
 **Progress**: Nil - on the component testing side; pivoting to end-to-end testing.
-              
+
 **Thoughts:**: The docs are good.
 
 **Links:** N/A
@@ -853,7 +853,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** Burble - Cypress Testing (Header)
 
 **Progress**: Nil - on the component testing side; pivoting to end-to-end testing.
-              
+
 **Thoughts:**: The docs are good.
 
 **Links:** N/A
@@ -868,7 +868,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** Burble - Cypress Testing (Header)
 
 **Progress**: Nil - on the component testing side; pivoting to end-to-end testing.
-              
+
 **Thoughts:**: The docs are good.
 
 **Links:** N/A
@@ -882,7 +882,7 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** Burble - Cypress Testing (Header)
 
 **Progress**: Nil - on the component testing side; pivoting to end-to-end testing.
-              
+
 **Thoughts:**: The docs are good.
 
 **Links:** N/A
@@ -896,9 +896,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** Coming back out of the Fog : Reset
 
 **Progress**: Code Mind/ Fog: Reset
-              
-**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi. 
-               -> Got rid of resume links from my portfolio website. 
+
+**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi.
+               -> Got rid of resume links from my portfolio website.
 
 **Links:** N/A
 
@@ -910,9 +910,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** Coming back out of the Fog : Reset
 
 **Progress**: Code Mind/ Fog: Reset
-              
-**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi. 
-               -> Got rid of resume links from my portfolio website. 
+
+**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi.
+               -> Got rid of resume links from my portfolio website.
 
 **Links:** N/A
 
@@ -924,9 +924,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** Coming back out of the Fog : Reset
 
 **Progress**: Code Mind/ Fog: Reset
-              
-**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi. 
-               -> Got rid of resume links from my portfolio website. 
+
+**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi.
+               -> Got rid of resume links from my portfolio website.
 
 **Links:** N/A
 
@@ -938,9 +938,9 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 **Project(s):** Coming back out of the Fog : Reset
 
 **Progress**: Code Mind/ Fog: Reset
-              
-**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi. 
-               -> Got rid of resume links from my portfolio website. 
+
+**Thoughts:**: -> Got or took time refresh or rephrase why I am doing this and got help from Mitzi.
+               -> Got rid of resume links from my portfolio website.
 
 **Links:** N/A
 
@@ -950,12 +950,12 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ### Day 83: Feb 2, 2023 - Thursday
 
 **Project(s):** Burble && #100daysofCode && FCC Previewer
-                
 
-**Progress**: Burble - Gor help form Mark to review tests, added 3 in total. 
+
+**Progress**: Burble - Gor help form Mark to review tests, added 3 in total.
               FCC Previewer - framed the App
               #100daysofCode - made updates to the lo
-              
+
 **Thoughts:**: -> Stop starting over.
 
 **Links:** N/A
@@ -966,12 +966,12 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ### Day 84: Feb 3, 2023 - Friday
 
 **Project(s):** Burble && #100daysofCode && FCC Previewer
-                
 
-**Progress**: Burble - Gor help form Mark to review tests, added 3 in total. 
+
+**Progress**: Burble - Gor help form Mark to review tests, added 3 in total.
               FCC Previewer - framed the App
               #100daysofCode - made updates to the lo
-              
+
 **Thoughts:**: -> Stop starting over.
 
 **Links:** N/A
@@ -981,12 +981,12 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ### Day 85: Feb 4, 2023 - Saturday
 
 **Project(s):** Burble && #100daysofCode && FCC Previewer
-                
+
 
 **Progress**: Burble - Troubleshooting current linting and husky  issues for deployment.
               FCC Previewer - N/A Tired
               #100daysofCode - Kinda
-              
+
 **Thoughts:**: -> Develop a better solution for get into the grove for work.
 
 **Links:** N/A
@@ -997,11 +997,11 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ### Day 86: Feb 5, 2023 - Sunday
 
 **Project(s):**  #100daysofCode && FCC Previewer
-                
 
-**Progress**: FCC Previewer - Broke it into issues via a Github project : 
+
+**Progress**: FCC Previewer - Broke it into issues via a Github project :
               #100daysofCode - Updated for today
-              
+
 **Thoughts:**: -> Doing project architecture, CICD ground work and documentation is 1/2 the work required.
 
 **Links:** N/A
@@ -1013,24 +1013,24 @@ Burble - Laying the new code using this [video](https://www.youtube.com/watch?v=
 ### Day 100: Feb 18, 2023 - Saturday
 
 **Project(s):**  #100daysofCode Review and V2 Scaffolding
-                
 
-**Progress**: 
-              
-**Thoughts:**: 
 
-**Links:** 
+**Progress**:
+
+**Thoughts:**:
+
+**Links:**
 
 ---
 
-            
+
 ## 0. Entry  Example Title Example
 # Day 0: Date - Day
 
 **Project:**
 
 **Progress:**
-- This may include images like this : 
+- This may include images like this :
 
 ```
 import React from 'react';
@@ -1038,7 +1038,7 @@ import { connect } from 'react-redux';
 
 ```
 
-or 
+or
 
 [![Day 3](./assets/images/day3.jpg)](./assets/images/day3.jpg)
 
