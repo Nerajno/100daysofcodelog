@@ -47,14 +47,17 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
-## 0. Burble
-### Day 0: Feb 27, 2023 - Monday
+## 0. Restart #100DaysOfCode V3 && Assaggio Fixes
+### Day 0: Sept 10, 2023 - Sunday
 
-**Project:** Burble ~ Creating Additional Tests
+**Project:**    Assaggio
+                #100DaysOfCode V3
 
-**Progress:** Burble - Wrote additional tests and figuring out the a found bug.
+**Progress:** Assaggio - Updated the readme and tried to fix the issue with the padding around the previewerComponent.
+#100DaysOfCode V3 - Updated the current #100daysofCodelog logged day 0
 
-**Links:** N/A
+**Links:** [FCC Assaggio](https://github.com/Nerajno/Assaggio-1-FCC_FEDLC/tree/main)
+
 
 ---
 
