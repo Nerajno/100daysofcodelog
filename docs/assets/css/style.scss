@@ -1,6 +1,4 @@
 ---
----
-
 @import "{{ site.theme }}";
 
 header h1 {
@@ -10,10 +8,14 @@ a {
     color: #912eca;
 }
 
-fixedBanner{
+#fixedBanner{
     position: absolute;
     top: 50%;
     left: 50%;
+}
+
+#banner{
+    margin-right: -680px;
 }
 
 
@@ -46,7 +48,7 @@ nav {
     box-shadow: inset 0 0 4px rgba(0,0,0,0.5);
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: #ddd; 
+    background: #ddd;
 }
 nav ul {
     width: 185px;
@@ -68,7 +70,7 @@ nav li.active {
 nav li.active a {
     font-weight: bold;
     color: #333;
-    
+
 }
 a:focus { outline: none; }
 section {
@@ -95,7 +97,7 @@ section > table {
     margin: 0 10px 20px;
 }
 
-blockquote { 
+blockquote {
     font-style: normal;
     margin: 20px 10px;
     padding: 0 20px;
@@ -123,7 +125,7 @@ section > blockquote > table {
 
 hr { margin: 20px 0; }
 
-section>ol, section>ul { 
+section>ol, section>ul {
     // margin: 0 40px 0 30px;
     margin: 0 0 20px 0;
 }
@@ -160,7 +162,7 @@ h4 {
 }
 pre{ line-height: 1em; margin: 0 10px; }
 code {
-    // font-family: Courier New, Courier, monospace; 
+    // font-family: Courier New, Courier, monospace;
     font-family: Consolas, monospace;
     // font-family: Lucida Console,Monaco,Courier,monospace;
     font-size: 0.8em;
@@ -203,10 +205,10 @@ footer {
         font-size:1.2em;
         margin: 20px 20px 6px
     }
-    section h4 { 
+    section h4 {
         margin: 20px 20px 8px;
     }
-    section>ol, section>ul { 
+    section>ol, section>ul {
         margin: 0 20px 0 0;
     }
     section table {
