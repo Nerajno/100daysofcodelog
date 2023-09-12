@@ -62,6 +62,22 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ---
 
 
+## 1. Studied for Azure Cloud && Assaggio
+### Day 1: Sept 11, 2023 - Monday
+
+**Project:**    Azure Cloud ~> Reviewed
+                Assaggio ~> Asked for Help
+
+
+**Progress:**   Reviewed notes for the test and took it ( got 83% ).
+                Asked for help via GitHub and Discord.
+
+**Links:**  live version [Assaggio-1-FCC_FEDLC](https://assaggio-1-fcc-fedlc.vercel.app/) and here is the code ([https://github.com/Nerajno/Assaggio-1-FCC_FEDLC](https://github.com/Nerajno/Assaggio-1-FCC_FEDLC)). 
+
+
+
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
 
