@@ -72,7 +72,23 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:**   Reviewed notes for the test and took it ( got 83% ).
                 Asked for help via GitHub and Discord.
 
-**Links:**  live version [Assaggio-1-FCC_FEDLC](https://assaggio-1-fcc-fedlc.vercel.app/) and here is the code ([https://github.com/Nerajno/Assaggio-1-FCC_FEDLC](https://github.com/Nerajno/Assaggio-1-FCC_FEDLC)). 
+**Links:**  live version [Assaggio-1-FCC_FEDLC](https://assaggio-1-fcc-fedlc.vercel.app/) and here is the code ([https://github.com/Nerajno/Assaggio-1-FCC_FEDLC](https://github.com/Nerajno/Assaggio-1-FCC_FEDLC)).
+
+
+
+---
+
+## 2. Azure Cloud
+### Day 2: Sept 12, 2023 - Tuesday
+
+**Project:**    Azure Cloud ~> Resource Groups and Storage
+                Assaggio ~> Asked for Help
+
+
+**Progress:**   Class and practiced via an exercise.
+                Asked for help via GitHub and Discord/ got no help yet.
+
+**Links:**  live version [Assaggio-1-FCC_FEDLC](https://assaggio-1-fcc-fedlc.vercel.app/) and here is the code ([https://github.com/Nerajno/Assaggio-1-FCC_FEDLC](https://github.com/Nerajno/Assaggio-1-FCC_FEDLC)).
 
 
 
