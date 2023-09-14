@@ -94,6 +94,20 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
+## 3. Class - Azure/ Intro to Java
+### Day 3: Sept 13, 2023 - Wednesday
+
+**Project/Class:**    Azure Cloud ~> Completed the final module
+                      Java -> Intro to Java ( Dropped the key concepts)
+                      Assaggio ~> Asked for Help && Waiting
+
+
+**Progress:**   Class and notes.
+                Asked for help via GitHub and Discord/ got no help yet.
+
+
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
 
