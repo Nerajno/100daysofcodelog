@@ -105,6 +105,17 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:**   Class and notes.
                 Asked for help via GitHub and Discord/ got no help yet.
 
+---
+
+## 4 && 5. Class - Intro to Java && Vue Demo
+### Day 3: Sept 14 -15, 2023 - Thursday && Friday
+
+**Project/Class:**    Java -> Intro to Java ( Dropped the key concepts ~~ encapusulation, polymorphism etc)
+                      Reviewed App with fimion
+
+
+**Progress:**   Class and notes.
+                Got a review from Alex
 
 ---
 
