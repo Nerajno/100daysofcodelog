@@ -108,7 +108,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ---
 
 ## 4 && 5. Class - Intro to Java && Vue Demo
-### Day 3 & 4: Sept 14-15, 2023 - Thursday && Friday
+### Day 4 & 5: Sept 14-15, 2023 - Thursday && Friday
 
 **Project/Class:**    Java -> Intro to Java ( Dropped the key concepts ~~ encapusulation, polymorphism etc)
                       Reviewed App with fimion
@@ -119,10 +119,9 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ---
 
 ## 6 && 7. Birthday Weekend
-### Day 4: Sept 16 -17, 2023 - Saturday
+### Day 6 && 7  : Sept 16 - 17, 2023 - Saturday && Sunday
 
 **Project/Class:**  Took the weekend off
-
 
 **Progress:**   Nothing I slept and went on a ferry.
 ---
