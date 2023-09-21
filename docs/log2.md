@@ -126,6 +126,38 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:**   Nothing I slept and went on a ferry.
 ---
 
+## 6 && 7. Birthday Weekend
+### Day 6 && 7  : Sept 16 - 17, 2023 - Saturday && Sunday
+
+**Project/Class:**  Took the weekend off
+
+**Progress:**   Nothing I slept and went on a ferry.
+---
+
+
+## 8.  Missing
+### Day 8 : Sept 18, 2023 - Monday
+
+**Project/Class:**  Not Sure
+
+**Progress:**   Some work but no direct direction.
+---
+
+## 8.  Missing || Java Notes
+### Day 8 : Sept 19, 2023 - Tuesday
+
+**Project/Class:**  Not Sure ?
+                    Java ~ Operators and Variables
+
+**Progress:**   Some work but no direct direction || Class Notes.
+
+**Thoughts:** Need to take better notes... broken Ipad
+
+**Links:**    https://www.geeksforgeeks.org/java/#
+              https://books.goalkicker.com/JavaBook/
+
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
 
