@@ -143,8 +143,8 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:**   Some work but no direct direction.
 ---
 
-## 8.  Missing || Java Notes
-### Day 8 : Sept 19, 2023 - Tuesday
+## 9.  Missing || Java Notes
+### Day 9 : Sept 19, 2023 - Tuesday
 
 **Project/Class:**  Not Sure ?
                     Java ~ Operators and Variables
@@ -157,6 +157,20 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
               https://books.goalkicker.com/JavaBook/
 
 ---
+
+## 10. Weekend Projects ~> Pomodoro timer framing 
+### Day 10: Sept 23, 2023 - Saturday
+
+**Project/Class:**  FreeCodeCamp Projects - Pomodoro Timer( framing)
+                                            Drum Kit Styling
+                    
+**Progress:**  Framed it 
+
+**Thoughts:** Tired
+
+---
+
+
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
