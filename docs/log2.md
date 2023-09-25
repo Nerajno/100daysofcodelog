@@ -116,6 +116,8 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 **Progress:**   Class and Notes.
                 Got a review from Alex
+
+
 ---
 
 ## 6 && 7. Birthday Weekend
@@ -124,6 +126,8 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Project/Class:**  Took the weekend off
 
 **Progress:**   Nothing I slept and went on a ferry.
+
+
 ---
 
 ## 6 && 7. Birthday Weekend
@@ -132,6 +136,8 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Project/Class:**  Took the weekend off
 
 **Progress:**   Nothing I slept and went on a ferry.
+
+
 ---
 
 
@@ -141,6 +147,9 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Project/Class:**  Not Sure
 
 **Progress:**   Some work but no direct direction.
+
+
+
 ---
 
 ## 9.  Missing || Java Notes
@@ -156,21 +165,33 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Links:**    https://www.geeksforgeeks.org/java/#
               https://books.goalkicker.com/JavaBook/
 
+
+
 ---
 
-## 10. Weekend Projects ~> Pomodoro timer framing 
+## 10. Weekend Projects ~> Pomodoro timer framing
 ### Day 10: Sept 23, 2023 - Saturday
 
 **Project/Class:**  FreeCodeCamp Projects - Pomodoro Timer( framing)
                                             Drum Kit Styling
-                    
-**Progress:**  Framed it 
+
+**Progress:**  Framed it
 
 **Thoughts:** Tired
 
+
 ---
 
+## 11. Java Homework
+### Day 11: Sept 24, 2023 - Sunday
 
+**Project/Class:**  Completed both assigments and submitted them.
+
+**Progress:**  Understand the concepts but need more practice with Eclipse and Java.
+
+**Thoughts:** Tired but I have some clarity.
+
+---
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
