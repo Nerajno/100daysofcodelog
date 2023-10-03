@@ -193,6 +193,21 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
+## UnRecorded Gap
+
+---
+
+## 12.
+### Day 12: Oct 3, 2023 - Tuesday
+
+**Project/Class:**
+
+**Progress:**
+
+**Thoughts:** 
+
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
 
