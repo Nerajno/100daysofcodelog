@@ -195,16 +195,19 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ## UnRecorded Gap
 
+![Pause](https://media.giphy.com/media/omQuDYXlHSCKrfgUbz/giphy.gif)
+
 ---
 
-## 12.
+## 12. Java Class && AZ-900 Preparation
 ### Day 12: Oct 3, 2023 - Tuesday
 
-**Project/Class:**
+**Project/Class:** Class - Review the notes for AZ-900
+                           Had insight given by Sams Club and how their teams work to improve services.
 
-**Progress:**
+**Progress:** Not where I need to be to take the AZ-900
 
-**Thoughts:** 
+**Thoughts:** I want this but I am working on my discipline and focus.
 
 ---
 
