@@ -211,6 +211,18 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
+## 13. AZ-900 Preparation
+### Day 13: Oct 4, 2023 - Wednesday
+
+**Project/Class:** Class - Reviewed the notes for AZ-900
+                           Took a practice test - Still sucked
+
+**Progress:** Not where I need to be to take the AZ-900 - still
+
+**Thoughts:** I want this need to find more resources.
+
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
 
