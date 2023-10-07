@@ -223,6 +223,26 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
+
+## Death in the Family
+
+![Pause](https://media.giphy.com/media/omQuDYXlHSCKrfgUbz/giphy.gif)
+
+---
+
+
+## 14. AZ-900 Preparation
+### Day 14: Oct 6, 2023 - Friday
+
+**Project/Class:** Class - Reviewed the notes for AZ-900
+                           Took a practice test - Still suced ~ less
+
+**Progress:** Not where I need to be to take the AZ-900 - Better
+
+**Thoughts:** Found more resources and they were awesome.
+
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
 
