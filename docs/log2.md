@@ -214,6 +214,8 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ## 13. AZ-900 Preparation
 ### Day 13: Oct 4, 2023 - Wednesday
 
+
+
 **Project/Class:** Class - Reviewed the notes for AZ-900
                            Took a practice test - Still sucked
 
@@ -230,7 +232,6 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
-
 ## 14. AZ-900 Preparation
 ### Day 14: Oct 6, 2023 - Friday
 
@@ -238,6 +239,20 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
                            Took a practice test - Still suced ~ less
 
 **Progress:** Not where I need to be to take the AZ-900 - Better
+
+**Thoughts:** Found more resources and they were awesome.
+
+---
+
+## Wait .....
+### Paused  Oct 7 -10 , 2023
+
+![Stuck](https://media.giphy.com/media/13bK6iLGzbqskU/giphy-downsized.gif)
+
+**Project/Class:** Class - Reviewed the notes for AZ-900
+                           Professional Class for TechBridge ~> Interviewing Process
+
+**Progress:** Lost momentum
 
 **Thoughts:** Found more resources and they were awesome.
 
