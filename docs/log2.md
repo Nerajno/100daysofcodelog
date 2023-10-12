@@ -236,7 +236,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ### Day 14: Oct 6, 2023 - Friday
 
 **Project/Class:** Class - Reviewed the notes for AZ-900
-                           Took a practice test - Still suced ~ less
+                           Took a practice test - Still sucKed ~ less
 
 **Progress:** Not where I need to be to take the AZ-900 - Better
 
@@ -245,7 +245,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ---
 
 ## Wait .....
-### Paused  Oct 7 -10 , 2023
+### Paused  Oct 7 -10, 2023
 
 ![Stuck](https://media.giphy.com/media/13bK6iLGzbqskU/giphy-downsized.gif)
 
@@ -255,6 +255,18 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Lost momentum
 
 **Thoughts:** Found more resources and they were awesome.
+
+---
+
+## AZ-900 and Classes [ Java ]
+### Day 15:  Oct 11, 2023
+
+**Project/Class:** Class - Reviewed the notes for AZ-900, Took it, Passed
+                           TechBridge ~> Java [ classes, inheritance, super]
+
+**Progress:** Gained some momentum
+
+**Thoughts:** Practice, practice, practice
 
 ---
 
