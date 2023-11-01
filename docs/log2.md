@@ -245,7 +245,7 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 ---
 
 ## Wait .....
-### Paused  Oct 7 -10, 2023
+### Paused  Oct 7 - 10, 2023
 
 ![Stuck](https://media.giphy.com/media/13bK6iLGzbqskU/giphy-downsized.gif)
 
@@ -267,6 +267,23 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 **Progress:** Gained some momentum
 
 **Thoughts:** Practice, practice, practice
+
+---
+
+## Paused ..... Redirected
+### Paused  Oct 12 - 31, 2023
+
+![Navigation](https://media.giphy.com/media/lWSFOPwzd2JuE/giphy-downsized-large.gif)
+
+**Project/Class/ Other Life Events:**
+                            - Paused on the Java course/ Withdrew and updated them with current circumstances.
+                            - ConnectTech, MagnoliaJs and Refactr ( Spoke at 2, visited 1).
+                            - Got a new position.
+
+**Progress:** Lost momentum and Restarting
+
+
+**Thoughts:** Found more resources and they were awesome.
 
 ---
 
