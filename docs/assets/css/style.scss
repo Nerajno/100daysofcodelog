@@ -1,9 +1,10 @@
----
-@import "{{ site.theme }}";
+
+@import "{{ site.theme }}",
 
 header h1 {
     text-shadow: 0px 2px 0px #542269;
 }
+
 a {
     color: #912eca;
 }
