@@ -287,6 +287,19 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
+## 14. Restarting - FEDLC and Alpine Editing
+### Day 14: Nov 5, 2023 - Sunday
+
+**Projects:** FEDLC : tRumma : still stuck
+              Started #100days of Code Log again
+              Alpine blog template editing.
+
+**Progress:** Need to gain momentum.
+
+**Thoughts:**  I am working on my discipline and focus.
+
+--- 
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
 
