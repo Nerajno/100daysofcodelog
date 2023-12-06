@@ -298,7 +298,20 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 **Thoughts:**  I am working on my discipline and focus.
 
---- 
+---
+
+## 15. Restarted  - Final
+### Day 15: Dec 5, 2023 - Tuesday
+
+**Projects/ Learning:** Vue Mastery
+                        Re:Started #100days of Code Log again
+                        Tinkering with the blog template again.
+
+**Progress:** Need to gain momentum again.
+
+**Thoughts:**  I am working on my discipline,  focus and delivery.
+
+---
 
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
