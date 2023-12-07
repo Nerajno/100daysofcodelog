@@ -313,6 +313,17 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 
 ---
 
+## 16. Vue Learning  - Final
+### Day 16: Dec 6, 2023 - Wednesday
+
+**Projects/ Learning:** Vue Mastery ~ Almost done
+
+**Progress:** Slow progress.
+
+**Thoughts:**  I am working on my discipline,  focus and delivery ... kaizen.
+
+---
+
 ## 0. Entry  Example Title Example
 ## Day 0: Date - Dayv 0
 
