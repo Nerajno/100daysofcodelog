@@ -72,7 +72,7 @@ Here's how a sample set of Markdown files would be converted.
 - log2.md -> log2.html
 - notes.md -> notes.html
 
-Initially all log files are placed in the `/docs` folder. This will create the html files in the root of your GitHub Pages repo site.
+Initially, all log files are placed in the `/docs` folder. This will create the html files in the root of your GitHub Pages repo site.
 
 It is possible to create a folder structure to hold additional Markdown files. These would then be converted to HTML and hosted on GitHub Pages.
 
@@ -91,4 +91,7 @@ Here are some paths and their URL mapping.
 | `/docs/my-notes.md` | `https://<username>.github.io/100-days-log/my-notes.html` |
 | `/docs/logs/page1.md` | `https://<username>.github.io/100-days-log/logs/page1.html` |
 | `/docs/school-notes/cs101.md` | `https://<username>.github.io/100-days-log/school-notes/cs101.html` |
+
+### Reference
+![100 Days of Code by James Priest](https://james-priest.github.io/100-days-of-code-log/)
 
