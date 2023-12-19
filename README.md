@@ -1,7 +1,7 @@
 # My Current Code Log for #100 days of Code.
 [My Current Progress](https://nerajno.github.io/100DaysOfCodeLog/index.html)
 
-This repo is being used to track my progress for  the 100 Days of Code Challenge ([https://100daysofcode.com](https://100daysofcode.com)) following Alexander Kallaway's examples. 
+This repo is being used to track my progress for  the 100 Days of Code Challenge ([https://100daysofcode.com](https://100daysofcode.com)) following Alexander Kallaway's examples.
 This repo also uses the format of James Priest's ([repo](httpsgem install bundler
 ://github.com/james-priest/100-days-log)) to format this log, follow the instructions on his ReadMe if you want to use this format.
 
@@ -13,8 +13,6 @@ This repo also uses the format of James Priest's ([repo](httpsgem install bundle
 
 ## Current Mental Status
 [![Groot looking ](https://media.giphy.com/media/B9XXtlIKF8wec/giphy.gif)](https://media.giphy.com/media/B9XXtlIKF8wec/giphy.gif)
-
-### Informative Section
 
 #### Embedding Images in Log
 
@@ -95,4 +93,93 @@ Here are some paths and their URL mapping.
 
 ### Reference
 ![100 Days of Code by James Priest](https://james-priest.github.io/100-days-of-code-log/)
+
+### Getting Started
+GitHub Pages uses [Jekyll](https://jekyllrb.com/) to build the static site. Jekyll is a Ruby-based static site generator that uses [Liquid](https://jekyllrb.com/docs/liquid/) as it's templating language and Markdown as it's content source. Code logs are written in Markdown.
+
+In order to preview and test changes, Jekyll GitHub Pages  should be installed locally. GitHub recommends installing Jekyll to preview your site and help troubleshoot any failed Jekyll builds.
+
+While Jekyll relies on Ruby and Liquid for logic and templating, you don't need to know anything other than Markdown in order to create your log. Here are a couple Markdown resources.
+
+- [GitHub Guides Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Syntax Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+### Prerequisites
+
+[Ruby](https://www.ruby-lang.org/) and [Bundler](http://bundler.io/) need to be installed before proceeding.
+
+1. Open the terminal (Terminal, Git Bash, WSL, etc.).
+2. Check whether you have Ruby 2.1.0 or higher installed:
+
+   ```bash
+   $ruby --version
+   > ruby 2.X.X
+   ```
+
+3. If you don't have Ruby installed, [install Ruby 2.1.0 or higher](https://www.ruby-lang.org/en/downloads/).
+4. Install Bundler:
+
+   ```bash
+   $ gem install bundler
+   # Installs the Bundler gem
+   ```
+
+### Installation
+
+Fork and clone the repo, then use Bundler to install the gem dependencies.
+
+1. Fork the repo by clicking the Fork button in the upper right corner of the page.
+
+    ![Fork button](./docs/src/fixed/fork.jpg)
+
+2. Clone (or download) the repo.
+
+    ```bash
+    $ git clone https://github.com/<username>/100-days-log.git
+    $ cd 100-days-log/docs/
+    >
+    ```
+
+3. Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the GitHub Pages gem with the following command.
+
+    ```bash
+    $ bundle install
+    > Fetching gem metadata from https://rubygems.org/............
+    > Fetching version metadata from https://rubygems.org/...
+    > Fetching dependency metadata from https://rubygems.org/..
+    > Resolving dependencies...
+
+### Usage
+
+You can serve the site and enable live-reload if desired. [Additional command line options](https://jekyllrb.com/docs/configuration/options/) exist to changes things such as port, hostname, url, etc.
+
+### Serve site
+
+Serves the local Jekyll site and rebuilds anytime a source file changes.
+
+1. Navigate to the `docs` folder off of the root directory.
+2. Run the Jekyll site locally.
+
+    ```bash
+    bundle exec jekyll serve
+    ```
+
+3. Preview your local Jekyll site in your web browser at
+
+     [http://localhost:4000](http://localhost:4000)
+
+### Serve site (with with live-reload)
+
+Serves, builds and auto-reloads the page when whenever a source file changes.
+
+1. Navigate to the `docs` folder off of the root directory.
+2. Run the Jekyll site locally.
+
+    ```bash
+    bundle exec jekyll serve --livereload
+    ```
+
+3. Preview your local Jekyll site in your web browser at
+
+     [http://localhost:4000](http://localhost:4000)
 
