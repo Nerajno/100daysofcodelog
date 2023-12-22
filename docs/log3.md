@@ -39,6 +39,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
+## 1. Blog Development && Vue Mastery
+## Day 1: December 21, 2023 - Thursday
+
+**Project:**
+Learning and Building v0.2
+
+**Progress:**
+- Vue Mastery : Completed lesson of Real World Vue (Composition API).
+- Revamping or Retrofiting the Alpine nuxt template to serve a self-hosted blog [Completed the index retro-fit].
+
+**Thoughts:**
+- Process ensures progress, got some of it done.
+
+**Links:**
+![](://github.com/james-priest/100-days-log)
+
+---
 
 ## 0. Blog Retrofit && Vue Mastery
 ## Day 0: December 20, 2023 - Wednesday
