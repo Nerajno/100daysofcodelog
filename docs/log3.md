@@ -38,6 +38,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Create WhatsApp projects page with a minimum number of 21 projects ( using https://codepen.io/FlorinPop17/full/VwYWMOa as a model)
 
 # Code Log
+
+---
+## 2. Blog Development && Vue Mastery
+## Day 2: December 22, 2023 - Friday
+
+**Project:**
+Learning and Building v0.3
+
+**Progress:**
+- Vue Mastery : Completed lesson of Real World Vue (Composition API) : Vue Router Essentails
+- Made the Alpine nuxt template blog Vervel-hosted.
+
+**Thoughts:**
+- Make it to the next mind-meal either fullfilled or some-what (), remember its all on you and make it happen.
+
+**Links:**
+![](https://media.giphy.com/media/3o7TKFUjhcxdx9PUHu/giphy-downsized.gif)
+
+
 ---
 ## 1. Blog Development && Vue Mastery
 ## Day 1: December 21, 2023 - Thursday
@@ -48,6 +67,7 @@ Learning and Building v0.2
 **Progress:**
 - Vue Mastery : Completed lesson of Real World Vue (Composition API).
 - Revamping or Retrofiting the Alpine nuxt template to serve a self-hosted blog [Completed the index retro-fit].
+[![Day 1](./assets/images/log3/day3_blog_demo.png)](./assets/images/log3/day3_blog_demo.png)
 
 **Thoughts:**
 - Process ensures progress, got some of it done.
