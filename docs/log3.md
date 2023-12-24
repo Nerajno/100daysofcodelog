@@ -40,6 +40,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+
+## 3. Vue Mastery && Weekend Project
+## Day 3: December 23, 2023 - Saturday
+
+**Project:**
+Learning ~ Vue Mastery : Composition API ~> API Calls with Axios
+Building > Trumma
+
+
+**Progress:**
+- Vue Mastery : Completed lesson of Real World Vue (Composition API) : API Calls with Axios
+- Trumma : Got the music files in the right place and play with the wrong keypress and on the right ones also.
+
+**Thoughts:**
+- When it gets extremely hard; I will quit tomorrow.
+
+**Links:**
+![](https://media.giphy.com/media/Lqep8CZFH5xhJfKAUT/giphy-downsized.gif)
+
+---
+
 ## 2. Blog Development && Vue Mastery
 ## Day 2: December 22, 2023 - Friday
 
@@ -51,13 +72,13 @@ Learning and Building v0.3
 - Made the Alpine nuxt template blog Vervel-hosted.
 
 **Thoughts:**
-- Make it to the next mind-meal either fullfilled or some-what (), remember its all on you and make it happen.
+- Make it to the next mind-meal either fullfilled or some-what (rest), remember its all on you and make it happen.
 
 **Links:**
 ![](https://media.giphy.com/media/3o7TKFUjhcxdx9PUHu/giphy-downsized.gif)
 
-
 ---
+
 ## 1. Blog Development && Vue Mastery
 ## Day 1: December 21, 2023 - Thursday
 
