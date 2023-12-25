@@ -40,6 +40,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 4. Vue Mastery && Blog Fixing
+## Day 4: December 24, 2023 - Sunday
+
+**Project:**
+Learning ~ Vue Mastery : Composition API
+Building > Blog Demo ~> 1st article
+
+
+**Progress:**
+- Vue Mastery : Completed lesson of Real World Vue (Composition API) : Dynamic Routing
+                Some of the functions were broken and #ChapGpt and #Bard helped.
+- Blog Revamp : Transfered 1st blog from Dev.to, ![1st Version](https://self-hosted-blog-v3.vercel.app/articles/writing-the-needed-readme).
+
+**Thoughts:**
+- Again:  I will quit tomorrow.
+
+**Links:**
+![](https://self-hosted-blog-v3.vercel.app/articles/writing-the-needed-readme)
+
+---
 
 ## 3. Vue Mastery && Weekend Project
 ## Day 3: December 23, 2023 - Saturday
