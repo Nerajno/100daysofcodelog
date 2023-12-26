@@ -26,7 +26,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Primary Goals
 - [ ] One hour of focused building daily.
 - [ ] One hour of focused learning via a tutorial daily.
-- [ ] Add a #tag searching capability to/on my blog.
+- [ ] Add a #tag searching capability to/on my hosted blog.
 - [ ] Update current blog in my job's framework.
 - [ ] Complete Front End Development Libraries Certification  ~> (freeCodeCamp).
 - [ ] Complete the Data Vizualization Certification ~> (freeCodeCamp).
@@ -40,6 +40,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 5. Vue Mastery && Wkend Builds
+## Day 5: December 24, 2023 - Monday
+
+**Project:**
+Learning ~ Vue Mastery : Composition API
+Building > tRumma ~> N/A
+** Consulting : Fixing and Updating Architecture
+
+
+**Progress:**
+- Vue Mastery : Completed lesson of Real World Vue (Composition API) : Deployment and Scaling
+- tRumma ~ Stuck for a bit
+
+**Thoughts:**
+- Again:  I will quit tomorrow.
+
+**Links:**
+![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
+
+---
+
 ## 4. Vue Mastery && Blog Fixing
 ## Day 4: December 24, 2023 - Sunday
 
