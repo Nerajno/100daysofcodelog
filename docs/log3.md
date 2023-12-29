@@ -40,6 +40,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 8. Vue Mastery && Blog Relocation
+## Day 8: December 28, 2023 - Thursday
+
+**Project:**
+Learning ~ Vue Mastery : Touring Vue Router (Composition API)
+Building > Blog Relocation
+
+**Progress:**
+- Vue Mastery : Stuck on  lesson 4 of Touring Vue Router (Composition API) : Nested Routes .... seen you tomorrow.
+- Blog Relocation ~ Cover image is broken for the readMe blog but the 4th is up.
+
+**Thoughts:**
+I feel like I am loosing steam but I am seeing the time leak in my day ... fixing them.
+I will quit, but tomorrow.
+
+**Links:**
+![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
+
+___
+
 ## 7. Vue Mastery && Blog Relocation
 ## Day 7: December 27, 2023 - Wednesday
 
