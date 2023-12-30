@@ -40,6 +40,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 9. Blog Relocation
+## Day 9: December 29, 2023 - Friday
+
+**Project:**
+Building > Blog Relocation v2 and image fixes
+
+**Progress:**
+- Blog Relocation ~ Cover image is broken for the readMe blog but the 4th is up.
+
+**Thoughts:**
+I am tired.
+I will quit, but tomorrow.
+
+**Links:**
+![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
+
+___
+
 ## 8. Vue Mastery && Blog Relocation
 ## Day 8: December 28, 2023 - Thursday
 
