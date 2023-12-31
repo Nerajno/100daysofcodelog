@@ -40,6 +40,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 10. Vue Mastery && Blog Updates && Portfolio
+## Day 10: December 30, 2023 - Saturday
+
+**Project:**
+Learning ~ Vue Mastery : Touring Vue Router (Composition API) ~> Completed 3 Lessons
+Building/Fixes > Blog (Restructuring Image Layouts) && Updating Css Portfolio
+
+**Progress:**
+- Blog Renovations ~ Cover image is fixed for the readMe blog.
+- Vue Mastery : Completed 3 lessons of Touring Vue Router :Composition API
+
+**Thoughts:**
+I have determined where the energy leaks are, fixing them. I will quit, but tomorrow.
+
+**Links:**
+![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
+
+___
+
 ## 9. Blog Relocation
 ## Day 9: December 29, 2023 - Friday
 
