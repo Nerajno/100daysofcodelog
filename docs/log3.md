@@ -41,6 +41,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 12. freeCodeCamp
+## Day 12: January 1, 2024 - Monday
+
+**Project:**
+Learning ~ freeCodeCamp new JavaScript project
+
+**Progress:**
+- Completed 4 challenges
+
+**Thoughts:**
+Happy New year. I will quit, but tomorrow.
+
+**Links:**
+![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
+
+---
+
+
 ## 11. Vue Mastery
 ## Day 11: December 31, 2023 - Sunday
 
@@ -56,6 +74,7 @@ I am tired and Happy New year. I will quit, but tomorrow.
 **Links:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
+---
 
 ## 10. Vue Mastery && Blog Updates && Portfolio
 ## Day 10: December 30, 2023 - Saturday
