@@ -41,23 +41,41 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## 12. freeCodeCamp
-## Day 12: January 1, 2024 - Monday
+## 13. Vue Mastery
+## Day 13: January 2, 2024 - Tuesday
 
 **Project:**
-Learning ~ freeCodeCamp new JavaScript project
+Learning ~ Vue Mastery : Completed the previopus module and started Pinia foundamentals
 
 **Progress:**
-- Completed 4 challenges
+- Notes and two lessons from Vue Mastery
 
 **Thoughts:**
-Happy New year. I will quit, but tomorrow.
+I will quit, but tomorrow.
 
 **Links:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ---
 
+
+
+## 12. Vue Mastery
+## Day 12: January 1, 2023 - Monday
+
+**Project:**
+Learning ~ Vue Mastery : Touring Vue Router (Composition API) ~> Completed 2 Lessons
+
+**Progress:**
+- Vue Mastery : Completed 2 lessons of Touring Vue Router :Composition API
+
+**Thoughts:**
+I am tired and Happy New year. I will quit, but tomorrow.
+
+**Links:**
+![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
+
+---
 
 ## 11. Vue Mastery
 ## Day 11: December 31, 2023 - Sunday
