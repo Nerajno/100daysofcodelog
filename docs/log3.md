@@ -41,6 +41,40 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 15. Vue Mastery
+## Day 15: January 4, 2024 - Thursday
+
+**Project:**
+Learning ~ Vue Mastery : Completed Pinia foundamentals
+
+**Progress:**
+- Completed Two lessons from Vue Mastery
+
+**Thoughts:**
+I will quit, but tomorrow.
+
+**Links:**
+![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
+
+---
+
+## 14. Vue Mastery
+## Day 14: January 3, 2024 - Wednesday
+
+**Project:**
+Learning ~ Vue Mastery : Pinia foundamentals ~> 1/2 way through
+
+**Progress:**
+- Notes and two lessons from Vue Mastery
+
+**Thoughts:**
+I will quit, but tomorrow.
+
+**Links:**
+![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
+
+---
+
 ## 13. Vue Mastery
 ## Day 13: January 2, 2024 - Tuesday
 
