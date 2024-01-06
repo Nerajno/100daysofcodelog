@@ -41,6 +41,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 17. Vue Mastery && Revamping tRumma
+## Day 17: January 6, 2024 - Saturday
+
+**Project:**
+Learning ~ Vue Mastery : Started Vue with TypeScript
+Building ~ Reworking outline or file structure of the tRumma project
+
+**Progress:**
+- Completed more two lessons from Vue Mastery.
+- tRumma ~> Re:Outline the app structure, adding TypeScript and lay the foundation.
+
+**Thoughts:**
+Pleased today and making progress.
+
+**Links:**
+![](https://media.giphy.com/media/RFlRiaBpkBFO8/giphy.gif)
+
+---
 
 ## 16. Vue Mastery && Revamping tRumma
 ## Day 16: January 5, 2024 - Friday
