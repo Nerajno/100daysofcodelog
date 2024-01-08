@@ -41,6 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 18. Vue Mastery && Completed tRumma
+## Day 18: January 7, 2024 - Sunday
+
+**Project:**
+Learning ~ Vue Mastery : Started Vue with TypeScript
+Building ~ Completed tRumma's functionality
+
+**Progress:**
+- Vue Mastery: stuck and took a break off.
+- tRumma ~> Completed v1, need to add more bells and whistles.
+
+**Thoughts:**
+Pleased today and making progress and spoke to Glenn.
+
+**Links:**
+![](https://media.giphy.com/media/RFlRiaBpkBFO8/giphy.gif)
+
+---
+
 ## 17. Vue Mastery && Revamping tRumma
 ## Day 17: January 6, 2024 - Saturday
 
