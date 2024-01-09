@@ -40,6 +40,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 19. Vue Mastery && Blog fixes
+## Day 19: January 8, 2024 - Monday
+
+**Project:**
+Learning ~ Vue Mastery : Started Vue with TypeScript
+Building ~ Trying to create a subdomain for blog.
+
+**Progress:**
+- Vue Mastery: Maded sense with Vue & TypeScript : completed 2 modules.
+- Wrk for 1 focused hr ~> Trying to create a sub domain that points to my blog.
+
+**Thoughts:**
+Woke up to early but made some use of the end of the day.
+
+**Links:**
+![](https://media.giphy.com/media/RFlRiaBpkBFO8/giphy.gif)
+
+---
 
 ## 18. Vue Mastery && Completed tRumma
 ## Day 18: January 7, 2024 - Sunday
