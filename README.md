@@ -8,7 +8,7 @@ This repo also uses the format of James Priest's ([repo](httpsgem install bundle
 #### Todo {Current Round =>  July 14,2022 }
 - [ ] Update Readme to standardize version.
 - [ ] Implement personal branding and improve storytelling for the whole log.
-- [x] Brainstorm this version.
+- [x] Brainstorm this version and update accordingly.
 
 
 ## Current Mental Status
