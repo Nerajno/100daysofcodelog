@@ -1,5 +1,5 @@
 # My Current Code Log for #100 days of Code.
-[My Current Progress](https://nerajno.github.io/100DaysOfCodeLog/index.html)
+[My Current Progress](https://nerajno.github.io/100DaysOfCodeLog/log3.html)
 
 This repo is being used to track my progress for  the 100 Days of Code Challenge ([https://100daysofcode.com](https://100daysofcode.com)) following Alexander Kallaway's examples.
 This repo also uses the format of James Priest's ([repo](httpsgem install bundler
