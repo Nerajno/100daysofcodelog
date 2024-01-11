@@ -40,6 +40,45 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+
+## 21. Vue Mastery && ????
+## Day 21: January 10, 2024 - Wednesday
+
+**Project:**
+Learning ~ Vue Mastery : Started Unit Testing Vue 3
+Building ~ ???
+
+**Progress:**
+- Vue Mastery: Started Unit Testing Vue 3 : completed 1 module and started another. This code is buggy and 3 years old.
+- Wrk for 1 focused hr ~> Nope || Need to refocus on the building
+
+**Thoughts:**
+I am getting better at this, but its still buggy for me to work on.
+
+**Links:**
+![](https://media.giphy.com/media/aer096d3vD4rYVsgNn/giphy.gif)
+
+---
+
+## 20. Vue Mastery && Blog Fixes
+## Day 20: January 9, 2024 - Tuesday
+
+**Project:**
+Learning ~ Vue Mastery : Completed Vue with TypeScript
+Building ~ Trying to create a subdomain for blog.
+
+**Progress:**
+- Vue Mastery: Maded sense with Vue & TypeScript : completed 2 modules. This code is buggy and 3 years old.
+- Wrk for 1 focused hr ~> Trying to create a sub domain that points to my blog ~> Nope
+
+**Thoughts:**
+I am getting better at this, but its still buggy for me to think about.
+
+**Links:**
+![](https://media.giphy.com/media/36bVVT1TilR1nrYL6S/giphy.gif)
+
+---
+
 ## 19. Vue Mastery && Blog fixes
 ## Day 19: January 8, 2024 - Monday
 
