@@ -41,6 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 22. Vue Mastery && Undecided Project --- ???
+## Day 22: January 11, 2024 - Friday
+
+**Project:**
+Learning ~ Vue Mastery : Started Unit Testing Vue 3 ~ Stuck
+Building ~ ??? || Undecided
+
+**Progress:**
+- Vue Mastery: Started Unit Testing Vue 3 : This shit is broken. This code is buggy and 3 years old.
+- Wrk for 1 focused hr ~> Nope || Not sure what to build or where to start on what to build.
+
+**Thoughts:**
+Frustrated AF.
+
+**Links:**
+![](https://media.giphy.com/media/cqudCA6rrPo9W/giphy.gif)
+
+---
+
 ## 21. Vue Mastery && ????
 ## Day 21: January 10, 2024 - Wednesday
 
