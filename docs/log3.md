@@ -34,10 +34,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Secondary Goals
 - [ ] Create 4 opensource contributions.
-- [ ] Build out 1 side projects with basic features [].
+- [ ] Build out 1 side project (Vue based with auth, home page, profile edit, crud features).
 - [ ] Create WhatsApp projects page with a minimum number of 21 projects ( using https://codepen.io/FlorinPop17/full/VwYWMOa as a model)
 
 # Code Log
+
+---
+## 24. FCC Weekend Project
+## Day 23: January 13, 2024 - Saturday
+
+**Project:**
+Building ~ FCC_FEDLC : Ber-Kna
+
+**Progress:**
+- Started building the framework for the javascript calculator.
+
+**Thoughts:**
+A bit tired but did something today.
+
+**Links:**
+![](https://media.giphy.com/media/qbmjPU9cdaKkM/giphy.gif)
 
 ---
 
