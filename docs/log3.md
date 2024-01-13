@@ -41,8 +41,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 23. Vue Mastery && Undecided Project --- ???
+## Day 23: January 12, 2024 - Friday
+
+**Project:**
+Learning ~ Vue Mastery : Started Unit Testing Vue 3 ~ Stuck
+Building ~ ??? || Still Nope
+
+**Progress:**
+- Vue Mastery: Started Unit Testing Vue 3 : Needed sleep.... update dependencies and recheck.
+- Wrk for 1 focused hr ~> Found what to fix but tired.
+
+**Thoughts:**
+Fixed and improved its functionality.
+
+**Links:**
+![](https://media.giphy.com/media/2tMYOWRjFHveuOB6jg/giphy.gif)
+
+---
+
 ## 22. Vue Mastery && Undecided Project --- ???
-## Day 22: January 11, 2024 - Friday
+## Day 22: January 11, 2024 - Thursday
 
 **Project:**
 Learning ~ Vue Mastery : Started Unit Testing Vue 3 ~ Stuck
