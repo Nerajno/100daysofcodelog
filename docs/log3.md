@@ -40,20 +40,55 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
-## 24. FCC Weekend Project
-## Day 23: January 13, 2024 - Saturday
+## 26. FCC Weekend Project
+## Day 26: January 15, 2024 - Monday
+
+**Project:**
+Nada / Zilch / Nyet
+
+**Progress:**
+404 Not Found
+
+**Thoughts:**
+Broke the chain today, honesty shouldn't have but just tired and frustrated.
+
+**Links:**
+![](https://media.giphy.com/media/qbmjPU9cdaKkM/giphy.gif)
+
+---
+
+## 25. FCC Weekend Project
+## Day 24: January 14, 2024 - Sunday
 
 **Project:**
 Building ~ FCC_FEDLC : Ber-Kna
 
 **Progress:**
-- Started building the framework for the javascript calculator.
+- Completed building out the framework for the javascript calculator.
 
 **Thoughts:**
-A bit tired but did something today.
+A completetly tired but did something today. I forgot to take my nap today
+ and
 
 **Links:**
-![](https://media.giphy.com/media/qbmjPU9cdaKkM/giphy.gif)
+![](https://media.giphy.com/media/Qh4FSYVY3jvmeVjRur/giphy.gif)
+
+---
+
+## 24. FCC Weekend Project
+## Day 24: January 13, 2024 - Sunday
+
+**Project:**
+Building ~ FCC_FEDLC : Ber-Kna
+
+**Progress:**
+- Completed building out the framework for the javascript calculator.
+
+**Thoughts:**
+A completetly tired but did something today. I forgot to take my nap today
+
+**Links:**
+![](https://media.giphy.com/media/Qh4FSYVY3jvmeVjRur/giphy.gif)
 
 ---
 
