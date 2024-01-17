@@ -40,6 +40,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+
+## 27. Vue Mastery  && ??? ~ Nadah
+## Day 27: January 16, 2024 - Tuesday
+
+**Project:**
+Completion of Vue Mastery Beginner Track.
+Found or got help on digital gardens.
+
+**Progress:**
+Completed the Testing section of Vue Mastery and made notes.
+
+**Thoughts:**
+Reformed the chain today and felt better about it.
+
+**Links:**
+![](https://media.giphy.com/media/kUNuMR2htAPA0PGlDP/giphy-downsized.gif)
+
+---
+
 ## 26. FCC Weekend Project
 ## Day 26: January 15, 2024 - Monday
 
