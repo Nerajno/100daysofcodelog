@@ -5,7 +5,7 @@ This repo is being used to track my progress for  the 100 Days of Code Challenge
 This repo also uses the format of James Priest's ([repo](httpsgem install bundler
 ://github.com/james-priest/100-days-log)) to format this log, follow the instructions on his ReadMe if you want to use this format.
 
-#### Todo {Current Round =>  July 14,2022 }
+#### Todo {Current Round => Dec 20, 2023 to Mar 28, 2024 }
 - [ ] Update Readme to standardize version.
 - [ ] Implement personal branding and improve storytelling for the whole log.
 - [x] Brainstorm this version and update accordingly.
