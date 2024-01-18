@@ -563,8 +563,8 @@ Learning and Building
 
 ---
 
-## 0. Entry  Example Title Example
-## Day 0: Date - Dayv 0
+## -1. Entry Example Title Example
+## Day -1: Date - Day -1
 
 **Project:**
 

@@ -1,16 +1,17 @@
----
----
-
 @import "{{ site.theme }}";
 // color scheme change
-body { background: #e4ead1;background: #eeeeee;}
-header {
-    background: #6d408e;
-}
+// body {
+//     background-color: #e4ead1;
+// }
+// header {
+//     background-color: #8e4059;
+// }
 header h1 {
     text-shadow: 0px 2px 0px #542269;
 }
-a { color: #741eb3;  }
+a {
+    color: #c7285b;
+}
 
 a:hover { color:#999999; text-decoration: underline; }
 section a { border-bottom: 1px dotted; }
@@ -19,7 +20,6 @@ section a:hover { border-bottom: none; }
 input[type="checkbox"], input[type="radio"] {
     margin-right: 6px;
 }
-// Begin v3
 nav {
     overflow-y: auto;
     padding-right: 20px;
@@ -39,11 +39,11 @@ nav {
 ::-webkit-scrollbar-thumb {
     border-radius: 10px;
     -webkit-box-shadow: inset 0 0 4px rgba(0,0,0,0.5);
+    box-shadow: inset 0 0 4px rgba(0,0,0,0.5);
 }
 ::-webkit-scrollbar-thumb:hover {
     background: #ddd;
 }
-// End
 nav ul {
     width: 185px;
     padding-left: 52px;
@@ -72,6 +72,13 @@ section {
 }
 section h1:first-of-type {
     margin-top: 20px;
+    margin-bottom: 0;
+}
+section h1:first-of-type + p.toc {
+    margin: 0 0 10px;
+}
+section h1:first-of-type + p.toc + h2 {
+    margin-top: 20px;
 }
 section > :first-child {
     margin: 0 0 20px 0;
@@ -79,6 +86,37 @@ section > :first-child {
 section>p {
     margin: 10px;
 }
+section > table {
+    width: calc(100% - 10px);
+    margin: 0 10px 20px;
+}
+
+blockquote {
+    font-style: normal;
+    margin: 20px 10px;
+    padding: 0 20px;
+    border: 1px solid #ffcc00;
+    background-color: #f0f0f0;
+}
+blockquote > p, blockquote > h4, blockquote > h5, blockquote pre, blockquote > ul {
+    margin: 11px 0;
+    line-height: 1.2em;
+}
+blockquote > p, blockquote pre {
+    margin: 11px 10px;
+}
+
+li>blockquote, ul>blockquote {
+    margin: 20px 0;
+}
+section > blockquote > ol, section > blockquote > ul {
+    padding: 0 0 0 20px;
+}
+section > blockquote > table {
+    margin: 0 10px 20px;
+    width: calc(100% - 20px);
+}
+
 hr { margin: 20px 0; }
 
 section>ol, section>ul {
@@ -89,16 +127,22 @@ section ul ul, ul ol, ol ul, ol ol {
     margin-bottom: 4px;
     padding: 0 0 0 20px
 }
-
+section .center {
+    display: block;
+    text-align: center;
+}
+section .bold {
+    font-weight: bold;
+}
+section .underline {
+    text-decoration: underline;
+}
 h1, h2, h3, h2+p>strong {
     line-height: 1.0;
 }
 h1 {
     font-size: 1.8em;
     margin: 20px 0;
-}
-h1:first-of-type {
-    margin-top: 0;
 }
 h2 {
     font-size:1.5em;
@@ -117,7 +161,7 @@ code {
     // font-family: Lucida Console,Monaco,Courier,monospace;
     font-size: 0.8em;
 }
-p>code, li>code, blockquote code, h1>code, h2>code, h3>code, h4>code, strong>code {
+p>code, li>code, blockquote code, h1>code, h2>code, h3>code, h4>code, strong>code, span>code {
     // color: #c7254e;
     color: #ff4675;
     // background-color: #f9f2f4;
@@ -133,10 +177,6 @@ p>code, li>code, blockquote code, h1>code, h2>code, h3>code, h4>code, strong>cod
 blockquote { font-style: normal;}
 footer {
     position: static;
-}
-
-#banner {
-    right: 20%;
 }
 
 @media print, screen and (max-width: 480px) {
