@@ -42,7 +42,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 27. Vue Mastery  && ??? ~ Nadah
-## Day 27: January 16, 2024 - Tuesday
+### Day 27: January 16, 2024 - Tuesday
 
 **Project:**
 Completion of Vue Mastery Beginner Track.
@@ -54,13 +54,13 @@ Completed the Testing section of Vue Mastery and made notes.
 **Thoughts:**
 Reformed the chain today and felt better about it.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/kUNuMR2htAPA0PGlDP/giphy-downsized.gif)
 
 ---
 
 ## 26. FCC Weekend Project
-## Day 26: January 15, 2024 - Monday
+### Day 26: January 15, 2024 - Monday
 
 **Project:**
 Nada / Zilch / Nyet
@@ -71,13 +71,13 @@ Nada / Zilch / Nyet
 **Thoughts:**
 Broke the chain today, honesty shouldn't have but just tired and frustrated.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/qbmjPU9cdaKkM/giphy.gif)
 
 ---
 
 ## 25. FCC Weekend Project
-## Day 24: January 14, 2024 - Sunday
+### Day 24: January 14, 2024 - Sunday
 
 **Project:**
 Building ~ FCC_FEDLC : Ber-Kna
@@ -89,13 +89,13 @@ Building ~ FCC_FEDLC : Ber-Kna
 A completetly tired but did something today. I forgot to take my nap today
  and
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/Qh4FSYVY3jvmeVjRur/giphy.gif)
 
 ---
 
 ## 24. FCC Weekend Project
-## Day 24: January 13, 2024 - Sunday
+### Day 24: January 13, 2024 - Sunday
 
 **Project:**
 Building ~ FCC_FEDLC : Ber-Kna
@@ -106,13 +106,13 @@ Building ~ FCC_FEDLC : Ber-Kna
 **Thoughts:**
 A completetly tired but did something today. I forgot to take my nap today
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/Qh4FSYVY3jvmeVjRur/giphy.gif)
 
 ---
 
 ## 23. Vue Mastery && Undecided Project --- ???
-## Day 23: January 12, 2024 - Friday
+### Day 23: January 12, 2024 - Friday
 
 **Project:**
 Learning ~ Vue Mastery : Started Unit Testing Vue 3 ~ Stuck
@@ -125,13 +125,13 @@ Building ~ ??? || Still Nope
 **Thoughts:**
 Fixed and improved its functionality.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/2tMYOWRjFHveuOB6jg/giphy.gif)
 
 ---
 
 ## 22. Vue Mastery && Undecided Project --- ???
-## Day 22: January 11, 2024 - Thursday
+### Day 22: January 11, 2024 - Thursday
 
 **Project:**
 Learning ~ Vue Mastery : Started Unit Testing Vue 3 ~ Stuck
@@ -144,13 +144,13 @@ Building ~ ??? || Undecided
 **Thoughts:**
 Frustrated AF.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/cqudCA6rrPo9W/giphy.gif)
 
 ---
 
 ## 21. Vue Mastery && ????
-## Day 21: January 10, 2024 - Wednesday
+### Day 21: January 10, 2024 - Wednesday
 
 **Project:**
 Learning ~ Vue Mastery : Started Unit Testing Vue 3
@@ -163,13 +163,13 @@ Building ~ ???
 **Thoughts:**
 I am getting better at this, but its still buggy for me to work on.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/aer096d3vD4rYVsgNn/giphy.gif)
 
 ---
 
 ## 20. Vue Mastery && Blog Fixes
-## Day 20: January 9, 2024 - Tuesday
+### Day 20: January 9, 2024 - Tuesday
 
 **Project:**
 Learning ~ Vue Mastery : Completed Vue with TypeScript
@@ -182,13 +182,13 @@ Building ~ Trying to create a subdomain for blog.
 **Thoughts:**
 I am getting better at this, but its still buggy for me to think about.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/36bVVT1TilR1nrYL6S/giphy.gif)
 
 ---
 
 ## 19. Vue Mastery && Blog fixes
-## Day 19: January 8, 2024 - Monday
+### Day 19: January 8, 2024 - Monday
 
 **Project:**
 Learning ~ Vue Mastery : Started Vue with TypeScript
@@ -201,13 +201,13 @@ Building ~ Trying to create a subdomain for blog.
 **Thoughts:**
 Woke up to early but made some use of the end of the day.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/RFlRiaBpkBFO8/giphy.gif)
 
 ---
 
 ## 18. Vue Mastery && Completed tRumma
-## Day 18: January 7, 2024 - Sunday
+### Day 18: January 7, 2024 - Sunday
 
 **Project:**
 Learning ~ Vue Mastery : Started Vue with TypeScript
@@ -220,13 +220,13 @@ Building ~ Completed tRumma's functionality
 **Thoughts:**
 Pleased today and making progress and spoke to Glenn.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/RFlRiaBpkBFO8/giphy.gif)
 
 ---
 
 ## 17. Vue Mastery && Revamping tRumma
-## Day 17: January 6, 2024 - Saturday
+### Day 17: January 6, 2024 - Saturday
 
 **Project:**
 Learning ~ Vue Mastery : Started Vue with TypeScript
@@ -239,13 +239,13 @@ Building ~ Reworking outline or file structure of the tRumma project
 **Thoughts:**
 Pleased today and making progress.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/RFlRiaBpkBFO8/giphy.gif)
 
 ---
 
 ## 16. Vue Mastery && Revamping tRumma
-## Day 16: January 5, 2024 - Friday
+### Day 16: January 5, 2024 - Friday
 
 **Project:**
 Learning ~ Vue Mastery : Started Vue with TypeScript
@@ -259,13 +259,13 @@ Building ~ Reworking outline or file structure of the tRumma project
 I am evaluating how I spent my time and I am not pleased.
 I also need to up my game, focus, quantity and quantity of my work.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif)
 
 ---
 
 ## 15. Vue Mastery
-## Day 15: January 4, 2024 - Thursday
+### Day 15: January 4, 2024 - Thursday
 
 **Project:**
 Learning ~ Vue Mastery : Completed Pinia foundamentals
@@ -276,13 +276,13 @@ Learning ~ Vue Mastery : Completed Pinia foundamentals
 **Thoughts:**
 I will quit, but tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ---
 
 ## 14. Vue Mastery
-## Day 14: January 3, 2024 - Wednesday
+### Day 14: January 3, 2024 - Wednesday
 
 **Project:**
 Learning ~ Vue Mastery : Pinia foundamentals ~> 1/2 way through
@@ -293,13 +293,13 @@ Learning ~ Vue Mastery : Pinia foundamentals ~> 1/2 way through
 **Thoughts:**
 I will quit, but tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ---
 
 ## 13. Vue Mastery
-## Day 13: January 2, 2024 - Tuesday
+### Day 13: January 2, 2024 - Tuesday
 
 **Project:**
 Learning ~ Vue Mastery : Completed the previopus module and started Pinia foundamentals
@@ -310,7 +310,7 @@ Learning ~ Vue Mastery : Completed the previopus module and started Pinia founda
 **Thoughts:**
 I will quit, but tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ---
@@ -318,7 +318,7 @@ I will quit, but tomorrow.
 
 
 ## 12. Vue Mastery
-## Day 12: January 1, 2023 - Monday
+### Day 12: January 1, 2023 - Monday
 
 **Project:**
 Learning ~ Vue Mastery : Touring Vue Router (Composition API) ~> Completed 2 Lessons
@@ -329,13 +329,13 @@ Learning ~ Vue Mastery : Touring Vue Router (Composition API) ~> Completed 2 Les
 **Thoughts:**
 I am tired and Happy New year. I will quit, but tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ---
 
 ## 11. Vue Mastery
-## Day 11: December 31, 2023 - Sunday
+### Day 11: December 31, 2023 - Sunday
 
 **Project:**
 Learning ~ Vue Mastery : Touring Vue Router (Composition API) ~> Completed 2 Lessons
@@ -346,13 +346,13 @@ Learning ~ Vue Mastery : Touring Vue Router (Composition API) ~> Completed 2 Les
 **Thoughts:**
 I am tired and Happy New year. I will quit, but tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ---
 
 ## 10. Vue Mastery && Blog Updates && Portfolio
-## Day 10: December 30, 2023 - Saturday
+### Day 10: December 30, 2023 - Saturday
 
 **Project:**
 Learning ~ Vue Mastery : Touring Vue Router (Composition API) ~> Completed 3 Lessons
@@ -365,13 +365,13 @@ Building/Fixes > Blog (Restructuring Image Layouts) && Updating Css Portfolio
 **Thoughts:**
 I have determined where the energy leaks are, fixing them. I will quit, but tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ___
 
 ## 9. Blog Relocation
-## Day 9: December 29, 2023 - Friday
+### Day 9: December 29, 2023 - Friday
 
 **Project:**
 Building > Blog Relocation v2 and image fixes
@@ -383,13 +383,13 @@ Building > Blog Relocation v2 and image fixes
 I am tired.
 I will quit, but tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ___
 
 ## 8. Vue Mastery && Blog Relocation
-## Day 8: December 28, 2023 - Thursday
+### Day 8: December 28, 2023 - Thursday
 
 **Project:**
 Learning ~ Vue Mastery : Touring Vue Router (Composition API)
@@ -403,13 +403,13 @@ Building > Blog Relocation
 I feel like I am loosing steam but I am seeing the time leak in my day ... fixing them.
 I will quit, but tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ___
 
 ## 7. Vue Mastery && Blog Relocation
-## Day 7: December 27, 2023 - Wednesday
+### Day 7: December 27, 2023 - Wednesday
 
 **Project:**
 Learning ~ Vue Mastery : Touring Vue Router (Composition API)
@@ -422,13 +422,13 @@ Building > Blog Relocation
 **Thoughts:**
 - Again:  I will quit, but tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ---
 
 ## 6. Vue Mastery && Blog Relocation
-## Day 6: December 26, 2023 - Tuesday
+### Day 6: December 26, 2023 - Tuesday
 
 **Project:**
 Learning ~ Vue Mastery : Touring Vue Router (Composition API)
@@ -441,13 +441,13 @@ Building > Blog Relocation
 **Thoughts:**
 - Again:  I will quit tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ---
 
 ## 5. Vue Mastery && Wkend Builds
-## Day 5: December 25, 2023 - Monday
+### Day 5: December 25, 2023 - Monday
 
 **Project:**
 Learning ~ Vue Mastery : Composition API
@@ -462,13 +462,13 @@ Building > tRumma ~> N/A
 **Thoughts:**
 - Again:  I will quit tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3oz8xDPcg38YEstfVu/giphy.gif)
 
 ---
 
 ## 4. Vue Mastery && Blog Fixing
-## Day 4: December 24, 2023 - Sunday
+### Day 4: December 24, 2023 - Sunday
 
 **Project:**
 Learning ~ Vue Mastery : Composition API
@@ -483,13 +483,13 @@ Building > Blog Demo ~> 1st article
 **Thoughts:**
 - Again:  I will quit tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://self-hosted-blog-v3.vercel.app/articles/writing-the-needed-readme)
 
 ---
 
 ## 3. Vue Mastery && Weekend Project
-## Day 3: December 23, 2023 - Saturday
+### Day 3: December 23, 2023 - Saturday
 
 **Project:**
 Learning ~ Vue Mastery : Composition API ~> API Calls with Axios
@@ -503,13 +503,13 @@ Building > Trumma
 **Thoughts:**
 - When it gets extremely hard; I will quit tomorrow.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/Lqep8CZFH5xhJfKAUT/giphy-downsized.gif)
 
 ---
 
 ## 2. Blog Development && Vue Mastery
-## Day 2: December 22, 2023 - Friday
+### Day 2: December 22, 2023 - Friday
 
 **Project:**
 Learning and Building v0.3
@@ -521,13 +521,13 @@ Learning and Building v0.3
 **Thoughts:**
 - Make it to the next mind-meal either fullfilled or some-what (rest), remember its all on you and make it happen.
 
-**Links:**
+**Links/Memes:**
 ![](https://media.giphy.com/media/3o7TKFUjhcxdx9PUHu/giphy-downsized.gif)
 
 ---
 
 ## 1. Blog Development && Vue Mastery
-## Day 1: December 21, 2023 - Thursday
+### Day 1: December 21, 2023 - Thursday
 
 **Project:**
 Learning and Building v0.2
@@ -540,13 +540,13 @@ Learning and Building v0.2
 **Thoughts:**
 - Process ensures progress, got some of it done.
 
-**Links:**
+**Links/Memes:**
 ![](://github.com/james-priest/100-days-log)
 
 ---
 
 ## 0. Blog Retrofit && Vue Mastery
-## Day 0: December 20, 2023 - Wednesday
+#### Day 0: December 20, 2023 - Wednesday
 
 **Project:**
 Learning and Building
@@ -558,13 +558,13 @@ Learning and Building
 **Thoughts:**
 - Process ensures progress.
 
-**Links:**
+**Links/Memes:**
 ![Just Saying](https://youtu.be/dQw4w9WgXcQ?si=7oy9s9NNAB0-9Y1g)
 
 ---
 
 ## -1. Entry Example Title Example
-## Day -1: Date - Day -1
+### Day -1: Date - Day -1
 
 **Project:**
 
@@ -583,6 +583,6 @@ or
 
 **Thoughts:**
 
-**Links:**
+**Links/Memes:**
 
 ---

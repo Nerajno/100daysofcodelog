@@ -26,7 +26,8 @@ nav {
     margin-left: -574px;
     top: 190px;
     max-height: calc(100% - 190px);
-    text-align: inherit;
+    text-align: left;
+    width: 270px;
 }
 // scrollbar
 ::-webkit-scrollbar {
