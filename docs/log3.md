@@ -35,9 +35,29 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Secondary Goals
 - [ ] Create 4 opensource contributions.
 - [ ] Build out 1 side project (Vue based with auth, home page, profile edit, crud features).
-- [ ] Create WhatsApp projects page with a minimum number of 21 projects ( using https://codepen.io/FlorinPop17/full/VwYWMOa as a model)
+- [ ] Create WhatsApp projects page with a minimum number of 21 projects ( using [](https://codepen.io/FlorinPop17/full/VwYWMOa) as a model/ template.)
 
 # Code Log
+
+---
+
+## 28. Vue Mastery : Recap  && Code Log Tweaking
+### Day 27: January 17, 2024 - Wednesday
+
+**Project:**
+- Vue Mastery : Beginner Track ~ Reviewing notes
+- #100DaysOfCode Log : Tweaking
+
+**Progress:**
+- Vue Mastery ~ Creating a list of things do and write about but here are some cool tools :[TypeScript Cheatsheet](https://www.typescriptlang.org/cheatsheets), [Pinia Cheatsheet](https://www.vuemastery.com/pinia/?coupon=PINIA-DOCS&via=eduardo#cheat-sheet) and the [Vue3 Cheatsheet](https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf).
+
+- #100DaysOfCode Log : Tweaking the layout on my code log and realising that some goals needs to be specified.
+
+**Thoughts:**
+Keep going, adjust accordingly, but keep going.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNicmV3MTBqZG16enpuZDdrYmE3d2dkNTQwbWFsMjJjenZtN3hrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2A75RyXVzzSI2bx4Gj/giphy-downsized.gif)
 
 ---
 
