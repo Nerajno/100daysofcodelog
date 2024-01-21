@@ -41,8 +41,59 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 31. Ber-kna ~ FCC FEDLC
+### Day 31: January 20, 2024 - Saturday
+
+**Project:**
+- Ber-kna : FCC FEDLC project
+
+**Progress:**
+- Nope, Stuck ...  Yes Still
+
+**Thoughts:**
+I will quit but for tomorrow.
+
+**Links/Memes:**
+[Ber-kna's current state](http://tinyurl.com/bdjp4xcf)
+
+--
+
+## 30. Ber-kna ~ FCC FEDLC
+### Day 2: January 19, 2024 - Friday
+
+**Project:**
+- Ber-kna : FCC FEDLC project
+
+**Progress:**
+- Nope, Stuck
+
+**Thoughts:**
+I will quit but for tomorrow.
+
+**Links/Memes:**
+[Ber-kna's current state](http://tinyurl.com/bdjp4xcf)
+
+--
+
+## 29. Ber-kna ~ FCC FEDLC
+### Day 29: January 18, 2024 - Thursday
+
+**Project:**
+- Ber-kna : FCC FEDLC project
+
+**Progress:**
+- Got 13/16 test to pass and refactored some of the code.
+
+**Thoughts:**
+I will quit but for tomorrow.
+
+**Links/Memes:**
+[Ber-kna's current state](http://tinyurl.com/bdjp4xcf)
+
+--
+
 ## 28. Vue Mastery : Recap  && Code Log Tweaking
-### Day 27: January 17, 2024 - Wednesday
+### Day 28: January 17, 2024 - Wednesday
 
 **Project:**
 - Vue Mastery : Beginner Track ~ Reviewing notes
