@@ -41,6 +41,41 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 32. Revamping JS Skills && Contract Wrk
+### Day 32: January 22, 2024 - Sunday
+
+**Project:**
+- Revamping JS Skills : Scrimba
+- Contract Wrk : OnGoing
+
+**Progress:**
+- Need to get ether better at notes, the building and learning process helped.
+
+**Thoughts:**
+Focused practice is a good thing but getting there.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/q0FDhGCjTFDW2HUKvb/giphy-downsized.gif)
+
+--
+
+## 32. Ber-kna ~ FCC FEDLC
+### Day 32: January 21, 2024 - Sunday
+
+**Project:**
+- Ber-kna : FCC FEDLC project
+
+**Progress:**
+- Worked on the tests for Ber-kna but its still broken.
+
+**Thoughts:**
+Still this ~> Reviewed the goals and took time revise specifically what needs to be built and what needs to be learnt.
+
+**Links/Memes:**
+[Ber-kna's current state](http://tinyurl.com/bdjp4xcf)
+
+--
+
 ## 31. Ber-kna ~ FCC FEDLC
 ### Day 31: January 20, 2024 - Saturday
 

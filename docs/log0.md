@@ -50,10 +50,6 @@ This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https:
 - [x] Updated TrapprKeeper and add notes.
 
 
-
-
-
-
 # Code Log
 
 ---
