@@ -42,7 +42,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 32. Revamping JS Skills && Contract Wrk
-### Day 32: January 22, 2024 - Sunday
+### Day 32: January 22, 2024 - Monday
 
 **Project:**
 - Revamping JS Skills : Scrimba
