@@ -41,8 +41,43 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## 32. Revamping JS Skills && Contract Wrk
-### Day 32: January 22, 2024 - Monday
+## 35. Revamping JS Skills && Contract Wrk
+### Day 35: January 24, 2024 - Wednesday
+
+**Project:**
+- Revamping JS Skills : Scrimba
+- Contract Wrk : OnGoing
+
+**Progress:**
+- Nothing
+
+**Thoughts:**
+Dry
+
+**Links/Memes:**
+![](https://media.giphy.com/media/U3O6bnlgwdK5nj5Lrf/giphy-downsized.gif)
+
+--
+## 34. Revamping JS Skills && Contract Wrk
+### Day 34: January 23, 2024 -  Tuesday
+
+**Project:**
+- Revamping JS Skills : Scrimba
+- Contract Wrk : OnGoing
+
+**Progress:**
+- Need to get ether better at notes, the building and learning process helped.
+
+**Thoughts:**
+Focused practice is a good thing but getting there.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/q0FDhGCjTFDW2HUKvb/giphy-downsized.gif)
+
+--
+
+## 33. Revamping JS Skills && Contract Wrk
+### Day 33: January 22, 2024 - Monday
 
 **Project:**
 - Revamping JS Skills : Scrimba
