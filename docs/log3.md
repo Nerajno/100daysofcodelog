@@ -41,6 +41,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 36. Nada ~ Stuck for a bit
+### Day 36: January 25, 2024 - Thursday
+
+**Project:**
+- Revamping JS Skills : Scrimba .... Nope Not Today
+- Revamping a blog from Vue to Astro
+
+**Progress:**
+- Found the right blog template and gonna push it.
+
+**Thoughts:**
+A bit out of it but made some progress at the end.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/U3O6bnlgwdK5nj5Lrf/giphy-downsized.gif)
+
+--
+
 ## 35. Revamping JS Skills && Contract Wrk
 ### Day 35: January 24, 2024 - Wednesday
 
@@ -52,12 +70,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Nothing
 
 **Thoughts:**
-Dry
+Dry but still at it.
 
 **Links/Memes:**
-![](https://media.giphy.com/media/U3O6bnlgwdK5nj5Lrf/giphy-downsized.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t4emFkdXVyM2R0NWxqOXBtZGJsMDFuYzBtMW9udHBiNmxmdnVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aMwdfGSyeYjUKY6vjf/giphy-downsized.gif)
 
 --
+
 ## 34. Revamping JS Skills && Contract Wrk
 ### Day 34: January 23, 2024 -  Tuesday
 
