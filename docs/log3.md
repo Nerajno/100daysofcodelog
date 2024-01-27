@@ -41,6 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 37. Changing Gears
+### Day 37: January 26, 2024 - Friday
+
+**Project:**
+- Revamping JS Skills : Scrimba .... Still, Nope Not Today
+- Revamping a blog from Vue to Astro : Framing
+
+**Progress:**
+- Blog : Framing out or understanging how to frame blog in Astro
+- Learning // Building in JavaScript : Stuck for a bit to understand how JS works.
+
+**Thoughts:**
+Pacing and filling the holes of knowledge.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl4bHJuYjcyaXNzd20zeXp4bjg2bDhqMnM1cTg0NHlvbms4NmQ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bEs5iSFML4x0nSW1LC/giphy-downsized.gif)
+
+--
+
 ## 36. Nada ~ Stuck for a bit
 ### Day 36: January 25, 2024 - Thursday
 
