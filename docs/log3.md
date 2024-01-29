@@ -40,7 +40,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
-## 39. Changing Gears
+## 39. Read Code and Travelling to That Conference
 ### Day 39: January 28, 2024 - Sunday
 
 **Project:**
