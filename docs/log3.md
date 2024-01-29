@@ -40,6 +40,43 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 39. Changing Gears
+### Day 39: January 28, 2024 - Sunday
+
+**Project:**
+- Revamping JS Skills : Scrimba .... Still, Nope Not Today
+- Revamping a blog from Vue to Astro : Framing
+
+**Progress:**
+- Blog : Framing out or understanging how to frame blog in Astro
+- Learning // Building in JavaScript : Stuck for a bit to understand how JS works.
+
+**Thoughts:**
+Pacing and filling the holes of knowledge.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl4bHJuYjcyaXNzd20zeXp4bjg2bDhqMnM1cTg0NHlvbms4NmQ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bEs5iSFML4x0nSW1LC/giphy-downsized.gif)
+
+--
+
+## 38. Changing Gears
+### Day 38: January 27, 2024 - Saturday
+
+**Project:**
+- Revamping JS Skills : Scrimba .... Still, Nope Not Today
+- Revamping a blog from Vue to Astro : Framing
+
+**Progress:**
+- Blog : Framing out or understanging how to frame blog in Astro
+- Learning // Building in JavaScript : Stuck for a bit to understand how JS works.
+
+**Thoughts:**
+Pacing and filling the holes of knowledge.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl4bHJuYjcyaXNzd20zeXp4bjg2bDhqMnM1cTg0NHlvbms4NmQ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bEs5iSFML4x0nSW1LC/giphy-downsized.gif)
+
+--
 
 ## 37. Changing Gears
 ### Day 37: January 26, 2024 - Friday
