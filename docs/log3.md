@@ -39,7 +39,44 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+
 ---
+## 41. That Conference ~ Day 2
+### Day 41: January 30, 2024 - Sunday
+
+**Project:**
+- Revamping JS Skills : Scrimba .... Suspended by That Conference 2024
+- Revamping a blog from Vue to Astro : Framing .... Suspended by That Conference 2024
+
+**Progress:**
+- Lots of notes to make or review from the sessions from Day2 of That Conference.
+
+**Thoughts:**
+- There is so much to learn, build, teach and do ..... Oh Lord ... Its an avalanche.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Bhc2xjdG82bnVkbWNmYnJsemltamc2MHAwOXR0eTIxYXRxYmxzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W0Pts08xV5JJp2Nj4N/giphy.gif)
+
+---
+
+## 40. That Conference ~ Day 1
+### Day 40: January 29, 2024 - Monday
+
+**Project:**
+- Revamping JS Skills : Scrimba .... Suspended by That Conference 2024
+- Revamping a blog from Vue to Astro : Framing .... Suspended by That Conference 2024
+
+**Progress:**
+- Lots of notes to make or review from the sessions from Day1 of That Conference.
+
+**Thoughts:**
+- There is so much to learn, build, teach and do.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHMwbGNxMGg4bDF2czNxOGdrcjVjNWFnNTl3cWplYno3bzRodmtxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yy6GhtIk8l76u8nlIF/giphy.gif)
+
+---
+
 ## 39. Read Code and Travelling to That Conference
 ### Day 39: January 28, 2024 - Sunday
 
