@@ -39,6 +39,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
+---
+## 42. That Conference ~ Day 3
+### Day 42: January 31, 2024 - Wedneday
+
+**Project:**
+- Revamping JS Skills : Scrimba .... Suspended by That Conference 2024
+- Revamping a blog from Vue to Astro : Framing .... Suspended by That Conference 2024
+
+**Progress:**
+- Lots of notes to make or review from the sessions from Day 3 of That Conference.
+
+**Thoughts:**
+- There is so much to learn, build, teach and do ..... Oh Lord ... Its an avalanche and a 1/2.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FndjBxdHJvajRwemwwenFubWZqdGVhZmU4eXpubWl1b2t0eXY5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BkN3VJmiuWL9ZK0/giphy.gif)
+
 
 ---
 ## 41. That Conference ~ Day 2
