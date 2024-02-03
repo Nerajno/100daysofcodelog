@@ -40,6 +40,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 44. Back to Atlanta and Review Notes V2 : That Conference Post-OP
+### Day 44: Feb 2, 2024 - Friday
+
+**Project:**
+- Revamping JS Skills : Scrimba .... Suspended by That Conference 2024 : Reviewing Notes
+- Revamping a blog from Vue to Astro : Framing .... Suspended by That Conference 2024 : Travelling + Notes
+
+**Progress:**
+- Reviewing Notes from THAT Conf.
+
+**Thoughts:**
+- There is so much to learn, build, teach and do ..... Oh Lord ... Its an avalanche and a 4/2.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FndjBxdHJvajRwemwwenFubWZqdGVhZmU4eXpubWl1b2t0eXY5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BkN3VJmiuWL9ZK0/giphy.gif)
+
+---
+
 ## 43. Back to Atlanta and Review Notes
 ### Day 43: Feb 1, 2024 - Thursday
 
