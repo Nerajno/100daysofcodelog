@@ -40,6 +40,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+
+---
+## 45. Weekend Build && Blog via Astro Setup
+### Day 45: Feb 3, 2024 - Saturday
+
+**Project:**
+- Weekend Build ~ Ber~kna ~> Still stuck abit but working on it.
+- Revamping Blog to Astro ~ Finding the right template is tricky.
+
+**Progress:**
+- Re: weekend build ~ still need get into the bug as I am stuck.
+- Brand 3.0 ~> Need to find a blog that has a portfolio, blog, among other things.
+
+**Thoughts:**
+- Reframing the learning process by learning ~> distilling ~> building ~> documenting ~> teaching.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FndjBxdHJvajRwemwwenFubWZqdGVhZmU4eXpubWl1b2t0eXY5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BkN3VJmiuWL9ZK0/giphy.gif)
+
+---
+
 ## 44. Back to Atlanta and Review Notes V2 : That Conference Post-OP
 ### Day 44: Feb 2, 2024 - Friday
 
