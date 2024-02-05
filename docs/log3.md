@@ -41,6 +41,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 46. Weekend Build && Blog via Astro Setup ~ Sick Day
+### Day 46: Feb 4, 2024 - Sunday
+
+**Project:**
+- Weekend Build ~ Ber~kna ~> Still stuck abit but working on it [PAUSED].
+- Revamping Blog to Astro ~ Finding the right template is tricky [PAUSED].
+
+**Progress:**
+- Re: weekend build ~ figuring it out but I am not feeling too well.
+-
+
+**Thoughts:**
+- Killer Mike won the Grammy.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FndjBxdHJvajRwemwwenFubWZqdGVhZmU4eXpubWl1b2t0eXY5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BkN3VJmiuWL9ZK0/giphy.gif)
+
 ---
 ## 45. Weekend Build && Blog via Astro Setup
 ### Day 45: Feb 3, 2024 - Saturday
