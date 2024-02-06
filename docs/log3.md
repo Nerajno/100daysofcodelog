@@ -41,6 +41,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 47. Sick Day
+### Day 47: Feb 5, 2024 - Monday
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNqaXFuOGpyeGw3ZTE4anlwOGlzMnRybTV5enc3bmV1ZjJrMXU2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SCaWhPSWvBxZK/giphy.gif)
+
+---
+
 ## 46. Weekend Build && Blog via Astro Setup ~ Sick Day
 ### Day 46: Feb 4, 2024 - Sunday
 
@@ -50,7 +58,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 - Re: weekend build ~ figuring it out but I am not feeling too well.
--
 
 **Thoughts:**
 - Killer Mike won the Grammy.
