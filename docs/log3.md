@@ -41,6 +41,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 48. Tired Day
+### Day 48: Feb 6, 2024 - Tuesday
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd4ZjVwZThpeHFiZWg3dXE4YXB0NWVxczRwem1tNWo5bzZ2NmtkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KVaj5UcbHwrBMqI/giphy-downsized.gif)
+
+---
+
 ## 47. Sick Day
 ### Day 47: Feb 5, 2024 - Monday
 
