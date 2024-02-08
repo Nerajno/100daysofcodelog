@@ -41,6 +41,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 49. Blog via Astro Setup ~ Research
+### Day 49: Feb 7, 2024 - Wednesday
+
+**Project:**
+
+- Revamping Blog to Astro ~ Finding the right template is tricky (Found It).
+
+**Progress:**
+- Found right template for Astro
+
+**Thoughts:**
+- Killer Mike won the Grammy, got arrested, used $500k of his own $ to make the album.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9vNjc2dmRlamx4NmgyY2ZpOGduaGdpNHB3dzVtdjZkYmY1OHZzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7QNDKCsxehUn7ejc2s/giphy-downsized.gif)
+
+---
+
 ## 48. Tired Day
 ### Day 48: Feb 6, 2024 - Tuesday
 
@@ -74,6 +92,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FndjBxdHJvajRwemwwenFubWZqdGVhZmU4eXpubWl1b2t0eXY5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BkN3VJmiuWL9ZK0/giphy.gif)
 
 ---
+
 ## 45. Weekend Build && Blog via Astro Setup
 ### Day 45: Feb 3, 2024 - Saturday
 
