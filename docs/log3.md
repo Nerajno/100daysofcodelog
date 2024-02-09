@@ -41,6 +41,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 50. Blog via Astro Setup ~ Set Up and 1/2 Tweaking
+### Day 40: Feb 8, 2024 - Thursday
+
+**Project:**
+- Revamping Blog to Astro ~ Tweaking the Navbar
+
+**Progress:**
+- Started to Work on it
+
+**Thoughts:**
+- Drop a gear and disappear.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHMwMHZzZ2h1OGExbDZhcW15N21ueTBsZnY1YnEzM3RjbWIzNXRpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8Uo4id6WCk8rJkJk5/giphy.gif)
+
+---
+
 ## 49. Blog via Astro Setup ~ Research
 ### Day 49: Feb 7, 2024 - Wednesday
 
