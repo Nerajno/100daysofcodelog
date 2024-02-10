@@ -41,6 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 51. Blog via Astro Setup
+### Day 40: Feb 8, 2024 - Friday
+
+**Project:**
+- Revamping Blog to Astro ~ Need to write copy.
+- Learnt about localFetch Implementation in Vue.
+- Framing learning at work prokect.
+
+**Progress:**
+Stuck ~ unplanned and tired.
+
+**Thoughts:**
+- Late night driving/ learning.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjR6bGNmbmN1OGd4MW1uZjB0b25yOWNoZnd1YzNwYXFwZmg1OWxzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y8dKrq2sDjQ5y/giphy-downsized.gif)
+
+---
+
 ## 50. Blog via Astro Setup ~ Set Up and 1/2 Tweaking
 ### Day 40: Feb 8, 2024 - Thursday
 
