@@ -40,9 +40,46 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 52. Astro Setup && Ber-kna
+### Day 52: Feb 11, 2024 - Sunday
+
+**Project:**
+- Revamping Blog to Astro ~ Need to write copy.
+- Learnt about localFetch Implementation in Vue.
+- Framing learning at work prokect.
+
+**Progress:**
+Stuck ~ unplanned and tired.
+
+**Thoughts:**
+- Energy
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjR6bGNmbmN1OGd4MW1uZjB0b25yOWNoZnd1YzNwYXFwZmg1OWxzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y8dKrq2sDjQ5y/giphy-downsized.gif)
+
+---
 
 ## 51. Blog via Astro Setup
-### Day 40: Feb 8, 2024 - Friday
+### Day 40: Feb 10, 2024 - Saturday
+
+**Project:**
+- Revamping Blog to Astro ~ Need to write copy.
+- Learnt about localFetch Implementation in Vue.
+- Framing learning at work prokect.
+
+**Progress:**
+Stuck ~ unplanned and tired.
+
+**Thoughts:**
+- Late night driving/ learning.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjR6bGNmbmN1OGd4MW1uZjB0b25yOWNoZnd1YzNwYXFwZmg1OWxzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y8dKrq2sDjQ5y/giphy-downsized.gif)
+
+---
+
+## 51. Blog via Astro Setup
+### Day 51: Feb 9, 2024 - Friday
 
 **Project:**
 - Revamping Blog to Astro ~ Need to write copy.
@@ -61,7 +98,7 @@ Stuck ~ unplanned and tired.
 ---
 
 ## 50. Blog via Astro Setup ~ Set Up and 1/2 Tweaking
-### Day 40: Feb 8, 2024 - Thursday
+### Day 50: Feb 8, 2024 - Thursday
 
 **Project:**
 - Revamping Blog to Astro ~ Tweaking the Navbar
