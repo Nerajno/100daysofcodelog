@@ -41,6 +41,46 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 56. Astro Setup && Ber-kna
+### Day 56: Feb 15, 2024 - Thursday
+
+**Project:**
+- Ber-kna ~ got help with the blocker.
+- Astro Setup ~ framing the project.
+
+**Progress:**
+- Reframing how the Astro project is implemented via framing it well into pieces ... Github projects.
+- Integrating a better approach to the building solutions to posed projects ( understand, breakdown, code, ask ?s if you have blockers and go again).
+
+
+**Thoughts:**
+- Be blindly stubborn about the success of tomorrow by paying the cost of creating the new habits and resources it takes to get there.
+
+**Links/Memes:**
+![](https://github.com/Nerajno/Ber-kna-FCCFEDL)
+
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1qZTVpenI5c3l0eTBkdHh2OWdvcWZvOXV4ZDBxeHFienNwNGN1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ka6CI739yOqJ2/giphy.gif)
+
+---
+
+## 55. Astro Setup
+### Day 55: Feb 14, 2024 - Wednesday
+
+**Project:**
+- Revamping Blog to Astro ~ Stubbed and stuck.
+
+
+**Progress:**
+Stuck ~ unplanned and tired and frustrated.
+
+**Thoughts:**
+- Energy is lacking.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa216cWlucG5yYnd4eTk2b3VmdGhhMXlyYThja3JiOTVib2I3dzQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y9v6gGKHjBX7W/giphy.gif)
+
+---
+
 ## 54. Astro Setup && Ber-kna
 ### Day 54: Feb 13, 2024 - Tuesday
 
