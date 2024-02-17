@@ -41,6 +41,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 57. Astro Setup
+### Day 57: Feb 16, 2024 - Friday
+
+**Project:**
+- Astro Setup ~ framing the project.
+
+**Progress:**
+- Astro project - Making small tweaks
+
+**Thoughts:**
+- Reviews template code seem to help how one thinks through code.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF4cWxzaGkwNWg0ZXNsY212aGtkOWd0b3A0MHBqOGthMDVwdm9yOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KVaj5UcbHwrBMqI/giphy.gif)
+
+---
+
 ## 56. Astro Setup && Ber-kna
 ### Day 56: Feb 15, 2024 - Thursday
 
