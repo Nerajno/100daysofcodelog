@@ -41,6 +41,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 58. Berkna
+### Day 58: Feb 17, 2024 - Saturday
+
+**Project:**
+- Ber-kna
+
+**Progress:**
+- Ber-kna ~ Tinkered to solve the problem and figured out where the problem is.
+
+**Thoughts:**
+- The `calculate()`, `answer` state and the `newExpression` functions need works.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRuNnZxOTh0eDJ0eHZkajRrczVza3phcTZnazNpa2JiYmFid29oNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11tTNkNy1SdXGg/giphy.gif)
+
+---
+
 ## 57. Astro Setup
 ### Day 57: Feb 16, 2024 - Friday
 
