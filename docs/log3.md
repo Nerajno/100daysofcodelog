@@ -45,17 +45,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 59: Feb 18, 2024 - Sunday
 
 **Project:**
-- Ber-kna ~ 
+- Ber-kna ~ Paused
 - Meeting with Jermone
 
 **Progress:**
-- Ber-kna ~ Tinkered to solve the problem and figured out where the problem is.
+- Had a come to Jesus conversation and it caused me to rethink how I learned, create and be in tech.
 
 **Thoughts:**
-- The `calculate()`, `answer` state and the `newExpression` functions need works.
+- The call was a wake up call and got me pointed in the right direction.
 
 **Links/Memes:**
-- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRuNnZxOTh0eDJ0eHZkajRrczVza3phcTZnazNpa2JiYmFid29oNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11tTNkNy1SdXGg/giphy.gif)
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZnNW1rOHk5cGdzdXBlMmFhdmRibmR6dzByY3d1cXFzdG00Z3VsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lx7AtejahSmgIWmLX5/giphy.gif)
 
 ---
 
