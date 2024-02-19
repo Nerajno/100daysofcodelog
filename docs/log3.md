@@ -41,6 +41,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 59. Berkna && Come to Jesus with Jerome
+### Day 59: Feb 18, 2024 - Sunday
+
+**Project:**
+- Ber-kna ~ 
+- Meeting with Jermone
+
+**Progress:**
+- Ber-kna ~ Tinkered to solve the problem and figured out where the problem is.
+
+**Thoughts:**
+- The `calculate()`, `answer` state and the `newExpression` functions need works.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRuNnZxOTh0eDJ0eHZkajRrczVza3phcTZnazNpa2JiYmFid29oNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11tTNkNy1SdXGg/giphy.gif)
+
+---
+
 ## 58. Berkna
 ### Day 58: Feb 17, 2024 - Saturday
 
