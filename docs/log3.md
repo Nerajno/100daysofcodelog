@@ -40,6 +40,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 62. Back to Basics : freeCodeCamp New JS Curriculum
+### Day 62: Feb 21, 2024 - Wednesday
+
+**Project:**
+- Ber-kna ~ Paused
+- Speed Running the freeCodeCamp New JS Curriculum
+
+**Progress:**
+- Did a speed run of the new curriculum... still at it v3.
+
+**Thoughts:**
+- Working on the plan but the doubling down on the core language is working well thus far v2.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ1dm5lM2U4bDV3ZjY2MGM1c2JzN3RkODZoYWpzZDF3cGk2bGp6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif)
+
+---
 
 ## 61. Back to Basics : freeCodeCamp New JS Curriculum
 ### Day 61: Feb 20, 2024 - Tuesday
