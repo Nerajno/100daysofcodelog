@@ -48,13 +48,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Speed Running the freeCodeCamp New JS Curriculum
 
 **Progress:**
-- Did a speed run of the new curriculum... still at it v3.
+- Did a speed run of the new curriculum... still at it v4.
 
 **Thoughts:**
-- Working on the plan but the doubling down on the core language is working well thus far v2.
+- I need to work on my speed of reading, focus and interpretation.
 
 **Links/Memes:**
-- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ1dm5lM2U4bDV3ZjY2MGM1c2JzN3RkODZoYWpzZDF3cGk2bGp6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif)
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWp1aWFtMGQyOHRxNWk3bGhvNG4xMm02emJ4dDA1czR5N2t1bGZtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif)
 
 ---
 ## 62. Back to Basics : freeCodeCamp New JS Curriculum
