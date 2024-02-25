@@ -40,6 +40,44 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+
+## 65. Back to Basics : freeCodeCamp New JS Curriculum && Astro
+### Day 65: Feb 24, 2024 - Saturday
+
+**Project:**
+- Paused on the others: Orlando Code Camp
+
+**Progress:**
+- Did 2 talks {
+    - Studnet track : How !to Be Mentored
+    - Main track : This is a Technical Talk: People Skills for Developers.
+}
+
+**Thoughts:**
+- Refine the talks and practice.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWt3NjVlYmJybWxlYjBuZWh6dTR0czYyZGgwcjB0dHJsYzlpNW0zMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3h1dcswMzRrUsTw6KK/giphy.gif)
+
+---
+
+## 64. Back to Basics : freeCodeCamp New JS Curriculum && Astro
+### Day 64: Feb 23, 2024 - Friday
+
+**Project:**
+- Speed Running the freeCodeCamp New JS Curriculum
+
+**Progress:**
+- Did a speed run of the new curriculum... still at it v4.
+
+**Thoughts:**
+- I need to work on my speed of reading, focus and interpretation.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWp1aWFtMGQyOHRxNWk3bGhvNG4xMm02emJ4dDA1czR5N2t1bGZtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif)
+
+---
+
 ## 63. Back to Basics : freeCodeCamp New JS Curriculum
 ### Day 63: Feb 22, 2024 - Thursday
 
@@ -57,6 +95,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWp1aWFtMGQyOHRxNWk3bGhvNG4xMm02emJ4dDA1czR5N2t1bGZtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIOdLMZDcBDc2gk6vV/giphy.gif)
 
 ---
+
 ## 62. Back to Basics : freeCodeCamp New JS Curriculum
 ### Day 62: Feb 21, 2024 - Wednesday
 
