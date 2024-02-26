@@ -41,6 +41,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 66. Astro Research
+### Day 66: Feb 25, 2024 - Sunday
+
+**Project:**
+- Paused on the others: Orlando Code Camp Recovery
+- Astro Research
+
+**Progress:**
+- Did a bit of reading on how Astro works.
+
+**Thoughts:**
+- Now we build.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QxOXB4NDR2dWRtMHZmaGkzanY5bjZwcDR0Y3o1cnNqNjN6NDhoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u8PnFQdDTglXi/giphy.gif)
+
+---
+
 ## 65. Back to Basics : freeCodeCamp New JS Curriculum && Astro
 ### Day 65: Feb 24, 2024 - Saturday
 
