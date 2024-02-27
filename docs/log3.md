@@ -41,6 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 67. freeCodeCamp && Berkna
+### Day 67: Feb 26, 2024 - Monday
+
+**Project:**
+- Freecodecamp JavaScript speed run
+- Berkna - Reviewed the code and need to review the operators and the calculators.
+
+**Progress:**
+- Speed Run : reviewing how I read instructions.
+- Reviewing the flow of the calculation.
+
+**Thoughts:**
+- Research and build. 
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QxOXB4NDR2dWRtMHZmaGkzanY5bjZwcDR0Y3o1cnNqNjN6NDhoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u8PnFQdDTglXi/giphy.gif)
+
+---
+
 ## 66. Astro Research
 ### Day 66: Feb 25, 2024 - Sunday
 
