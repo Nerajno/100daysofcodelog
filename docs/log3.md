@@ -41,6 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+
+## 68. freeCodeCamp && Berkna
+### Day 68: Feb 27, 2024 - Tuesday
+
+**Project:**
+- Freecodecamp JavaScript speed run.
+- Berkna - Paused.
+
+**Progress:**
+- Speed Run : I need review how I read instructions.
+
+**Thoughts:**
+- Meh - I am getting better at being consistent with logging code here, I also need to
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JsYWpkajQ2bWI4OHBuajZ3eGxzd3J6MWhkdXJ6a3doNGM2YXlvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UFGj6EYw5JhMQ/giphy.gif)
+
+---
+
 ## 67. freeCodeCamp && Berkna
 ### Day 67: Feb 26, 2024 - Monday
 
@@ -53,7 +72,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Reviewing the flow of the calculation.
 
 **Thoughts:**
-- Research and build. 
+- Research and build.
 
 **Links/Memes:**
 - ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QxOXB4NDR2dWRtMHZmaGkzanY5bjZwcDR0Y3o1cnNqNjN6NDhoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u8PnFQdDTglXi/giphy.gif)
