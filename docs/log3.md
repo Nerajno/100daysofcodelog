@@ -41,6 +41,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 70. freeCodeCamp JavaScript && IsNerandoDoneYet
+### Day 70: Feb 29, 2024 - Thursday
+
+**Project:**
+- Freecodecamp JavaScript speed run : still at it
+- IsNerandoDoneyet : Framing or brainstorming for 5 years
+**Progress:**
+- Speed Run : Still at it.
+- IsNerandoDoneyet : Sketches made and updloaded.
+
+**Thoughts:**
+- Return a proper investment on the the time you were given.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o5NjNlejJoa3M5ZWZmNXBnNG5ncjNjM2FxODNwaTJ2amU3eTA4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0qHEWMQ3ZqdsvUeRpm/giphy.gif)
+
+---
 
 ## 69. freeCodeCamp Java && Berkna
 ### Day 69: Feb 28, 2024 - Wednesday
