@@ -41,6 +41,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 71. freeCodeCamp JavaScript && Berkna
+### Day 71: March, 2024 - Friday
+
+**Project:**
+- Freecodecamp JavaScript speed run : still at it
+- Berkna : got 1 more test to pass
+**Progress:**
+- Speed Run : Still at it and took a lil of time understand it more.
+- Berkna ~ I got one more test to pass.
+
+**Thoughts:**
+- I need to understand to to better a proper investment on the the time I am given.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3I2NzVqc3Q4bTAwams2czN2MjRhdXdpMXM3OWg2MTEyYWpiMWV5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2jZDLR8DmoXA56jMtd/giphy.gif)
+
+---
+
 ## 70. freeCodeCamp JavaScript && IsNerandoDoneYet
 ### Day 70: Feb 29, 2024 - Thursday
 
