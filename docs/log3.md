@@ -41,8 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 72. Tired
+### Day 72: March 2, 2024 - Saturday
+
+**Project:**
+- Rested : Slept in All Day
+**Progress:**
+- Speed Run : Paused
+- Berkna ~ Paused.
+
+**Thoughts:**
+- I run myself tired as I never timeboxed and spent time to be more efficent and focused with it.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlheGk2YXA1eHhjemIwMmo5YnF3cnN4a3oxa2Vpd29yNm00ZW1pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jeCSe7Qqc7NwKUzxH7/giphy-downsized.gif)
+
+---
+
 ## 71. freeCodeCamp JavaScript && Berkna
-### Day 71: March, 2024 - Friday
+### Day 71: March 1, 2024 - Friday
 
 **Project:**
 - Freecodecamp JavaScript speed run : still at it
