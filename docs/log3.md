@@ -41,6 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 73. Berkna && FCC - Speed Run
+### Day 73: March 3, 2024 - Sunday
+
+**Project:**
+- Berkna - Weekend project
+- FreeCodeCamp - Speed Run of JavaScript
+
+**Progress:**
+- Speed Run : Stuck ....
+- Berkna ~ Still MFKING Stuck
+
+**Thoughts:**
+- Tired
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FvNmc2YW8yeGJvNXBwZ2l6M3VmZnp5bGNidjF0enJtc254YmxtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif)
+
+---
+
 ## 72. Tired
 ### Day 72: March 2, 2024 - Saturday
 
