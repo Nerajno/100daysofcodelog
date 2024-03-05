@@ -55,7 +55,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Links/Memes:**
 Coming back
-
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxybHpta3ZneHhxZGVmbXQ0cWR5bjM4Z2RuejRnOWN4b3V1dmQzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LdOzXItdgEfKOh7T9c/giphy-downsized.gif)
 ---
 
 ## 73. Berkna && FCC - Speed Run
