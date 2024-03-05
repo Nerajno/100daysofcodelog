@@ -41,6 +41,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 74. Portfolio Update
+### Day 74: March 4, 2024 - Monday
+
+**Project(s):**
+- Created all main outline for the portfolio
+
+**Progress:**
+- Only have the components to map,
+
+**Thoughts:**
+- Not sure how to phrase this
+
+**Links/Memes:**
+Coming back
+
+---
+
 ## 73. Berkna && FCC - Speed Run
 ### Day 73: March 3, 2024 - Sunday
 
