@@ -40,6 +40,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 76. Berkna
+### Day 76: March 6, 2024 - Wednesday
+
+**Project(s):**
+- Berkna ~ Still at it.
+
+**Progress:**
+- Trying new tooling.
+
+**Thoughts:**
+- Tired.
+
+**Links/Memes:**
+Coming back
+
+---
+
 ## 75. Berkna
 ### Day 75: March 5, 2024 - Tuesday
 
