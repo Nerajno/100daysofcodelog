@@ -40,6 +40,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 77. Berkna and Discussions.
+### Day 77: March 7 , 2024 - Thursday
+
+**Project(s):**
+- Berkna ~ Got it reviewed and decomposing the project.
+- Getting advice from a senior ................
+
+**Progress:**
+- Trying new tooling and ideas.
+
+**Thoughts:**
+- Back to the basics.
+
+**Links/Memes:**
+Coming back still.
+
+---
+
 ## 76. Berkna
 ### Day 76: March 6, 2024 - Wednesday
 
