@@ -42,23 +42,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 80. Learning Garden
-### Day 80: March 10, 2024 - Suday
+### Day 80: March 10, 2024 - Sunday
 
 **Project(s):**
-- Learning garden build
+- Learning Garden
 
 **Progress:**
-- Trying new tooling and ideas.
+- Found the solution to the digital garden.
 
 **Thoughts:**
-- Back to the basics.
+- The ecosystem of ruby has a lot of influences from Shopify, its a little irritating.
 
 **Links/Memes:**
-Coming back still.
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp1dTQ3emZhemZ1dTZxeGNkMmI1Y3gzcGp5a2FvemI3anRmeHJwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLWwOuPbqObupogOLB/giphy-downsized.gif)
 
 ---
 
-## 79. Berkna and Discussions. ???
+## 79. Berkna and Discussions. ??
 ### Day 79: March 9, 2024 - Saturday
 
 **Project(s):**
@@ -67,9 +67,11 @@ Coming back still.
 
 **Progress:**
 - Trying new tooling and ideas.
+- Astro to the world.
 
 **Thoughts:**
 - Back to the basics.
+- Fundamentals and a bit tiring.
 
 **Links/Memes:**
 Coming back still.
