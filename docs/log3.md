@@ -41,6 +41,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 80. Learning Garden
+### Day 80: March 10, 2024 - Suday
+
+**Project(s):**
+- Learning garden build
+
+**Progress:**
+- Trying new tooling and ideas.
+
+**Thoughts:**
+- Back to the basics.
+
+**Links/Memes:**
+Coming back still.
+
+---
+
 ## 79. Berkna and Discussions. ???
 ### Day 79: March 9, 2024 - Saturday
 
