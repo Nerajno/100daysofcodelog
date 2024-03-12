@@ -41,6 +41,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+
+## 81. Learning Garden and Fixing Portfolio
+### Day 80: March 11, 2024 - Monday
+
+**Project(s):**
+- Learning Garden
+- Fixing Portfolio
+
+**Progress:**
+- Found the solution to the digital garden and [deployed](https://nerajnodigitalgarden.netlify.app).
+- Fixing the portfolio deployment.
+
+**Thoughts:**
+- Sleep is important.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZuancxYzRwaXJtZjN3NnNxc2VqaWw3NHkyOTl6cXQ0YWZmeWI5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XjDsvyFpIhYA/giphy.gif)
+
+---
+
 ## 80. Learning Garden
 ### Day 80: March 10, 2024 - Sunday
 
