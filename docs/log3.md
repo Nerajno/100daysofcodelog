@@ -40,20 +40,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 83. Tweaking Portfolio and Learning Garden
+### Day 83: March 13, 2024 - Wednesday
+
+**Project(s):**
+- Building Portfolio
+- Tweaking Learning Garden
+
+**Progress:**
+- Added some tweaks to the digital garden.
+- Fixed the navbar, footer and linked to the garden.
+
+**Thoughts:**
+- Growth takes disciple, discipline take practice, practice takes effort, effort takes time.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXd0YXU4bW1vYWUwbXhmbGN2MTljMWRieDMzczltb3VnZDVuYzdueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8H80IVPjAdKY8/giphy.gif)
+
+---
 
 ## 82. Learning Garden
 ### Day 82: March 12, 2024 - Tuesday
 
 **Project(s):**
-- Learning Garden
-- Fixing Portfolio
+- Building Portfolio
 
 **Progress:**
 - Found the solution to the digital garden and [deployed](https://nerajnodigitalgarden.netlify.app).
 - Fixing the portfolio deployment ~ Still broken.
 
 **Thoughts:**
-- Sleep is important, very. 
+- Sleep is important, very.
 
 **Links/Memes:**
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZuancxYzRwaXJtZjN3NnNxc2VqaWw3NHkyOTl6cXQ0YWZmeWI5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XjDsvyFpIhYA/giphy.gif)
