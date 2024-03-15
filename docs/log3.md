@@ -40,6 +40,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 84. Learning : Berkna
+### Day 84: March 14, 2024 - Thursday
+
+**Project(s):**
+- Ber-kna
+- Tweaking Learning Garden
+
+**Progress:**
+- Learning Session ~ Breaking Down the Js learning/building process.
+
+**Thoughts:**
+- Still under development, I am tired but still going on.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9xd3hrZTd2MmpweGxuN2k1MW8xZWtrcng1cDhwZHRrZDNubnZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DYGbtrltNhHVX7xZTk/giphy.gif)
+
+---
 ## 83. Tweaking Portfolio and Learning Garden
 ### Day 83: March 13, 2024 - Wednesday
 
