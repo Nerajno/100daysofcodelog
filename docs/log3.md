@@ -40,6 +40,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+
+## 85. Rest Day
+### Day 85: March 15, 2024 - Friday
+
+**Project(s):**
+- Portfolio : N/A
+- Learning : N/A
+
+**Progress:**
+- Networked with [
+Ryan](https://twitter.com/ryandotfurrer)
+
+**Thoughts:**
+- I am taking a break.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc5MHQ5dHZ2M2ozYWpjY2k1bmM0Z3NzNzk5NDU0c202ZG85dXNzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdlcvptCs4qsM/giphy.gif)
+
+---
 ## 84. Learning : Berkna
 ### Day 84: March 14, 2024 - Thursday
 
@@ -57,6 +76,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9xd3hrZTd2MmpweGxuN2k1MW8xZWtrcng1cDhwZHRrZDNubnZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DYGbtrltNhHVX7xZTk/giphy.gif)
 
 ---
+
 ## 83. Tweaking Portfolio and Learning Garden
 ### Day 83: March 13, 2024 - Wednesday
 
