@@ -41,6 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 86. Building and Learning
+### Day 86: March 16, 2024 - Saturday
+
+**Project(s):**
+- Portfolio : Built out the navbar and wrote copy for the home page.
+- Learning : Working on the data flow for the Berkna
+
+**Progress:**
+- Portfolio : Wrote copy and updated navbar.
+- Berkna : Updated the data flow and figuring out how the calculator should work [ 1/3] .
+
+**Thoughts:**
+- With 20% of the year gone, I am understanding to better make use of my time and energy.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHMwNWF2dTB4NW9lbmNoMG5hdGJ4MnF5NjQ1dGNub2N4NWRreWh3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O0lPcTAguCYso/giphy.gif)
+
+---
+
 ## 85. Rest Day
 ### Day 85: March 15, 2024 - Friday
 
