@@ -46,7 +46,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Project(s):**
 - Portfolio : Tweaking, Explorations and Copy
-- Learning : Working on next talk
+- Learning : Working on next talk for Devnexus 2024
 
 **Progress:**
 - Portfolio : Wrote copy and updated navbar.
