@@ -41,6 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 87. Building
+### Day 87: March 17, 2024 - Sunday
+
+**Project(s):**
+- Portfolio :
+- Learning : Working on next talk
+
+**Progress:**
+- Portfolio : Wrote copy and updated navbar.
+- Talk: Copy and flow done... animation next.
+
+**Thoughts:**
+- Sharpen the blade 1st.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BqOTRlcHN3bmc1enVtMjZnNGhwYWxscTh6bXE2a3N6MXV3Zm9pYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDpgbGctTnxuw/giphy.gif)
+
+---
+
 ## 86. Building and Learning
 ### Day 86: March 16, 2024 - Saturday
 
