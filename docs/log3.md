@@ -45,7 +45,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 87: March 17, 2024 - Sunday
 
 **Project(s):**
-- Portfolio :
+- Portfolio : Tweaking, Explorations and Copy
 - Learning : Working on next talk
 
 **Progress:**
