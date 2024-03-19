@@ -40,6 +40,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 88. Berkna && Portfolio wrk
+### Day 87: March 18, 2024 - Monday
+
+**Project(s):**
+- Portfolio : Updated Build Outline
+- Learning : Review learning Mindset
+
+**Progress:**
+- Portfolio : Updated GH Issues List
+- Learning: Had a session with Brandon and we spoke about how learning should be framed.
+
+**Thoughts:**
+- Sharpen the blade 1st, oil it too.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3dmhydWN4ZnI0aGxlbGU2OXhkc3Nyd2V1emRmcW5iN2QyaWtwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kTRyKak4KrCcgyOxw/giphy-downsized.gif)
+
+---
 
 ## 87. Building
 ### Day 87: March 17, 2024 - Sunday
