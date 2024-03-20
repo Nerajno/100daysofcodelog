@@ -40,8 +40,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## 89. Portfolio Wrk
+### Day 89: March 19, 2024 - Tuesday
+
+**Project(s):**
+- Portfolio : Research
+- Learning : Review learning Mindset
+
+**Progress:**
+- Portfolio : Wrote copy, sketchs and worked on data flow.
+- Learning: Had a session at work and figured what needs learning and scoped it out.
+
+**Thoughts:**
+- Fix or build the foundation well.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVldGJmNnQ1b2gyM2lrdnl5M2VieXBpYTQxZ3g3MGwwM2F5aGRwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q0eh4TU8OMXRu/giphy-downsized.gif)
+
+---
+
 ## 88. Berkna && Portfolio wrk
-### Day 87: March 18, 2024 - Monday
+### Day 88: March 18, 2024 - Monday
 
 **Project(s):**
 - Portfolio : Updated Build Outline
