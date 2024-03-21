@@ -40,6 +40,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+
+## 90. Portfolio Wrk
+### Day 90: March 20, 2024 - Wednesday
+
+**Project(s):**
+- Portfolio : Wrote all the tickets for each components
+- Learning : Review learning materials and methods for @wrk and @self
+
+**Progress:**
+- Portfolio : Wrote and started to make tickets for portfolio. [1/2]
+- Learning: - Completed learning outline for the rest of the year.
+
+**Thoughts:**
+- Here we go.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Q0am9wNXVtZ2xpY284OWtnYnR4NHVmb3pkZnQ0MzU3Ym9sdXVnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yy6GhtIk8l76u8nlIF/giphy.gif)
+
+---
+
 ## 89. Portfolio Wrk
 ### Day 89: March 19, 2024 - Tuesday
 
