@@ -41,6 +41,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 91. Portfolio Wrk && Berkna
+### Day 91: March 21, 2024 - Thursday
+
+**Project(s):**
+- Portfolio : Wrote all the tickets for each components v2
+- Learning : Review learning materials and methods for @wrk and @self
+
+**Progress:**
+- Portfolio : Wrote and started to make tickets for portfolio. [Done]
+
+- Learning: Spent time with Brandon working on Ber-kna ... the logic is too complexed.
+            Speed running a MERN course with notes 1/[4-7]
+
+**Thoughts:**
+- Rest is needed.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ3cTc2dXRxNTB3M3g5dm9xOXp2YWQ0cDB1bGp5MzZjYmxveTg4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ozXTrqRgqFcly/giphy.gif)
+
+---
+
 ## 90. Portfolio Wrk
 ### Day 90: March 20, 2024 - Wednesday
 
