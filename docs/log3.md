@@ -41,6 +41,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 92. Portfolio Wrk && Study ~ JavaScript
+### Day 92: March 22, 2024 - Friday
+
+**Project(s):**
+- Portfolio : Nothing Done
+- Learning : JavaScript and Debugging
+
+**Progress:**
+- Portfolio : Wrote and started to make tickets for portfolio. [Done] ~ Nothing Done .... tired.
+
+- Learning: Speed running a MERN course with notes 2/[4-7] ~>
+
+**Thoughts:**
+- Growth as a learner and student is incremental. It requires patience, understanding of self, consistency and redefining one's personal systems.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR6ZzYyNmh5OGhyYXR4eDIzamwxY2Ftb2hiN2E2NHoyNWpoMHNwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHKOzZnHZyjkY/giphy-downsized.gif)
+
+---
+
 ## 91. Portfolio Wrk && Berkna
 ### Day 91: March 21, 2024 - Thursday
 
