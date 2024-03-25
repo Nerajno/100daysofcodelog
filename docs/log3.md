@@ -41,6 +41,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 93. Atlanta Cloud Conf && MERN Speed Run
+### Day 93: March 23, 2024 - Saturday
+
+**Project(s):**
+- Learning : ATL Cloud Conf Sessions
+- Learning : JavaScript ~> MERN Speed Run
+
+**Progress:**
+- Learning: Speed running a MERN course with notes 3/[4-7] ~> Solved the problem using Geps ( chatgpt) and queries.
+- Learning: Atl Cloud Conf Sessions => Building andd Deploying 3-tier Applications with AWS CDK, Harnessing Open Sourced LLMS on AWS
+  and Production - Ready Apps on AWS Simplified.
+
+**Thoughts:**
+- Cloud conf was good, needs a session or two of how to do something and the shilling may be annoying.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmllZW1nbjJ5cGI1eTJ4b3BpY3RndmdmY2kxa2tjM2cwNjNvYW51eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vwe1d7KbnY73nUexae/giphy-downsized-large.gif)
+
+---
+
 ## 92. Portfolio Wrk && Study ~ JavaScript
 ### Day 92: March 22, 2024 - Friday
 
