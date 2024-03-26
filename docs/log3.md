@@ -41,6 +41,45 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+
+## 95. Portfolio && MERN Speed Run
+### Day 94: March 24, 2024 - Sunday
+
+**Project(s):**
+- Building : Portfolio - Astro Portfolio Build
+- Learning : JavaScript ~> MERN Speed Run
+
+**Progress:**
+- Learning: Speed running a MERN course with notes 4/[4-7] - Api Done ... wtf .. tailwind
+- Building: Hero Section done ish ... need to address styling.
+
+**Thoughts:**
+- Pace energy with tasks, prioritizing what needs to be done.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NseXVjeTV2OG03NGtvM2pjd3ZrYjV1cXFpc3RncGFvcGlwMnI3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThtagbvV3FX2ItHXO/giphy.gif)
+
+---
+
+## 94. Portfolio && MERN Speed Run
+### Day 94: March 24, 2024 - Sunday
+
+**Project(s):**
+- Building : Portfolio - Astro Portfolio Build
+- Learning : JavaScript ~> MERN Speed Run
+
+**Progress:**
+- Learning: Speed running a MERN course with notes 3.5/[4-7] ~> Solved the problem using Geps ( chatgpt) and queries.
+- Building: Ideas keep popping up and I wonder if I will have sufficient time.
+
+**Thoughts:**
+- Learning to be be better in my consistency.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl4eDY0OGVjNWp1ZnI3ZnRyMm0wc2w5MmdiY2JmNGkxMzZvODZ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKGzC42QlXAnjijHa/giphy.gif)
+
+---
+
 ## 93. Atlanta Cloud Conf && MERN Speed Run
 ### Day 93: March 23, 2024 - Saturday
 
