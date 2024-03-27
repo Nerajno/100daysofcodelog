@@ -41,9 +41,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## Hiatus ~ One Day
+### March 26, 2024 - Tuesday
+
+**Notes**
+
+- Just needed to get some stuff done plus the work is working me
+
+---
 
 ## 95. Portfolio && MERN Speed Run
-### Day 94: March 24, 2024 - Sunday
+### Day 94: March 24, 2024 - Monday
 
 **Project(s):**
 - Building : Portfolio - Astro Portfolio Build
