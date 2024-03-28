@@ -40,13 +40,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
+## Hiatus ~ Day 2/2
+### March 27, 2024 - Wednesday
 
-## Hiatus ~ One Day
+**Notes**
+
+- Tired and took time re-connect and touch grass.
+
+---
+
+Hiatus ~ Day 1/2
 ### March 26, 2024 - Tuesday
 
 **Notes**
 
-- Just needed to get some stuff done plus the work is working me
+- Just needed to get some stuff done plus the work is working me.
 
 ---
 
