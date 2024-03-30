@@ -40,7 +40,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ---
-## Hiatus ~ Day 2/2
+
+## Hiatus ~ Day 4/4
+### March 29, 2024 - Friday
+
+**Notes**
+
+- Family came and I took the day.
+
+---
+
+## Hiatus ~ Day 3/4
+### March 28, 2024 - Thursday
+
+**Notes**
+
+- Still not there yet.
+
+---
+
+## Hiatus ~ Day 2/4
 ### March 27, 2024 - Wednesday
 
 **Notes**
@@ -49,7 +68,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-Hiatus ~ Day 1/2
+## Hiatus ~ Day 1/4
 ### March 26, 2024 - Tuesday
 
 **Notes**
