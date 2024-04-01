@@ -41,6 +41,31 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 96. Portfolio
+### Day 96: March 31, 2024 - Sunday
+
+**Project(s):**
+- Building : Portfolio - Astro Portfolio Build
+
+**Progress:**
+- Building: Hero Section done ish ... version 1 is done.
+
+**Thoughts:**
+- Needs to figure out icons, adaptive styling among other things.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFvb3Y5M2pvcWF1NjF6Z3U5NThwZWhmeWthZm44NTl3NG9xeHEzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mah9dFWo1WZX0WM62Q/giphy.gif)
+
+---
+
+## Hiatus ~ Day Bonus
+### March 30, 2024 - Saturday
+
+**Notes**
+
+- Family came and I took the day ... well another.
+
+---
 ## Hiatus ~ Day 4/4
 ### March 29, 2024 - Friday
 
