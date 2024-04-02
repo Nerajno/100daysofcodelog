@@ -41,6 +41,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 97. Portfolio && MERN SpeedRun
+### Day 97: April 1, 2024 - Monday
+
+**Project(s):**
+- Building : Portfolio - Astro Portfolio Build
+- Learning : MERN Learning Project
+
+**Progress:**
+- Building: Hero Section done and merged.
+- Learning: Fixed the bugs and got stuff done.
+
+**Thoughts:**
+- Here we go, a bit tired but here we go.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW44MzN5MDQ5NmNobmp0dWdtZGN5Y2duOW5jdmh6d3pqcXp0M2N0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5mp4MOtKcaFZa6jUGU/giphy.gif)
+
+---
+
 ## 96. Portfolio
 ### Day 96: March 31, 2024 - Sunday
 
