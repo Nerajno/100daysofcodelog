@@ -41,6 +41,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## Hiatus ~ Figuring out how to wrk with Family
+### April 2, 2024 - Tuesday
+
+**Notes**
+
+- Still not there yet.
+
+---
+
 ## 97. Portfolio && MERN SpeedRun
 ### Day 97: April 1, 2024 - Monday
 
