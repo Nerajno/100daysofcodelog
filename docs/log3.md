@@ -42,7 +42,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## Hiatus ~ Figuring out how to wrk with Family
-### April 2, 2024 - Tuesday
+### April 2- 3 , 2024 - Tuesday && Wednesday
 
 **Notes**
 
