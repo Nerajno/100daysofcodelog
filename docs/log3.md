@@ -37,8 +37,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Build out 1 side project (Vue based with auth, home page, profile edit, crud features).
 - [ ] Create WhatsApp projects page with a minimum number of 21 projects ( using [](https://codepen.io/FlorinPop17/full/VwYWMOa) as a model/ template.)
 
+
 # Code Log
 
+---
+
+## Re:Start ~ Doubled Down and  DevNexus
+### April 12, 2024 - Friday
+
+**Project(s):**
+- Learning : 50 in 50 Course
+
+**Progress:**
+- 50 in 50 Course : Set-Up and 1/2 Way  through the 1st exercise.
+
+**Thoughts:**
+- Almost done this 100 days and the lessons have been good. Devnexus was good
+and so was dinner. Met alot more people and networked.
+
+**Links/Memes:**
+![](https://x.com/toddlibby/status/1778577366480048517)
 ---
 
 ## Hiatus ~ Figuring out how to wrk with Family
