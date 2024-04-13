@@ -41,6 +41,604 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## Hiatus ~ Figuring out how to wrk with Family
+### April 3 , 2024 - Wednesday
+
+**Notes**
+
+- Still not there yet, having a case of the nerves.
+
+---
+
+## Hiatus ~ Figuring out how to wrk with Family
+### April 2 , 2024 - Tuesday && Wednesday
+
+**Notes**
+
+- Still not there yet.
+
+---
+
+## 97. Portfolio && MERN SpeedRun
+### Day 97: April 1, 2024 - Monday
+
+**Project(s):**
+- Building : Portfolio - Astro Portfolio Build
+- Learning : MERN Learning Project
+
+**Progress:**
+- Building: Hero Section done and merged.
+- Learning: Fixed the bugs and got stuff done.
+
+**Thoughts:**
+- Here we go, a bit tired but here we go.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW44MzN5MDQ5NmNobmp0dWdtZGN5Y2duOW5jdmh6d3pqcXp0M2N0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5mp4MOtKcaFZa6jUGU/giphy.gif)
+
+---
+
+## 96. Portfolio
+### Day 96: March 31, 2024 - Sunday
+
+**Project(s):**
+- Building : Portfolio - Astro Portfolio Build
+
+**Progress:**
+- Building: Hero Section done ish ... version 1 is done.
+
+**Thoughts:**
+- Needs to figure out icons, adaptive styling among other things.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFvb3Y5M2pvcWF1NjF6Z3U5NThwZWhmeWthZm44NTl3NG9xeHEzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mah9dFWo1WZX0WM62Q/giphy.gif)
+
+---
+
+## Hiatus ~ Day Bonus
+### March 30, 2024 - Saturday
+
+**Notes**
+
+- Family came and I took the day ... well another.
+
+---
+## Hiatus ~ Day 4/4
+### March 29, 2024 - Friday
+
+**Notes**
+
+- Family came and I took the day.
+
+---
+
+## Hiatus ~ Day 3/4
+### March 28, 2024 - Thursday
+
+**Notes**
+
+- Still not there yet.
+
+---
+
+## Hiatus ~ Day 2/4
+### March 27, 2024 - Wednesday
+
+**Notes**
+
+- Tired and took time re-connect and touch grass.
+
+---
+
+## Hiatus ~ Day 1/4
+### March 26, 2024 - Tuesday
+
+**Notes**
+
+- Just needed to get some stuff done plus the work is working me.
+
+---
+
+## 95. Portfolio && MERN Speed Run
+### Day 94: March 24, 2024 - Monday
+
+**Project(s):**
+- Building : Portfolio - Astro Portfolio Build
+- Learning : JavaScript ~> MERN Speed Run
+
+**Progress:**
+- Learning: Speed running a MERN course with notes 4/[4-7] - Api Done ... wtf .. tailwind
+- Building: Hero Section done ish ... need to address styling.
+
+**Thoughts:**
+- Pace energy with tasks, prioritizing what needs to be done.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NseXVjeTV2OG03NGtvM2pjd3ZrYjV1cXFpc3RncGFvcGlwMnI3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThtagbvV3FX2ItHXO/giphy.gif)
+
+---
+
+## 94. Portfolio && MERN Speed Run
+### Day 94: March 24, 2024 - Sunday
+
+**Project(s):**
+- Building : Portfolio - Astro Portfolio Build
+- Learning : JavaScript ~> MERN Speed Run
+
+**Progress:**
+- Learning: Speed running a MERN course with notes 3.5/[4-7] ~> Solved the problem using Geps ( chatgpt) and queries.
+- Building: Ideas keep popping up and I wonder if I will have sufficient time.
+
+**Thoughts:**
+- Learning to be be better in my consistency.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl4eDY0OGVjNWp1ZnI3ZnRyMm0wc2w5MmdiY2JmNGkxMzZvODZ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKGzC42QlXAnjijHa/giphy.gif)
+
+---
+
+## 93. Atlanta Cloud Conf && MERN Speed Run
+### Day 93: March 23, 2024 - Saturday
+
+**Project(s):**
+- Learning : ATL Cloud Conf Sessions
+- Learning : JavaScript ~> MERN Speed Run
+
+**Progress:**
+- Learning: Speed running a MERN course with notes 3/[4-7] ~> Solved the problem using Geps ( chatgpt) and queries.
+- Learning: Atl Cloud Conf Sessions => Building andd Deploying 3-tier Applications with AWS CDK, Harnessing Open Sourced LLMS on AWS
+  and Production - Ready Apps on AWS Simplified.
+
+**Thoughts:**
+- Cloud conf was good, needs a session or two of how to do something and the shilling may be annoying.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmllZW1nbjJ5cGI1eTJ4b3BpY3RndmdmY2kxa2tjM2cwNjNvYW51eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vwe1d7KbnY73nUexae/giphy-downsized-large.gif)
+
+---
+
+## 92. Portfolio Wrk && Study ~ JavaScript
+### Day 92: March 22, 2024 - Friday
+
+**Project(s):**
+- Portfolio : Nothing Done
+- Learning : JavaScript and Debugging
+
+**Progress:**
+- Portfolio : Wrote and started to make tickets for portfolio. [Done] ~ Nothing Done .... tired.
+
+- Learning: Speed running a MERN course with notes 2/[4-7] ~>
+
+**Thoughts:**
+- Growth as a learner and student is incremental. It requires patience, understanding of self, consistency and redefining one's personal systems.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR6ZzYyNmh5OGhyYXR4eDIzamwxY2Ftb2hiN2E2NHoyNWpoMHNwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHKOzZnHZyjkY/giphy-downsized.gif)
+
+---
+
+## 91. Portfolio Wrk && Berkna
+### Day 91: March 21, 2024 - Thursday
+
+**Project(s):**
+- Portfolio : Wrote all the tickets for each components v2
+- Learning : Review learning materials and methods for @wrk and @self
+
+**Progress:**
+- Portfolio : Wrote and started to make tickets for portfolio. [Done]
+
+- Learning: Spent time with Brandon working on Ber-kna ... the logic is too complexed.
+            Speed running a MERN course with notes 1/[4-7]
+
+**Thoughts:**
+- Rest is needed.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ3cTc2dXRxNTB3M3g5dm9xOXp2YWQ0cDB1bGp5MzZjYmxveTg4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ozXTrqRgqFcly/giphy.gif)
+
+---
+
+## 90. Portfolio Wrk
+### Day 90: March 20, 2024 - Wednesday
+
+**Project(s):**
+- Portfolio : Wrote all the tickets for each components
+- Learning : Review learning materials and methods for @wrk and @self
+
+**Progress:**
+- Portfolio : Wrote and started to make tickets for portfolio. [1/2]
+- Learning: - Completed learning outline for the rest of the year.
+
+**Thoughts:**
+- Here we go.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Q0am9wNXVtZ2xpY284OWtnYnR4NHVmb3pkZnQ0MzU3Ym9sdXVnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yy6GhtIk8l76u8nlIF/giphy.gif)
+
+---
+
+## 89. Portfolio Wrk
+### Day 89: March 19, 2024 - Tuesday
+
+**Project(s):**
+- Portfolio : Research
+- Learning : Review learning Mindset
+
+**Progress:**
+- Portfolio : Wrote copy, sketchs and worked on data flow.
+- Learning: Had a session at work and figured what needs learning and scoped it out.
+
+**Thoughts:**
+- Fix or build the foundation well.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVldGJmNnQ1b2gyM2lrdnl5M2VieXBpYTQxZ3g3MGwwM2F5aGRwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q0eh4TU8OMXRu/giphy-downsized.gif)
+
+---
+
+## 88. Berkna && Portfolio wrk
+### Day 88: March 18, 2024 - Monday
+
+**Project(s):**
+- Portfolio : Updated Build Outline
+- Learning : Review learning Mindset
+
+**Progress:**
+- Portfolio : Updated GH Issues List
+- Learning: Had a session with Brandon and we spoke about how learning should be framed.
+
+**Thoughts:**
+- Sharpen the blade 1st, oil it too.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3dmhydWN4ZnI0aGxlbGU2OXhkc3Nyd2V1emRmcW5iN2QyaWtwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kTRyKak4KrCcgyOxw/giphy-downsized.gif)
+
+---
+
+## 87. Building
+### Day 87: March 17, 2024 - Sunday
+
+**Project(s):**
+- Portfolio : Tweaking, Explorations and Copy
+- Learning : Working on next talk for Devnexus 2024
+
+**Progress:**
+- Portfolio : Wrote copy and updated navbar.
+- Talk: Copy and flow done... animation next.
+
+**Thoughts:**
+- Sharpen the blade 1st.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BqOTRlcHN3bmc1enVtMjZnNGhwYWxscTh6bXE2a3N6MXV3Zm9pYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDpgbGctTnxuw/giphy.gif)
+
+---
+
+## 86. Building and Learning
+### Day 86: March 16, 2024 - Saturday
+
+**Project(s):**
+- Portfolio : Built out the navbar and wrote copy for the home page.
+- Learning : Working on the data flow for the Berkna
+
+**Progress:**
+- Portfolio : Wrote copy and updated navbar.
+- Berkna : Updated the data flow and figuring out how the calculator should work [ 1/3] .
+
+**Thoughts:**
+- With 20% of the year gone, I am understanding to better make use of my time and energy.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHMwNWF2dTB4NW9lbmNoMG5hdGJ4MnF5NjQ1dGNub2N4NWRreWh3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O0lPcTAguCYso/giphy.gif)
+
+---
+
+## 85. Rest Day
+### Day 85: March 15, 2024 - Friday
+
+**Project(s):**
+- Portfolio : N/A
+- Learning : N/A
+
+**Progress:**
+- Networked with [
+Ryan](https://twitter.com/ryandotfurrer)
+
+**Thoughts:**
+- I am taking a break.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc5MHQ5dHZ2M2ozYWpjY2k1bmM0Z3NzNzk5NDU0c202ZG85dXNzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdlcvptCs4qsM/giphy.gif)
+
+---
+## 84. Learning : Berkna
+### Day 84: March 14, 2024 - Thursday
+
+**Project(s):**
+- Ber-kna
+- Tweaking Learning Garden
+
+**Progress:**
+- Learning Session ~ Breaking Down the Js learning/building process.
+
+**Thoughts:**
+- Still under development, I am tired but still going on.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9xd3hrZTd2MmpweGxuN2k1MW8xZWtrcng1cDhwZHRrZDNubnZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DYGbtrltNhHVX7xZTk/giphy.gif)
+
+---
+
+## 83. Tweaking Portfolio and Learning Garden
+### Day 83: March 13, 2024 - Wednesday
+
+**Project(s):**
+- Building Portfolio
+- Tweaking Learning Garden
+
+**Progress:**
+- Added some tweaks to the digital garden.
+- Fixed the navbar, footer and linked to the garden.
+
+**Thoughts:**
+- Growth takes disciple, discipline take practice, practice takes effort, effort takes time.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXd0YXU4bW1vYWUwbXhmbGN2MTljMWRieDMzczltb3VnZDVuYzdueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8H80IVPjAdKY8/giphy.gif)
+
+---
+
+## 82. Learning Garden
+### Day 82: March 12, 2024 - Tuesday
+
+**Project(s):**
+- Building Portfolio
+
+**Progress:**
+- Found the solution to the digital garden and [deployed](https://nerajnodigitalgarden.netlify.app).
+- Fixing the portfolio deployment ~ Still broken.
+
+**Thoughts:**
+- Sleep is important, very.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZuancxYzRwaXJtZjN3NnNxc2VqaWw3NHkyOTl6cXQ0YWZmeWI5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XjDsvyFpIhYA/giphy.gif)
+
+---
+
+## 81. Learning Garden and Fixing Portfolio
+### Day 80: March 11, 2024 - Monday
+
+**Project(s):**
+- Learning Garden
+- Fixing Portfolio
+
+**Progress:**
+- Found the solution to the digital garden and [deployed](https://nerajnodigitalgarden.netlify.app).
+- Fixing the portfolio deployment.
+
+**Thoughts:**
+- Sleep is important.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZuancxYzRwaXJtZjN3NnNxc2VqaWw3NHkyOTl6cXQ0YWZmeWI5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XjDsvyFpIhYA/giphy.gif)
+
+---
+
+## 80. Learning Garden
+### Day 80: March 10, 2024 - Sunday
+
+**Project(s):**
+- Learning Garden
+
+**Progress:**
+- Found the solution to the digital garden.
+
+**Thoughts:**
+- The ecosystem of ruby has a lot of influences from Shopify, its a little irritating.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp1dTQ3emZhemZ1dTZxeGNkMmI1Y3gzcGp5a2FvemI3anRmeHJwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLWwOuPbqObupogOLB/giphy-downsized.gif)
+
+---
+
+## 79. Berkna and Discussions. ??
+### Day 79: March 9, 2024 - Saturday
+
+**Project(s):**
+- Berkna ~ Got it reviewed and decomposing the project.
+- Portfolio build
+
+**Progress:**
+- Trying new tooling and ideas.
+- Astro to the world.
+
+**Thoughts:**
+- Back to the basics.
+- Fundamentals and a bit tiring.
+
+**Links/Memes:**
+Coming back still.
+
+---
+
+## 78. Berkna and Discussions. ???
+### Day 78: March 8, 2024 - Friday
+
+**Project(s):**
+- Berkna ~ Got it reviewed and decomposing the project.
+- Getting advice from a senior ................
+
+**Progress:**
+- Trying new tooling and ideas.
+
+**Thoughts:**
+- Back to the basics.
+
+**Links/Memes:**
+Coming back still.
+
+---
+
+## 77. Berkna and Discussions.
+### Day 77: March 7 , 2024 - Thursday
+
+**Project(s):**
+- Berkna ~ Got it reviewed and decomposing the project.
+- Getting advice from a senior ................
+
+**Progress:**
+- Trying new tooling and ideas.
+
+**Thoughts:**
+- Back to the basics.
+
+**Links/Memes:**
+Coming back still.
+
+---
+
+## 76. Berkna
+### Day 76: March 6, 2024 - Wednesday
+
+**Project(s):**
+- Berkna ~ Still at it.
+
+**Progress:**
+- Trying new tooling.
+
+**Thoughts:**
+- Tired.
+
+**Links/Memes:**
+Coming back
+
+---
+
+## 75. Berkna
+### Day 75: March 5, 2024 - Tuesday
+
+**Project(s):**
+- Berkna ~ Still at it.
+
+**Progress:**
+- Trying new tooling.
+
+**Thoughts:**
+- Tired.
+
+**Links/Memes:**
+Coming back
+
+---
+
+## 74. Portfolio Update
+### Day 74: March 4, 2024 - Monday
+
+**Project(s):**
+- Created all main outline for the portfolio
+
+**Progress:**
+- Only have the components to map,
+
+**Thoughts:**
+- Not sure how to phrase this
+
+**Links/Memes:**
+Coming back
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxybHpta3ZneHhxZGVmbXQ0cWR5bjM4Z2RuejRnOWN4b3V1dmQzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LdOzXItdgEfKOh7T9c/giphy-downsized.gif)
+
+---
+
+## 73. Berkna && FCC - Speed Run
+### Day 73: March 3, 2024 - Sunday
+
+**Project:**
+- Berkna - Weekend project
+- FreeCodeCamp - Speed Run of JavaScript
+
+**Progress:**
+- Speed Run : Stuck ....
+- Berkna ~ Still MFKING Stuck
+
+**Thoughts:**
+- Tired
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FvNmc2YW8yeGJvNXBwZ2l6M3VmZnp5bGNidjF0enJtc254YmxtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif)
+
+---
+
+## 72. Tired
+### Day 72: March 2, 2024 - Saturday
+
+**Project:**
+- Rested : Slept in All Day
+**Progress:**
+- Speed Run : Paused
+- Berkna ~ Paused.
+
+**Thoughts:**
+- I run myself tired as I never timeboxed and spent time to be more efficent and focused with it.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlheGk2YXA1eHhjemIwMmo5YnF3cnN4a3oxa2Vpd29yNm00ZW1pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jeCSe7Qqc7NwKUzxH7/giphy-downsized.gif)
+
+---
+
+## 71. freeCodeCamp JavaScript && Berkna
+### Day 71: March 1, 2024 - Friday
+
+**Project:**
+- Freecodecamp JavaScript speed run : still at it
+- Berkna : got 1 more test to pass
+**Progress:**
+- Speed Run : Still at it and took a lil of time understand it more.
+- Berkna ~ I got one more test to pass.
+
+**Thoughts:**
+- I need to understand to to better a proper investment on the the time I am given.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3I2NzVqc3Q4bTAwams2czN2MjRhdXdpMXM3OWg2MTEyYWpiMWV5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2jZDLR8DmoXA56jMtd/giphy.gif)
+
+---
+
+## 70. freeCodeCamp JavaScript && IsNerandoDoneYet
+### Day 70: Feb 29, 2024 - Thursday
+
+**Project:**
+- Freecodecamp JavaScript speed run : still at it
+- IsNerandoDoneyet : Framing or brainstorming for 5 years
+**Progress:**
+- Speed Run : Still at it.
+- IsNerandoDoneyet : Sketches made and updloaded.
+
+**Thoughts:**
+- Return a proper investment on the the time you were given.
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o5NjNlejJoa3M5ZWZmNXBnNG5ncjNjM2FxODNwaTJ2amU3eTA4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0qHEWMQ3ZqdsvUeRpm/giphy.gif)
+
+---
+
+## 69. freeCodeCamp Java && Berkna
+### Day 69: Feb 28, 2024 - Wednesday
+
+**Project:**
+- Freecodecamp JavaScript speed run.
+- Berkna - Still stuck but asked for help.
+
+**Progress:**
+- Speed Run : Still at it.
+
+**Thoughts:**
+- Meh - I am getting better at being consistent with logging code here, I also need to
+
+**Links/Memes:**
+- ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdmc2dsOG41MGJjYzRkNTZtNmd1bmE5OTZmeXRodWV2MWYyc3lhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6IkjQmpaRwIabJ2G3C/giphy.gif)
+
+---
 
 ## 68. freeCodeCamp && Berkna
 ### Day 68: Feb 27, 2024 - Tuesday
