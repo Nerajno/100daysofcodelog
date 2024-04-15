@@ -42,6 +42,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 98. 50 Projects-in-50 Days && Portfolio Work
+### Day 98: April 14, 2024 - Sunday
+
+**Project(s):**
+- Learning: 50 Projects-in-50 Days : Day 1 - 1.5
+- Building: Portfolio ~> Link Navbar to Digital Garden
+
+**Progress:**
+- Learning: Running Through 50 Projects-in-50 ~> Making notes and reviewing concepts learnt.
+- Building: Linked the Portfolio's Navbar to Digital Garden.
+
+**Thoughts:**
+- Rested and rearing to go.... and making progress.
+
+**Links/Memes:**
+Links woun't works as things will change.
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHk4dzY0bXBpY2dsd296bWpjOHRyYndsamR2emx0NDg2MzdpeHRqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SIAC5my3N0izLlf3Au/giphy.gif)
+
+---
+
 ## Re:Start ~ Doubled Down and  DevNexus
 ### April 12, 2024 - Friday
 
