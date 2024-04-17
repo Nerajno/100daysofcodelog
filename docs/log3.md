@@ -42,6 +42,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 99. 50 Projects-in-50 Days && Portfolio Work
+### Day 99: April 16, 2024 - Tuesday
+
+**Project(s):**
+- Learning: 50 Projects-in-50 Days : Day 1.5 - 2.5
+- Building: Portfolio ~>
+
+**Progress:**
+- Learning: Running Through 50 Projects-in-50 : Day ~> Making notes and reviewing concepts learnt.
+- Building: 
+
+**Thoughts:**
+- Code Gym ... that is where we are.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2R2OXEwYW9sb2JjMnFlMTltNGljbTF3aG56MGU1c2dnYTgxYzQweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSSGX7IHcqlDYwVYsH/giphy.gif)
+
+---
+
+
+## False Start ~ Never got to the Log
+### April 15, 2024 - Monday
+
+**Notes**
+
+- Too much went on.
+
+---
+
 ## 98. 50 Projects-in-50 Days && Portfolio Work
 ### Day 98: April 14, 2024 - Sunday
 
