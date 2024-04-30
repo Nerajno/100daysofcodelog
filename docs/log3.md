@@ -42,16 +42,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+## 100. 50 Projects-in-50 Days && Portfolio Work
+### Day 100: April 29, 2024 - Monday
+
+**Project(s):**
+- Learning: 50 Projects-in-50 Days ~> Scroll Animation
+- Building: Portfolio ~> Updating Hero Section
+
+**Progress:**
+- Learning: Running Through 50 Projects-in-50 : Day 7 ~> Making notes and reviewing concepts learnt.
+- Building: Updating Hero Section and adding/refactoring the characteristics section.
+
+**Thoughts:**
+- Code Gym ... process and small progress for today.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJsZmc2ejc3YW0yc2oyM240ajgyNG9ucGVsM2Rmd3AydDJpa3FkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIeryhU0nrgHmJVAuJ/giphy.gif)
+
+---
+
 ## 99. 50 Projects-in-50 Days && Portfolio Work
 ### Day 99: April 16, 2024 - Tuesday
 
 **Project(s):**
 - Learning: 50 Projects-in-50 Days : Day 1.5 - 2.5
-- Building: Portfolio ~>
+- Building: Portfolio ~> Logos
 
 **Progress:**
 - Learning: Running Through 50 Projects-in-50 : Day ~> Making notes and reviewing concepts learnt.
-- Building: 
+- Building: Fixed the Logos on the Portfolio
 
 **Thoughts:**
 - Code Gym ... that is where we are.
