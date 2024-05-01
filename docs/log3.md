@@ -42,24 +42,45 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## 100. 50 Projects-in-50 Days && Portfolio Work
-### Day 100: April 29, 2024 - Monday
+## 100. 50 Projects-in-50 Days && Vue Mastery
+### Day 100: April 30, 2024 - Tuesday
 
 **Project(s):**
-- Learning: 50 Projects-in-50 Days ~> Scroll Animation
-- Building: Portfolio ~> Updating Hero Section
+- Learning: 50 Projects-in-50 Days ~> Split Landing Page &&  Vue Mastery ~> Testing Components
+- Building: N/A
 
 **Progress:**
-- Learning: Running Through 50 Projects-in-50 : Day 7 ~> Making notes and reviewing concepts learnt.
-- Building: Updating Hero Section and adding/refactoring the characteristics section.
+- Learning: Running Through 50 Projects-in-50 : Split Landing page ~> Making notes and reviewing concepts learnt.
+            Vue Mastery: Quick Tests with Vitest : Testing Components ~> Making Notes and reviewing concepts learnt.
+
+- Building: N/A
 
 **Thoughts:**
-- Code Gym ... process and small progress for today.
+- Learning is content, pattern recognition, application and distilling.
 
 **Links/Memes:**
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJsZmc2ejc3YW0yc2oyM240ajgyNG9ucGVsM2Rmd3AydDJpa3FkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIeryhU0nrgHmJVAuJ/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZjcHRnbnptMTBib3dpaHVoOXd5Z3o4c2huaDBta3BvbGR0cTBhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QGZBpodY7Kdtw99y04/giphy.gif)
 
 ---
+## 100. 50 Projects-in-50 Days && Portfolio Work
+### Day 99: April 16, 2024 - Tuesday
+
+**Project(s):**
+- Learning: 50 Projects-in-50 Days : Day 1.5 - 2.5
+- Building: Portfolio ~> Logos
+
+**Progress:**
+- Learning: Running Through 50 Projects-in-50 : Day ~> Making notes and reviewing concepts learnt.
+- Building: Fixed the Logos on the Portfolio
+
+**Thoughts:**
+- Code Gym ... that is where we are.
+
+**Links/Memes:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2R2OXEwYW9sb2JjMnFlMTltNGljbTF3aG56MGU1c2dnYTgxYzQweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSSGX7IHcqlDYwVYsH/giphy.gif)
+
+---
+
 
 ## 99. 50 Projects-in-50 Days && Portfolio Work
 ### Day 99: April 16, 2024 - Tuesday
