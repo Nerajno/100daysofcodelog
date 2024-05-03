@@ -10,9 +10,9 @@ description: by Nerajno
 # 100 Days of Code
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
-| Log 0 | Log 1 | Log 2 | Log 3 | Log Example |
+| Log 0 | Log 1 | Log 2 | Log 3 | Log 4 | Log Example |
 | --- | --- | --- | --- | --- |
-| [Log 0](log0.md) | this log | [Log 2](log2.md) | [Log 3](log3.md) |  [100 Days Round - Example](log8.html) |
+| [Log 0](log0.md) | this log | [Log 2](log2.md) | [Log 3](log3.md) |  [Log 4](log4.md) | [100 Days Round - Example](log8.html) |
 
 ## Challenge & Commitment
 This self imposed challenge is using Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge as template.More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com"). The aim is to hold myself accountable, thus, putting in the work to  grow as software professional.

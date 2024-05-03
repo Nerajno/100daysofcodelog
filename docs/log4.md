@@ -1,5 +1,5 @@
 <!-- ---
-title: 100 Days of Code - Round 7
+title: 100 Days of Code - Round 4
 description: by Nerajno
 #pg_bk_color: '#e6e8de'
 #header_bk_color: '#1a7f6d'
@@ -10,9 +10,9 @@ description: by Nerajno
 # 100 Days of Code
 <p class="toc"><a href="./index.html">&lt;– back to Table of Contents</a></p>
 
-| Log 0 | Log 1 | Log 2 | Log 3 | Log Example |
+| Log 0 | Log 1 | Log 2 | Log 3 | Log 4 | Log Example |
 | --- | --- | --- | --- | --- |
-| [Log 0](log0.md) | [Log 1](log1.md) | [Log 2](log2.md) | this log |  [100 Days Round - Example](log8.html) |
+| [Log 0](log0.md) | [Log 1](log1.md) | [Log 2](log2.md) |  | this log |  [100 Days Round - Example](log8.html) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -40,7 +40,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Rebuild Portfolio
 - [ ] Vue3 Beginner Project
 - [ ] Learning Garden
-
 
 
 # Code Log
