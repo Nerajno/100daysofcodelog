@@ -14,5 +14,6 @@ Below are my code logs for each round of this challenge.
 | [Round 0](log0.html) | Nov 6, 2022  | Feb 12, 2023  | Made it to Day 70~ish |
 | [Round 1](log1.html) | Feb 27, 2023  | July 14, 2023  | Made it to 37ish days |
 | [Round 2](log2.html) | Sept 10, 2023  | Dec 19, 2023  | Completed ~ Try Again |
-| [Round 3](log3.html) | Dec 20, 2023  | Mar 28, 2024  | Ongoing // Going Again |
+| [Round 3](log3.html) | Dec 20, 2023  | Mar 28, 2024  | Completed ~ Ran completely for 80ish days |
+| [Round 4](log4.html) | May 3, 2024 | August 12, 2024 | Current Progress |
 
