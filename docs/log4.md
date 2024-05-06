@@ -21,7 +21,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| May 3, 2024 | August 12, 2024 |
+| May 6, 2024 | August 12, 2024 |
 
 ## Primary Goals
 - [ ] Write Code for an hour daily( building ).
