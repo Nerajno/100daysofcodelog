@@ -45,6 +45,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 1. Portfolio
+### Day 1 : Monday - May 6, 2024
+
+**Project:** Portfolio : Writing Copy
+
+**Progress:** Started to create the copy ... need more time to tinker and get it all done.
+
+**Links/Meme:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21iZnBhNDlzeDFqcnF1c3dmNm9qYWM3MnBsbGIwOWN0cHJoaW9lciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OxSA2yypkVASoAmYhW/giphy.gif)
+
+---
 
 ## 0. Day Zero
 ### Day 0 : Date - May 2, 2024
@@ -78,3 +89,19 @@ This repo is redesigned so that it can be forked and cloned for others to use. I
 **Links:** My GitHub repo [https://github.com/james-priest/100-days-log](https://github.com/james-priest/100-days-log)
 
 ---
+
+<!-- ## 0. Blog Retrofit && Vue Mastery
+#### Day 0: December 20, 2023 - Wednesday
+
+**Project:**
+Learning and Building
+
+**Progress:**
+- Vue Mastery : Working through lesson 3ish of Real World Vue (Composition API).
+- Revamping or Retrofiting the Alpine nuxt template to serve a self-hosted blog.
+
+**Thoughts:**
+- Process ensures progress.
+
+**Links/Memes:**
+![Just Saying](https://youtu.be/dQw4w9WgXcQ?si=7oy9s9NNAB0-9Y1g) -->
