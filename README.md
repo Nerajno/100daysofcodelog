@@ -4,14 +4,14 @@
 This repo is being used to track my progress for  the 100 Days of Code Challenge ([https://100daysofcode.com](https://100daysofcode.com)) following Alexander Kallaway's examples.
 This repo also uses the format of James Priest's ([repo](https://github.com/james-priest/100-days-log)) to format this log, follow the instructions on his ReadMe if you want to use this format.
 
-#### Todo {Current Round => [Dec 20, 2023 to Mar 28, 2024](https://nerajno.github.io/100DaysOfCodeLog/log3.html) }
+#### Todo {Current Round => [ June 24, 2024 to October 02, 2024 ](https://nerajno.github.io/100DaysOfCodeLog/log4.html) }
 - [ ] Update Readme to standardize version.
 - [ ] Implement personal branding and improve storytelling for the whole log.
 - [x] Brainstorm this version and update accordingly.
 
 
 ## Current Mental Status
-[![Groot looking ](https://media.giphy.com/media/B9XXtlIKF8wec/giphy.gif)](https://media.giphy.com/media/B9XXtlIKF8wec/giphy.gif)
+[![ Other stuff ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczAzNmEyMTRtOGtjd2l3NTh3aTA3c3JpaXo4Mml5bnR3YXU1eWdpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oC9V7U5mWbUixtyA21/giphy.gif)](https://media.giphy.com/media/B9XXtlIKF8wec/giphy.gif)
 
 #### Embedding Images in Log
 

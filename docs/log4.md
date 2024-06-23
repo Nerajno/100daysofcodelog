@@ -46,7 +46,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Portfolio
-### Day 1 : Monday - May 6, 2024
+### Day 1 : Monday - , 2024
 
 **Project:** Portfolio : Writing Copy
 
@@ -58,7 +58,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 0. Day Zero
-### Day 0 : Date - May 2, 2024
+### Day 0 : Sunday - June 23, 2024
 
 **Project:** Code Log Round 5 - Creation of Goals
 
