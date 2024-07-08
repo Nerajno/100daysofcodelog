@@ -45,6 +45,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 2. CS50 - Week 1 && 50-in-50
+### Day 2 : Sunday - July 7, 2024
+
+**Project:** CS50 - Week 1 : Exercises
+             50-in-50 - Day 19: Themed Clock
+
+**Progress:** Completed exercises 1-3 for CS50 python.
+              50-in-50 ~ Almost completed the thememd clock exercise.
+
+**Links/Meme:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21iZnBhNDlzeDFqcnF1c3dmNm9qYWM3MnBsbGIwOWN0cHJoaW9lciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OxSA2yypkVASoAmYhW/giphy.gif)
+
+---
+
+## 0. Day Zero
+### Day 0 : Sunday - June 23, 2024
+
+**Project:** Code Log Round 5 - Creation of Goals
+
+**Progress:** Completed Outling Goal for the Next 100 Days.
+
+**Links/Meme:**
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWwyd3g0OTkxZjA0d3FlaGw0czRlajk2eTc1dnBnOG5mdG52aWY5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/603cLZVdYomSgIBhB0.gif)
+
+---
+
 ## 1. Portfolio
 ### Day 1 : Monday - , 2024
 
